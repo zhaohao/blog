@@ -6,8 +6,8 @@ categories:
   - "weblog"
 ---
 
-[![wpid-wp-1409392962457.jpeg](/images/wpid-wp-1409392962457.jpeg](/images/wpid-wp-1409392962457.jpeg)  
+![wpid-wp-1409392962457.jpeg](/images/wpid-wp-1409392962457.jpeg)  
   
-[![wpid-wp-1409392952463.jpeg](/images/wpid-wp-1409392952463.jpeg](/images/wpid-wp-1409392952463.jpeg)
+![wpid-wp-1409392952463.jpeg](/images/wpid-wp-1409392952463.jpeg)
 
 stardust@live.com

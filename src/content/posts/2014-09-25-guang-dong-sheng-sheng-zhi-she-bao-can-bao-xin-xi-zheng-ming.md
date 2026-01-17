@@ -6,7 +6,7 @@ categories:
   - "weblog"
 ---
 
-[![prove](/images/prove.jpg](/images/prove.jpg)  
+![prove](/images/prove.jpg)  
 登录 广东省社会保险基金管理局 【[http://www.gdsi.gov.cn/](http://www.gdsi.gov.cn/ "广东省社会保险基金管理局")】  
   
 点击左侧导航栏 【**个人社保服务**】  

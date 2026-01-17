@@ -6,7 +6,7 @@ categories:
   - "weblog"
 ---
 
-[![moonlight](/images/Nikon-20140712-DSC_3320.jpg](/images/Nikon-20140712-DSC_3320.jpg)   [![moonlight](/images/Nikon-20140712-DSC_3323.jpg](/images/Nikon-20140712-DSC_3323.jpg)  
+![moonlight](/images/Nikon-20140712-DSC_3320.jpg)   ![moonlight](/images/Nikon-20140712-DSC_3323.jpg)  
   
 月光皎洁，似白天一般明亮。月光下的夜晚，别有一番感慨……
 

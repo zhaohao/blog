@@ -7,6 +7,6 @@ categories:
 ---
 
 白色点阵LED显示，每个数字字符是4x7个LED点。  
-[![SIMG-2015-08-03 22-57-23](/images/SIMG-2015-08-03-22-57-23.jpg](/images/SIMG-2015-08-03-22-57-23.jpg)
+![SIMG-2015-08-03 22-57-23](/images/SIMG-2015-08-03-22-57-23.jpg)
 
 stardust@live.com

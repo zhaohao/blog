@@ -8,6 +8,6 @@ categories:
 
 虞美人开花。  
   
-[![Nikon 2015-02-17 12-27-37](/images/Nikon-2015-02-17-12-27-37.jpg](/images/Nikon-2015-02-17-12-27-37.jpg)
+![Nikon 2015-02-17 12-27-37](/images/Nikon-2015-02-17-12-27-37.jpg)
 
 stardust@live.com

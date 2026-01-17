@@ -12,8 +12,8 @@ categories:
 隐约雷鸣 阴霾天空 但盼风雨来 能留你在此  
 隐约雷鸣 阴霾天空 即使天无雨 我亦留此地  
   
-[![----01](/images/01.jpg](/images/01.jpg)  
+![----01](/images/01.jpg)  
   
-[![----02](/images/02.jpg](/images/02.jpg)
+![----02](/images/02.jpg)
 
 stardust@live.com

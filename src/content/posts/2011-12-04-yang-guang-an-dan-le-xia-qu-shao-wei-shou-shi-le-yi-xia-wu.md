@@ -7,12 +7,12 @@ categories:
 ---
 
 再传些阳光还明亮时的照片……  
-[![tumblr_lvm8g0riti1qktd12o3_1280](/images/tumblr_lvm8g0riti1qktd12o3_12801.jpg](/images/tumblr_lvm8g0riti1qktd12o3_12801.jpg)  
+![tumblr_lvm8g0riti1qktd12o3_1280](/images/tumblr_lvm8g0riti1qktd12o3_12801.jpg)  
   
-[![tumblr_lvo7mhiwz31qktd12o1_r1_1280](/images/tumblr_lvo7mhiwz31qktd12o1_r1_1280.jpg](/images/tumblr_lvo7mhiwz31qktd12o1_r1_1280.jpg)  
+![tumblr_lvo7mhiwz31qktd12o1_r1_1280](/images/tumblr_lvo7mhiwz31qktd12o1_r1_1280.jpg)  
   
-[![tumblr_lvo7mhiwz31qktd12o3_1280](/images/tumblr_lvo7mhiwz31qktd12o3_1280.jpg](/images/tumblr_lvo7mhiwz31qktd12o3_1280.jpg)  
+![tumblr_lvo7mhiwz31qktd12o3_1280](/images/tumblr_lvo7mhiwz31qktd12o3_1280.jpg)  
   
-[![tumblr_lvo7mhiwz31qktd12o4_1280](/images/tumblr_lvo7mhiwz31qktd12o4_1280.jpg](/images/tumblr_lvo7mhiwz31qktd12o4_1280.jpg)
+![tumblr_lvo7mhiwz31qktd12o4_1280](/images/tumblr_lvo7mhiwz31qktd12o4_1280.jpg)
 
 stardust@live.com

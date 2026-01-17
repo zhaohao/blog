@@ -6,6 +6,6 @@ categories:
   - "weblog"
 ---
 
-[![20140817_121355_Android](/images/20140817_121355_Android.jpg](/images/20140817_121355_Android.jpg)
+![20140817_121355_Android](/images/20140817_121355_Android.jpg)
 
 stardust@live.com

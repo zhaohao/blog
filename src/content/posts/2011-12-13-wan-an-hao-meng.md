@@ -7,6 +7,6 @@ categories:
 ---
 
 晚安，好梦！  
-[![tumblr_lw5dn16nw21qktd12o1_400](/images/tumblr_lw5dn16nw21qktd12o1_400.jpg](/images/tumblr_lw5dn16nw21qktd12o1_400.jpg)
+![tumblr_lw5dn16nw21qktd12o1_400](/images/tumblr_lw5dn16nw21qktd12o1_400.jpg)
 
 stardust@live.com

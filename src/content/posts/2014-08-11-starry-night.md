@@ -6,7 +6,7 @@ categories:
   - "weblog"
 ---
 
-[![StarryNight](/images/StarryNight-1080.jpg](/images/StarryNight-1080.jpg)  
+![StarryNight](/images/StarryNight-1080.jpg)  
   
 Starry Night
 

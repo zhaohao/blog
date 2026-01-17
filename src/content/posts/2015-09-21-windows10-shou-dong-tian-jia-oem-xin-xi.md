@@ -6,7 +6,7 @@ categories:
   - "weblog"
 ---
 
-[![oemlogo256px](/images/oemlogo256px.png](/images/oemlogo256px.png)  
+![oemlogo256px](/images/oemlogo256px.png)  
   
 
 ```
@@ -15,6 +15,6 @@ categories:
 
   
   
-[![2015-09-21-sysinfo](/images/2015-09-21-sysinfo.png](/images/2015-09-21-sysinfo.png)
+![2015-09-21-sysinfo](/images/2015-09-21-sysinfo.png)
 
 stardust@live.com

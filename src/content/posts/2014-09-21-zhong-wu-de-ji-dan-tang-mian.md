@@ -6,6 +6,6 @@ categories:
   - "weblog"
 ---
 
-[![IMG_20140921_142623](/images/IMG_20140921_142623.jpg](/images/IMG_20140921_142623.jpg) [![IMG_20140921_142443](/images/IMG_20140921_142443.jpg](/images/IMG_20140921_142443.jpg)
+![IMG_20140921_142623](/images/IMG_20140921_142623.jpg) ![IMG_20140921_142443](/images/IMG_20140921_142443.jpg)
 
 stardust@live.com

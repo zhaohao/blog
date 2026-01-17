@@ -6,6 +6,6 @@ categories:
   - "weblog"
 ---
 
-[![The-Road-Less-Traveled](/images/The-Road-Less-Traveled.jpg](/images/The-Road-Less-Traveled.jpg)
+![The-Road-Less-Traveled](/images/The-Road-Less-Traveled.jpg)
 
 stardust@live.com

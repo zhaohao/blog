@@ -8,6 +8,6 @@ categories:
 ---
 
 天凉了，Zoe穿上了厚衣服。  
-[![DSC_20141113-ZOE](/images/DSC_20141113-ZOE.jpg](/images/DSC_20141113-ZOE.jpg)
+![DSC_20141113-ZOE](/images/DSC_20141113-ZOE.jpg)
 
 stardust@live.com

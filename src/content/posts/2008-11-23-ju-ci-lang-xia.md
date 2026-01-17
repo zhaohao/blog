@@ -6,7 +6,7 @@ categories:
   - "weblog"
 ---
 
-[![Kikujiro05-758668](/images/Kikujiro05-758668.jpg](/images/Kikujiro05-758668.jpg)  
+![Kikujiro05-758668](/images/Kikujiro05-758668.jpg)  
   
 Posted on 2008-11-23 22:02
 

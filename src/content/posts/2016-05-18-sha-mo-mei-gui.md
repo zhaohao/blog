@@ -7,6 +7,6 @@ categories:
 ---
 
 几年的沙玫终于第一次鼓起了花苞。  
-[![IMG_20160504_164817](/images/IMG_20160504_164817.jpg](/images/IMG_20160504_164817.jpg)
+![IMG_20160504_164817](/images/IMG_20160504_164817.jpg)
 
 stardust@live.com

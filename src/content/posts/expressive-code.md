@@ -261,7 +261,7 @@ function getLongString() {
 import { someBoilerplateEngine } from '@example/some-boilerplate'
 import { evenMoreBoilerplate } from '@example/even-more-boilerplate'
 
-const engine = someBoilerplateEngine(evenMoreBoilerplate())
+const engine = someBoilerplateEngine(evenMoreBoilerplate()
 
 // This part of the code will be visible by default
 engine.doSomething(1, 2, 3, calcFn)

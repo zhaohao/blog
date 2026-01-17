@@ -6,7 +6,7 @@ categories:
   - "weblog"
 ---
 
-[![gate](/images/gate.jpg](/images/gate.jpg)  
+![gate](/images/gate.jpg)  
   
 外面的世界很精彩，这里的世界很无奈……  
   
