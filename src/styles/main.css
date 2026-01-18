@@ -140,6 +140,17 @@
     height: var(--collapsedHeight);
 }
 
+.tk-footer {
+    display: none;
+}
+
+ .tk-comments {
+    background: var(--card-bg);
+    padding: 20px;
+    border-radius: 1rem;
+    margin-bottom: 30px;
+}
+
 .custom-md spoiler {
   @apply bg-[var(--codeblock-bg)] hover:bg-transparent px-1 py-0.5 overflow-hidden rounded-md transition-all duration-150;
 
