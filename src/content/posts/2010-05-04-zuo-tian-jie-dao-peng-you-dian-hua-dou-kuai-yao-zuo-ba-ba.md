@@ -1,11 +1,15 @@
 ---
 title: "昨天接到朋友电话，都快要做爸爸了，祝福"
-draft: false 
-published: 2010-05-04
-categories: 
-  - "weblog"
+Date: 2010-05-04T11:50:00.000Z
+pubDatetime: 2010-05-04T11:50:00.000Z
+published: 2010-05-04T11:50:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "zuo-tian-jie-dao-peng-you-dian-hua-dou-kuai-yao-zuo-ba-ba"
+draft: false
 ---
-
   
 
   

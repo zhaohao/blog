@@ -1,11 +1,15 @@
 ---
 title: "广州难得一遇的连续冷天"
-draft: false 
-published: 2008-02-02
-categories: 
-  - "weblog"
+Date: 2008-02-02T12:57:00.000Z
+pubDatetime: 2008-02-02T12:57:00.000Z
+published: 2008-02-02T12:57:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "guang-zhou-nan-de-yi-yu-de-lian-xu-leng-tian"
+draft: false
 ---
-
 冷了好久了，外面在下着小雨。  
   
 爸妈已经来广州几天了，可我仍然没有时间过去那边，忘记去年一个人过年的感觉了，只是肯定没有觉得冷过。  

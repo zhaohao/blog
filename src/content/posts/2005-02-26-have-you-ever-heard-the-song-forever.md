@@ -1,11 +1,15 @@
 ---
 title: "Have you ever heard the song Forever?"
-draft: false 
-published: 2005-02-26
-categories: 
-  - "weblog"
+Date: 2005-02-26T15:05:00.000Z
+pubDatetime: 2005-02-26T15:05:00.000Z
+published: 2005-02-26T15:05:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "have-you-ever-heard-the-song-forever"
+draft: false
 ---
-
 Every time I hear its simple words,my mind will fly to another world,a world full of stardust :  
   
 I stand alone in the darkness  

@@ -1,11 +1,15 @@
 ---
 title: "一年很快过去"
-draft: false 
-published: 2008-05-17
-categories: 
-  - "weblog"
+Date: 2008-05-17T21:53:00.000Z
+pubDatetime: 2008-05-17T21:53:00.000Z
+published: 2008-05-17T21:53:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "yi-nian-hen-kuai-guo-qu"
+draft: false
 ---
-
 六月的天 浮躁遍及幽深的校道  
   
 伤感的人 穿着忧伤和校园合照  

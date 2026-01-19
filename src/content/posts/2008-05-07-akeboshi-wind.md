@@ -1,11 +1,15 @@
 ---
 title: "Akeboshi-Wind"
-draft: false 
-published: 2008-05-07
-categories: 
-  - "weblog"
+Date: 2008-05-07T21:54:00.000Z
+pubDatetime: 2008-05-07T21:54:00.000Z
+published: 2008-05-07T21:54:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "akeboshi-wind"
+draft: false
 ---
-
 naruto  
   
 cultivate your hunger before you idealize  

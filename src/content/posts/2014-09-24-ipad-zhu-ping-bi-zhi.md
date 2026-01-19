@@ -1,12 +1,16 @@
 ---
 title: "iPad主屏壁纸"
-draft: false 
-published: 2014-09-24
-categories: 
-  - "weblog"
+Date: 2014-09-24T21:45:00.000Z
+pubDatetime: 2014-09-24T21:45:00.000Z
+published: 2014-09-24T21:45:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "ipad-zhu-ping-bi-zhi"
+draft: false
 ---
-
-![20140918_233615000_iOS](/images/20140918_233615000_iOS.jpg)  
+[![20140918_233615000_iOS](https://zhao.im/wp-content/uploads/20140918_233615000_iOS.jpg)](https://zhao.im/wp-content/uploads/20140918_233615000_iOS.jpg)  
   
 ▲ iPad的主屏壁纸，下载原图尺寸2048X2048
 

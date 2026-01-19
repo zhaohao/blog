@@ -1,11 +1,15 @@
 ---
 title: "2006年的元宵节"
-draft: false 
-published: 2006-02-12
-categories: 
-  - "weblog"
+Date: 2006-02-12T18:24:00.000Z
+pubDatetime: 2006-02-12T18:24:00.000Z
+published: 2006-02-12T18:24:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "2006-nian-de-yuan-xiao-jie"
+draft: false
 ---
-
 好多年了，只有今年的今天不是在学校过的，在这里留下个纪念。
 
   

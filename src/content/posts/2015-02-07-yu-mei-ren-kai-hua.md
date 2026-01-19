@@ -1,13 +1,17 @@
 ---
 title: "虞美人开花"
-draft: false 
-published: 2015-02-07
-categories: 
-  - "weblog"
+Date: 2015-02-07T17:03:00.000Z
+pubDatetime: 2015-02-07T17:03:00.000Z
+published: 2015-02-07T17:03:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "yu-mei-ren-kai-hua"
+draft: false
 ---
-
 虞美人开花。  
   
-![Nikon 2015-02-17 12-27-37](/images/Nikon-2015-02-17-12-27-37.jpg)
+[![Nikon 2015-02-17 12-27-37](https://zhao.im/wp-content/uploads/Nikon-2015-02-17-12-27-37.jpg)](https://zhao.im/wp-content/uploads/Nikon-2015-02-17-12-27-37.jpg)
 
 stardust@live.com

@@ -1,11 +1,15 @@
 ---
 title: "M9 Android Rom For M8"
-draft: false 
-published: 2011-01-08
-categories: 
-  - "weblog"
+Date: 2011-01-08T11:24:00.000Z
+pubDatetime: 2011-01-08T11:24:00.000Z
+published: 2011-01-08T11:24:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "m9-android-rom-for-m8"
+draft: false
 ---
-
 It works well……  
   
 

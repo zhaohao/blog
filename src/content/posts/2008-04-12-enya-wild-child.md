@@ -1,11 +1,15 @@
 ---
 title: "Enya – Wild Child"
-draft: false 
-published: 2008-04-12
-categories: 
-  - "weblog"
+Date: 2008-04-12T00:00:00.000Z
+pubDatetime: 2008-04-12T00:00:00.000Z
+published: 2008-04-12T00:00:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "enya-wild-child"
+draft: false
 ---
-
 A day without rain  
   
 Ever close your eyes  

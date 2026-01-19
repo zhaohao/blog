@@ -1,11 +1,15 @@
 ---
 title: "北美电话区号一览"
-draft: false 
-published: 2014-08-29
-categories: 
-  - "weblog"
+Date: 2014-08-29T22:15:00.000Z
+pubDatetime: 2014-08-29T22:15:00.000Z
+published: 2014-08-29T22:15:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "bei-mei-dian-hua-qu-hao-yi-lan"
+draft: false
 ---
-
 区号 201 - 299  
 201 → 纽泽西州， Hackensack ， Morristown 和 Newark  
 202 → 哥伦比亚，华盛顿  

@@ -1,11 +1,15 @@
 ---
 title: "人，一定要活在当下！"
-draft: false 
-published: 2008-10-06
-categories: 
-  - "weblog"
+Date: 2008-10-06T00:28:00.000Z
+pubDatetime: 2008-10-06T00:28:00.000Z
+published: 2008-10-06T00:28:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "ren-yi-ding-yao-huo-zai-dang-xia"
+draft: false
 ---
-
 你没有那么多时间去回忆过去，去幻想未来；有的，只是要做好现在的自己，而不是明天继续今天的惆怅！  
   
 – Sent from Gmail for mobile | mobile.google.com  

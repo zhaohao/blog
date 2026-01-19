@@ -1,11 +1,15 @@
 ---
 title: "Friday-又是周五，过得太快"
-draft: false 
-published: 2008-09-19
-categories: 
-  - "weblog"
+Date: 2008-09-19T12:34:00.000Z
+pubDatetime: 2008-09-19T12:34:00.000Z
+published: 2008-09-19T12:34:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "friday-you-shi-zhou-wu-guo-de-tai-kuai"
+draft: false
 ---
-
 连续两天的时间都是四点钟睡觉了，感觉晕晕的！  
   
 Posted on 2008-09-19 12:34

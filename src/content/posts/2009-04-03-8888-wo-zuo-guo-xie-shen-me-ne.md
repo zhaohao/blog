@@ -1,11 +1,15 @@
 ---
 title: "[8888]我做过些什么呢？"
-draft: false 
-published: 2009-04-03
-categories: 
-  - "weblog"
+Date: 2009-04-03T00:01:00.000Z
+pubDatetime: 2009-04-03T00:01:00.000Z
+published: 2009-04-03T00:01:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "8888-wo-zuo-guo-xie-shen-me-ne"
+draft: false
 ---
-
 \[8888\]我做过些什么呢？  
   
 Posted on 2009-04-03 00:00

@@ -1,11 +1,15 @@
 ---
 title: "找回简单的Weblog"
-draft: false 
-published: 2014-11-10
-categories: 
-  - "weblog"
+Date: 2014-11-10T16:25:00.000Z
+pubDatetime: 2014-11-10T16:25:00.000Z
+published: 2014-11-10T16:25:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "zhao-hui-jian-dan-de-weblog"
+draft: false
 ---
-
 选择太多会让人更加迷乱。  
   
 整理了Google Blogger的主题，回归到很多很多年前的iTheme主题。  

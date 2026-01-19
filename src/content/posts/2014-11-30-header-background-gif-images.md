@@ -1,14 +1,18 @@
 ---
 title: "Header background gif images"
-draft: false 
-published: 2014-11-30
-categories: 
-  - "weblog"
+Date: 2014-11-30T16:40:00.000Z
+pubDatetime: 2014-11-30T16:40:00.000Z
+published: 2014-11-30T16:40:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "header-background-gif-images"
+draft: false
 ---
-
 ▼ Rain.  
-![rain](/images/rain.gif)  
+[![rain](https://zhao.im/wp-content/uploads/rain.gif)](https://zhao.im/wp-content/uploads/rain.gif)  
 ▼ Sea.  
-![sea](/images/sea.gif)
+[![sea](https://zhao.im/wp-content/uploads/sea.gif)](https://zhao.im/wp-content/uploads/sea.gif)
 
 stardust@live.com

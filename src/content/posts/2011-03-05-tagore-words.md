@@ -1,11 +1,15 @@
 ---
 title: "Tagore Words"
-draft: false 
-published: 2011-03-05
-categories: 
-  - "weblog"
+Date: 2011-03-05T21:21:00.000Z
+pubDatetime: 2011-03-05T21:21:00.000Z
+published: 2011-03-05T21:21:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "tagore-words"
+draft: false
 ---
-
 Tagore Words~~~  
 Once we dreamt that we were strangers. We wake up to find that we were dear to each other.  
 My heart, the bird of the wilderness, has found its sky in your eyes.  

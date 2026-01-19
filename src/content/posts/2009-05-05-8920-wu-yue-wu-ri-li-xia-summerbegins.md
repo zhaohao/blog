@@ -1,13 +1,17 @@
 ---
 title: "[8920]五月五日，立夏Summer begins"
-draft: false 
-published: 2009-05-05
-categories: 
-  - "weblog"
+Date: 2009-05-05T23:36:00.000Z
+pubDatetime: 2009-05-05T23:36:00.000Z
+published: 2009-05-05T23:36:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "8920-wu-yue-wu-ri-li-xia-summerbegins"
+draft: false
 ---
-
 \[8920\]五月五日，立夏Summer begins  
-![Nokia_5700_0056-708787](/images/Nokia_5700_0056-708787.png)  
+[![Nokia_5700_0056-708787](https://zhao.im/wp-content/uploads/Nokia_5700_0056-708787.png)](https://zhao.im/wp-content/uploads/Nokia_5700_0056-708787.png)  
 空气中有灰蒙蒙的感觉，不似昨天一般清澈。  
 昨天晚上心里很闷，没想到几支烟就能把手指熏黄……  
 此刻办公室只有自己一个人，空调风口发出呜呜的声音……  

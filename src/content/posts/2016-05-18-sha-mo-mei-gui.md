@@ -1,12 +1,16 @@
 ---
 title: "沙漠玫瑰"
-draft: false 
-published: 2016-05-18
-categories: 
-  - "weblog"
+Date: 2016-05-18T10:04:00.000Z
+pubDatetime: 2016-05-18T10:04:00.000Z
+published: 2016-05-18T10:04:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "sha-mo-mei-gui"
+draft: false
 ---
-
 几年的沙玫终于第一次鼓起了花苞。  
-![IMG_20160504_164817](/images/IMG_20160504_164817.jpg)
+[![IMG_20160504_164817](https://zhao.im/wp-content/uploads/IMG_20160504_164817.jpg)](https://zhao.im/wp-content/uploads/IMG_20160504_164817.jpg)
 
 stardust@live.com

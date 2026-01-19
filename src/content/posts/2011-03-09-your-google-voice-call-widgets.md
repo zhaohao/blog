@@ -1,11 +1,15 @@
 ---
 title: "Your Google Voice Call Widgets"
-draft: false 
-published: 2011-03-09
-categories: 
-  - "weblog"
+Date: 2011-03-09T22:20:00.000Z
+pubDatetime: 2011-03-09T22:20:00.000Z
+published: 2011-03-09T22:20:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "your-google-voice-call-widgets"
+draft: false
 ---
-
   
   
 

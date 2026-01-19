@@ -1,11 +1,15 @@
 ---
 title: "Windows 7 Mklink"
-draft: false 
-published: 2010-10-23
-categories: 
-  - "weblog"
+Date: 2010-10-23T20:50:00.000Z
+pubDatetime: 2010-10-23T20:50:00.000Z
+published: 2010-10-23T20:50:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "windows-7-mklink"
+draft: false
 ---
-
 C:UsersAcui>mklink  
 创建符号链接。  
 MKLINK \[\[/D\] | \[/H\] | \[/J\]\] Link Target  

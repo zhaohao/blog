@@ -1,11 +1,15 @@
 ---
 title: "New WordPress.com Site: Howardzhao.wordpress.com"
-draft: false 
-published: 2011-03-06
-categories: 
-  - "weblog"
+Date: 2011-03-06T17:20:00.000Z
+pubDatetime: 2011-03-06T17:20:00.000Z
+published: 2011-03-06T17:20:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "new-wordpress-com-site-howardzhao-wordpress-com"
+draft: false
 ---
-
 Some useful links:  
 Write a new post: [http://howardzhao.wordpress.com/wp-admin/post-new.php](http://howardzhao.wordpress.com/wp-admin/post-new.php)  
 Change your blog's settings: [http://howardzhao.wordpress.com/wp-admin/options-general.php](http://howardzhao.wordpress.com/wp-admin/options-general.php)  

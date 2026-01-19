@@ -1,11 +1,15 @@
 ---
 title: "Some Words"
-draft: false 
-published: 2010-01-04
-categories: 
-  - "weblog"
+Date: 2010-01-04T16:05:00.000Z
+pubDatetime: 2010-01-04T16:05:00.000Z
+published: 2010-01-04T16:05:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "some-words"
+draft: false
 ---
-
 In any walk of life, if you want other people to take notice of you, you can only do it by relying on solid achievements and sound abililty.  
   
 If there is only one thing in the world that stirs your emotions, let that  

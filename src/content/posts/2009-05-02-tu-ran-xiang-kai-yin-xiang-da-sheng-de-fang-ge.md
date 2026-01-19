@@ -1,11 +1,15 @@
 ---
 title: "突然想开音箱大声的放歌……"
-draft: false 
-published: 2009-05-02
-categories: 
-  - "weblog"
+Date: 2009-05-02T15:07:00.000Z
+pubDatetime: 2009-05-02T15:07:00.000Z
+published: 2009-05-02T15:07:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "tu-ran-xiang-kai-yin-xiang-da-sheng-de-fang-ge"
+draft: false
 ---
-
 五一假期，有些不知所措，不知道怎么安排……  
   
 在姐姐家，她们出去逛街去了，不想出去，开电脑，又不知道做什么。  

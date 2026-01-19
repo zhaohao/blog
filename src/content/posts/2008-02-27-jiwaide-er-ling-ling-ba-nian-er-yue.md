@@ -1,11 +1,15 @@
 ---
 title: "JIWAI.DE二零零八年二月"
-draft: false 
-published: 2008-02-27
-categories: 
-  - "weblog"
+Date: 2008-02-27T13:23:00.000Z
+pubDatetime: 2008-02-27T13:23:00.000Z
+published: 2008-02-27T13:23:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "jiwaide-er-ling-ling-ba-nian-er-yue"
+draft: false
 ---
-
 winner or loser? 2008-02-27 周三 13:23:03 通过 MSN  
   
 

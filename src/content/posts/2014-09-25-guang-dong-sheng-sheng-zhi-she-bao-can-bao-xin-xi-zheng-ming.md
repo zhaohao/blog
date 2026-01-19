@@ -1,12 +1,16 @@
 ---
 title: "广东省省直社保参保信息证明"
-draft: false 
-published: 2014-09-25
-categories: 
-  - "weblog"
+Date: 2014-09-25T21:26:00.000Z
+pubDatetime: 2014-09-25T21:26:00.000Z
+published: 2014-09-25T21:26:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "guang-dong-sheng-sheng-zhi-she-bao-can-bao-xin-xi-zheng-ming"
+draft: false
 ---
-
-![prove](/images/prove.jpg)  
+[![prove](https://zhao.im/wp-content/uploads/prove.jpg)](https://zhao.im/wp-content/uploads/prove.jpg)  
 登录 广东省社会保险基金管理局 【[http://www.gdsi.gov.cn/](http://www.gdsi.gov.cn/ "广东省社会保险基金管理局")】  
   
 点击左侧导航栏 【**个人社保服务**】  

@@ -1,11 +1,15 @@
 ---
 title: "转眼间已经初六了，过的好快，也好颓废"
-draft: false 
-published: 2007-02-23
-categories: 
-  - "weblog"
+Date: 2007-02-23T00:25:00.000Z
+pubDatetime: 2007-02-23T00:25:00.000Z
+published: 2007-02-23T00:25:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "zhuan-yan-jian-yi-jing-chu-liu-le-guo-de-hao-kuai-ye-hao"
+draft: false
 ---
-
 转眼间已经初六了，过的好快，也好颓废。
 
 stardust@live.com

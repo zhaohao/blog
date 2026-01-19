@@ -1,11 +1,15 @@
 ---
 title: "Let’s Encrypt"
-draft: false 
-published: 2015-12-30
-categories: 
-  - "weblog"
+Date: 2015-12-30T18:00:00.000Z
+pubDatetime: 2015-12-30T18:00:00.000Z
+published: 2015-12-30T18:00:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "lets-encrypt"
+draft: false
 ---
-
 Let’s Encrypt is a new Certificate Authority:  
 It’s free, automated, and open.  
   

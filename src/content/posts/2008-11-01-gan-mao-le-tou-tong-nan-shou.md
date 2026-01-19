@@ -1,11 +1,15 @@
 ---
 title: "感冒了，头痛难受"
-draft: false 
-published: 2008-11-01
-categories: 
-  - "weblog"
+Date: 2008-11-01T01:38:00.000Z
+pubDatetime: 2008-11-01T01:38:00.000Z
+published: 2008-11-01T01:38:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "gan-mao-le-tou-tong-nan-shou"
+draft: false
 ---
-
 感冒了，头痛难受。  
   
 – 从我的移动设备发送  

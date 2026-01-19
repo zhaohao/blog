@@ -1,11 +1,15 @@
 ---
 title: "叽歪二零零八年五月"
-draft: false 
-published: 2008-05-01
-categories: 
-  - "weblog"
+Date: 2008-05-01T01:00:00.000Z
+pubDatetime: 2008-05-01T01:00:00.000Z
+published: 2008-05-01T01:00:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "ji-wai-er-ling-ling-ba-nian-wu-yue"
+draft: false
 ---
-
 今天我在人生之路上迷路了……  
 2008-05-27 18:05 通过 MSN 签名  
   

@@ -1,11 +1,15 @@
 ---
 title: "这一天就这样静静的过去了~20110101"
-draft: false 
-published: 2011-01-01
-categories: 
-  - "weblog"
+Date: 2011-01-01T23:13:00.000Z
+pubDatetime: 2011-01-01T23:13:00.000Z
+published: 2011-01-01T23:13:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "zhe-yi-tian-jiu-zhe-yang-jing-jing-de-guo-qu-le-20110101"
+draft: false
 ---
-
 想在标题记上时间，还是习惯性的敲上了2010四个字符~然后再改……  
   
   

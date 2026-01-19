@@ -1,11 +1,15 @@
 ---
 title: "或许那不叫爱，那只是寂寞……"
-draft: false 
-published: 2009-03-07
-categories: 
-  - "weblog"
+Date: 2009-03-07T01:34:00.000Z
+pubDatetime: 2009-03-07T01:34:00.000Z
+published: 2009-03-07T01:34:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "huo-xu-na-bu-jiao-ai-na-zhi-shi-ji-mo"
+draft: false
 ---
-
 或许那不叫爱，那只是寂寞……
 
 stardust@live.com

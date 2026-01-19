@@ -1,21 +1,17 @@
 ---
 title: "凌晨一点"
-draft: false 
-published: 2019-03-12
-categories: 
-  - "memos"
+Date: 2019-03-12T00:01:00.000Z
+pubDatetime: 2019-03-12T00:01:00.000Z
+published: 2019-03-12T00:01:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Memos"]
+slug: "ling-chen-yi-dian"
+draft: false
 ---
-
 2019-03-12 01:01
 
-<figure>
-
-![](/images/2019-03-12-01-02.png)
-
-<figcaption>
+![](https://zhao.im/wp-content/uploads/2019-03-12-01-02.png)
 
 2019-03-12-01-02
-
-</figcaption>
-
-</figure>

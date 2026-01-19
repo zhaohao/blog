@@ -1,11 +1,15 @@
 ---
 title: "国内域名转移问题"
-draft: false 
-published: 2009-04-14
-categories: 
-  - "weblog"
+Date: 2009-04-14T22:20:00.000Z
+pubDatetime: 2009-04-14T22:20:00.000Z
+published: 2009-04-14T22:20:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "guo-nei-yu-ming-zhuan-yi-wen-ti"
+draft: false
 ---
-
 选择本以为得到转移密码就OK了，没想到又遇到whois问题，中国的东西，让人拿什么信任……  
   
 本以为得到转移密码就OK了，没想到又遇到whois问题，中国的东西，让人拿什么信任……  

@@ -1,11 +1,15 @@
 ---
 title: "只言片语二零一零年十一月"
-draft: false 
-published: 2010-11-21
-categories: 
-  - "weblog"
+Date: 2010-11-21T20:04:00.000Z
+pubDatetime: 2010-11-21T20:04:00.000Z
+published: 2010-11-21T20:04:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "zhi-yan-pian-yu-er-ling-yi-ling-nian-shi-yi-yue"
+draft: false
 ---
-
 2010-11-21 到了这个时节（气温？湿度？气压？~）手又开始“更新”脱皮~  
   
 2010-11-21 恍恍惚惚的又过去了一个周末,现在有些头痛~  

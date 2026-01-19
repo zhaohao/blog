@@ -1,11 +1,15 @@
 ---
 title: "三年的时间恍然而过"
-draft: false 
-published: 2010-05-04
-categories: 
-  - "weblog"
+Date: 2010-05-04T11:47:00.000Z
+pubDatetime: 2010-05-04T11:47:00.000Z
+published: 2010-05-04T11:47:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "san-nian-de-shi-jian-huang-ran-er-guo"
+draft: false
 ---
-
 困惑中，三年时间自己有怎样的收获？  
   
 在困惑中时间已经到了2010年的中间，状态只能用很差形容，无法用下心去工作，  

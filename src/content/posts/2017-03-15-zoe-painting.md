@@ -1,19 +1,19 @@
 ---
 title: "Zoe的那些画儿"
-draft: false 
-published: 2017-03-15
-categories: 
-  - "default"
+Date: 2017-03-15T07:27:19.000Z
+pubDatetime: 2017-03-15T07:27:19.000Z
+published: 2017-03-15T07:27:19.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "zoe-painting"
+draft: false
 ---
-
-Zoe的那些画儿。 ![2017-02-25-ZOE-Painting](/images/2017-02-25-ZOE-Painting.jpg)  
-
-![2017-03-05-ZOE-Painting](/images/2017-03-05-ZOE-Painting.jpg)  
-
-![2017-03-04-ZOE-Painting](/images/2017-03-04-ZOE-Painting.jpg)  
-
-![2017-03-12-ZOE-Painting](/images/2017-03-12-ZOE-Painting.jpg)  
-
-![2017-03-15-ZOE-Painting](/images/2017-03-15-ZOE-Painting.jpg)
+Zoe的那些画儿。 ![2017-02-25-ZOE-Painting](https://zhao.im/wp-content/uploads/2017-02-25-ZOE-Painting.jpg)  
+![2017-03-05-ZOE-Painting](https://zhao.im/wp-content/uploads/2017-03-05-ZOE-Painting.jpg)  
+![2017-03-04-ZOE-Painting](https://zhao.im/wp-content/uploads/2017-03-04-ZOE-Painting.jpg)  
+![2017-03-12-ZOE-Painting](https://zhao.im/wp-content/uploads/2017-03-12-ZOE-Painting.jpg)  
+![2017-03-15-ZOE-Painting](https://zhao.im/wp-content/uploads/2017-03-15-ZOE-Painting.jpg)
 
 Wednesday, March 15, 2017

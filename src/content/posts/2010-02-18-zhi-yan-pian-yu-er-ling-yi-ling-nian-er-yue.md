@@ -1,11 +1,15 @@
 ---
 title: "只言片语二零一零年二月"
-draft: false 
-published: 2010-02-18
-categories: 
-  - "weblog"
+Date: 2010-02-18T18:06:00.000Z
+pubDatetime: 2010-02-18T18:06:00.000Z
+published: 2010-02-18T18:06:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "zhi-yan-pian-yu-er-ling-yi-ling-nian-er-yue"
+draft: false
 ---
-
 2010-02-18 回到广州~  
   
 2010-02-17 写下好梦HAO几个字，眼泪涌了出来，感觉好怪，因为不知为什么还会流泪！  

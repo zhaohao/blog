@@ -1,11 +1,15 @@
 ---
 title: "Bye Olympic 2008&假如-世界之大"
-draft: false 
-published: 2008-08-24
-categories: 
-  - "weblog"
+Date: 2008-08-24T22:56:00.000Z
+pubDatetime: 2008-08-24T22:56:00.000Z
+published: 2008-08-24T22:56:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "byeolympic2008-jia-ru-shi-jie-zhi-da"
+draft: false
 ---
-
 淡淡的微笑还在嘴角，算是勉强的一点征兆，眼眶的温度在沸腾那一秒，留给年华一段刻骨线条。  
   
 想象的天空太飘渺，用尽了全力也抓不到，期待着拥抱有人走得太早，看着幸福正在面前绕道。  

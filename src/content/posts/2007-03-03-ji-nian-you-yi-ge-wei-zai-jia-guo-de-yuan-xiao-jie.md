@@ -1,11 +1,15 @@
 ---
 title: "纪念又一个未在家过的元宵节"
-draft: false 
-published: 2007-03-03
-categories: 
-  - "weblog"
+Date: 2007-03-03T17:00:00.000Z
+pubDatetime: 2007-03-03T17:00:00.000Z
+published: 2007-03-03T17:00:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "ji-nian-you-yi-ge-wei-zai-jia-guo-de-yuan-xiao-jie"
+draft: false
 ---
-
   
 
 又过了一年了，好快。又一个学校里的元宵节。
@@ -87,7 +91,7 @@ categories:
   
 
   
-\-- 
+\--  
 由 hao 于 3/04/2007 01:00:00 上午 在 [bluestardust](http://haov.blogspot.com/2007/03/blog-post.html) 上发表  
   
 

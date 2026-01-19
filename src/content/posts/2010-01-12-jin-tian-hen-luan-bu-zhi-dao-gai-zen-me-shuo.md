@@ -1,11 +1,15 @@
 ---
 title: "今天很乱，不知道该怎么说"
-draft: false 
-published: 2010-01-12
-categories: 
-  - "weblog"
+Date: 2010-01-12T21:20:00.000Z
+pubDatetime: 2010-01-12T21:20:00.000Z
+published: 2010-01-12T21:20:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "jin-tian-hen-luan-bu-zhi-dao-gai-zen-me-shuo"
+draft: false
 ---
-
 今天很乱，不知道该怎么说。部门吃饭，气氛有些压抑～  
 Posted on 2010-01-12 21:20  
   

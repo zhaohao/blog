@@ -1,11 +1,15 @@
 ---
 title: "今天，一个永生难忘的日子"
-draft: false 
-published: 2009-07-18
-categories: 
-  - "weblog"
+Date: 2009-07-18T23:51:00.000Z
+pubDatetime: 2009-07-18T23:51:00.000Z
+published: 2009-07-18T23:51:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "jin-tian-yi-ge-yong-sheng-nan-wang-de-ri-zi"
+draft: false
 ---
-
 今天，一个永生难忘的日子  
   
 美丽的记忆，和Acui一起走向幸福……  

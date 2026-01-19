@@ -1,11 +1,15 @@
 ---
 title: "-moz-opacity to opacity"
-draft: false 
-published: 2010-09-29
-categories: 
-  - "weblog"
+Date: 2010-09-29T20:41:00.000Z
+pubDatetime: 2010-09-29T20:41:00.000Z
+published: 2010-09-29T20:41:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "moz-opacity-to-opacity"
+draft: false
 ---
-
 Gecko 1.9.1/ Firefox 3.5 and later do not support -moz-opacity. By now, you should be using simply opacity.
 
 stardust@live.com

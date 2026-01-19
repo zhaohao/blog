@@ -1,12 +1,16 @@
 ---
 title: "New Facebook Mail~"
-draft: false 
-published: 2010-12-13
-categories: 
-  - "weblog"
+Date: 2010-12-13T23:20:00.000Z
+pubDatetime: 2010-12-13T23:20:00.000Z
+published: 2010-12-13T23:20:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "new-facebook-mail"
+draft: false
 ---
-
-![FBmail-746507.png](/images/FBmail-746507.png)  
+[![](https://zhao.im/wp-content/uploads/FBmail-746507.png)](https://zhao.im/wp-content/uploads/FBmail-746507.png)  
   
 
 stardust@live.com

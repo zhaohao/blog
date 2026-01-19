@@ -1,9 +1,13 @@
 ---
 title: "大手握小手"
-draft: false 
-published: 2017-01-04
-categories: 
-  - "weblog"
+Date: 2017-01-04T05:30:00.000Z
+pubDatetime: 2017-01-04T05:30:00.000Z
+published: 2017-01-04T05:30:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "hands-in-hands"
+draft: false
 ---
-
-![Big hands holding small hands](/images/2017-01-04-hands-in-hands.jpg) 大手握小手
+![Big hands holding small hands](https://zhao.im/wp-content/uploads/2017-01-04-hands-in-hands.jpg) 大手握小手

@@ -1,11 +1,15 @@
 ---
 title: "齐豫-飞鸟与鱼"
-draft: false 
-published: 2007-05-18
-categories: 
-  - "weblog"
+Date: 2007-05-18T00:17:00.000Z
+pubDatetime: 2007-05-18T00:17:00.000Z
+published: 2007-05-18T00:17:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "qi-yu-fei-niao-yu-yu"
+draft: false
 ---
-
 bluestardust  
   
   

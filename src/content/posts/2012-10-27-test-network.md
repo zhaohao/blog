@@ -1,11 +1,15 @@
 ---
 title: "Test Network"
-draft: false 
-published: 2012-10-27
-categories: 
-  - "weblog"
+Date: 2012-10-27T16:51:00.000Z
+pubDatetime: 2012-10-27T16:51:00.000Z
+published: 2012-10-27T16:51:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "test-network"
+draft: false
 ---
-
 嘀嘀嗒嗒  
   
   

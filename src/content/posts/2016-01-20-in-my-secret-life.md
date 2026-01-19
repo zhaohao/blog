@@ -1,12 +1,15 @@
 ---
 title: "In My Secret Life"
-draft: false 
-published: 2016-01-20
-categories: 
-  - "featured"
-  - "weblog"
+Date: 2016-01-20T16:53:00.000Z
+pubDatetime: 2016-01-20T16:53:00.000Z
+published: 2016-01-20T16:53:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "in-my-secret-life"
+draft: false
 ---
-
 I saw you this morning  
 You were moving so fast  
 Can't seem to loosen my grip  

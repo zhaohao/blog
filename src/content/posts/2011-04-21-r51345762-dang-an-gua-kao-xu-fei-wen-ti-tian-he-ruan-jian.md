@@ -1,11 +1,15 @@
 ---
 title: "R_51345762 档案挂靠续费问题 天河软件园"
-draft: false 
-published: 2011-04-21
-categories: 
-  - "weblog"
+Date: 2011-04-21T18:15:00.000Z
+pubDatetime: 2011-04-21T18:15:00.000Z
+published: 2011-04-21T18:15:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "r51345762-dang-an-gua-kao-xu-fei-wen-ti-tian-he-ruan-jian"
+draft: false
 ---
-
 R\_51345762 档案挂靠续费问题 2010-05-30  
   
 内容：  

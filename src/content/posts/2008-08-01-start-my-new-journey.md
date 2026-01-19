@@ -1,11 +1,15 @@
 ---
 title: "Start My New Journey"
-draft: false 
-published: 2008-08-01
-categories: 
-  - "weblog"
+Date: 2008-08-01T00:00:00.000Z
+pubDatetime: 2008-08-01T00:00:00.000Z
+published: 2008-08-01T00:00:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "start-my-new-journey"
+draft: false
 ---
-
 Start My New Journey ! Now Begin!  
   
 Posted on 2008-08-01 00:00

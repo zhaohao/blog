@@ -1,11 +1,15 @@
 ---
 title: "Sealed with a kiss"
-draft: false 
-published: 2008-07-12
-categories: 
-  - "weblog"
+Date: 2008-07-12T23:55:00.000Z
+pubDatetime: 2008-07-12T23:55:00.000Z
+published: 2008-07-12T23:55:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "sealed-with-a-kiss"
+draft: false
 ---
-
 以吻封缄―Sealed with a kiss  
   
 – Sent from my mobile device  

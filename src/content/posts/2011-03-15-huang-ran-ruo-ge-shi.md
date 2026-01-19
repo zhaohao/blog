@@ -1,11 +1,15 @@
 ---
 title: "恍然若隔世"
-draft: false 
-published: 2011-03-15
-categories: 
-  - "weblog"
+Date: 2011-03-15T21:22:00.000Z
+pubDatetime: 2011-03-15T21:22:00.000Z
+published: 2011-03-15T21:22:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "huang-ran-ruo-ge-shi"
+draft: false
 ---
-
 DIARYONE 恍然若隔世  
   
 屋外光线渐渐的暗了下来，时不时传来呜呜的风声~  

@@ -1,11 +1,15 @@
 ---
 title: "无题之一"
-draft: false 
-published: 2008-10-29
-categories: 
-  - "weblog"
+Date: 2008-10-29T22:36:00.000Z
+pubDatetime: 2008-10-29T22:36:00.000Z
+published: 2008-10-29T22:36:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "wu-ti-zhi-yi"
+draft: false
 ---
-
 一天，很快过完了。  
   
 感觉时间过得太快，如一个朋友说的，是因为没有做什么事情，所以才感觉快。  

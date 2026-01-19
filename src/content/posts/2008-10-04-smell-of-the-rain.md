@@ -1,11 +1,15 @@
 ---
 title: "Smell of the rain"
-draft: false 
-published: 2008-10-04
-categories: 
-  - "weblog"
+Date: 2008-10-04T04:01:00.000Z
+pubDatetime: 2008-10-04T04:01:00.000Z
+published: 2008-10-04T04:01:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "smell-of-the-rain"
+draft: false
 ---
-
 下起了雨了，听到窗外嗒嗒声，闻到空气中雨的味道！  
   
 – Sent from Gmail for mobile | mobile.google.com  

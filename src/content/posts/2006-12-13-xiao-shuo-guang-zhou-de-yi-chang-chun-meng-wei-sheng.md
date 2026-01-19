@@ -1,11 +1,15 @@
 ---
 title: "小说-广州的一场春梦-尾声"
-draft: false 
-published: 2006-12-13
-categories: 
-  - "weblog"
+Date: 2006-12-13T22:19:00.000Z
+pubDatetime: 2006-12-13T22:19:00.000Z
+published: 2006-12-13T22:19:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "xiao-shuo-guang-zhou-de-yi-chang-chun-meng-wei-sheng"
+draft: false
 ---
-
 明白一些东西的时候 却是最不需要明白的时候  
   
 想起一些东西的时候 却是最不需要想起的时候  

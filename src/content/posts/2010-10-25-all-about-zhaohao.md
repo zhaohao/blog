@@ -1,11 +1,15 @@
 ---
 title: "All about zhaohao"
-draft: false 
-published: 2010-10-25
-categories: 
-  - "weblog"
+Date: 2010-10-25T00:55:00.000Z
+pubDatetime: 2010-10-25T00:55:00.000Z
+published: 2010-10-25T00:55:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "all-about-zhaohao"
+draft: false
 ---
-
 [twitter.com/zhaohao](http://twitter.com/zhaohao)  
 [friendfeed.com/zhaohao](http://friendfeed.com/zhaohao)  
 [delicious.com/zhaohao](http://delicious.com/zhaohao)  

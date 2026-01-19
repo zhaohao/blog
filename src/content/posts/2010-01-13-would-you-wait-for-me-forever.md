@@ -1,11 +1,15 @@
 ---
 title: "would you wait for me forever"
-draft: false 
-published: 2010-01-13
-categories: 
-  - "weblog"
+Date: 2010-01-13T15:48:00.000Z
+pubDatetime: 2010-01-13T15:48:00.000Z
+published: 2010-01-13T15:48:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "would-you-wait-for-me-forever"
+draft: false
 ---
-
 i stand alone in the darkness the winter of my life come so fast  
   
 memories go back to childhood to days i still recall  

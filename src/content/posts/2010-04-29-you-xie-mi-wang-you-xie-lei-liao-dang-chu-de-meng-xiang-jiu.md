@@ -1,11 +1,15 @@
 ---
 title: "有些迷惘，有些累了，当初的梦想究竟还剩多少？"
-draft: false 
-published: 2010-04-29
-categories: 
-  - "weblog"
+Date: 2010-04-29T11:25:00.000Z
+pubDatetime: 2010-04-29T11:25:00.000Z
+published: 2010-04-29T11:25:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "you-xie-mi-wang-you-xie-lei-liao-dang-chu-de-meng-xiang-jiu"
+draft: false
 ---
-
 有些迷惘，有些累了，当初的梦想究竟还剩多少？
 
 stardust@live.com

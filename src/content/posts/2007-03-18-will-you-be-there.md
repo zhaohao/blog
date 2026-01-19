@@ -1,11 +1,15 @@
 ---
 title: "Will You Be There"
-draft: false 
-published: 2007-03-18
-categories: 
-  - "weblog"
+Date: 2007-03-18T16:35:00.000Z
+pubDatetime: 2007-03-18T16:35:00.000Z
+published: 2007-03-18T16:35:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "will-you-be-there"
+draft: false
 ---
-
 Michael Jackson －Will You Be There  
   
 Hold me , Like the River Jordan  

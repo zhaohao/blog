@@ -1,11 +1,15 @@
 ---
 title: "Rosetta.Stone 如师通"
-draft: false 
-published: 2011-03-01
-categories: 
-  - "weblog"
+Date: 2011-03-01T21:18:00.000Z
+pubDatetime: 2011-03-01T21:18:00.000Z
+published: 2011-03-01T21:18:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "rosettastone-ru-shi-tong"
+draft: false
 ---
-
 如师通.(Rosetta.Stone).v3.4.5.英语.(美国).1.2.3.4.5.级.(Win32.云端版)  
   
 试着练习英语口语，发现自己的发音是那么那么的不标准！！！一晃一个多小时过去了。  

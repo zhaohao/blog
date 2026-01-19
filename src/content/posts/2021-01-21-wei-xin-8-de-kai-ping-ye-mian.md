@@ -1,13 +1,17 @@
 ---
 title: "微信8的开屏页面"
-draft: false 
-published: 2021-01-21
-categories: 
-  - "memos"
+Date: 2021-01-21T06:26:00.000Z
+pubDatetime: 2021-01-21T06:26:00.000Z
+published: 2021-01-21T06:26:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Memos"]
+slug: "wei-xin-8-de-kai-ping-ye-mian"
+draft: false
 ---
-
 我看见你、我看见你看见的……
 
-![](/images/2021-01-21-fanfou-wordpress.jpg)
+![](https://zhao.im/wp-content/uploads/2021-01-21-fanfou-wordpress.jpg)
 
-![](/images/2021-01-21-fanfou2-wordpress.jpg)
+![](https://zhao.im/wp-content/uploads/2021-01-21-fanfou2-wordpress.jpg)

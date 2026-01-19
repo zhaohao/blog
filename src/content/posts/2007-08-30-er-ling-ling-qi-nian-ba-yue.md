@@ -1,11 +1,15 @@
 ---
 title: "二零零七年八月"
-draft: false 
-published: 2007-08-30
-categories: 
-  - "weblog"
+Date: 2007-08-30T23:00:00.000Z
+pubDatetime: 2007-08-30T23:00:00.000Z
+published: 2007-08-30T23:00:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "er-ling-ling-qi-nian-ba-yue"
+draft: false
 ---
-
 2007年8月30日  
 今天感触很多……未来……  
 Thursday, August 30, 2007 23:54  

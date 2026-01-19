@@ -1,11 +1,15 @@
 ---
 title: "关于stardust"
-draft: false 
-published: 2008-07-07
-categories: 
-  - "weblog"
+Date: 2008-07-07T22:29:00.000Z
+pubDatetime: 2008-07-07T22:29:00.000Z
+published: 2008-07-07T22:29:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "guan-yu-stardust"
+draft: false
 ---
-
 回忆历来听到的歌，没有哪一首歌能像Forever一样让我久久不能放下的了。  
   
 从十八九岁还称得上青春年少之时到现在已经过了好久好久，但那忧伤的旋律始终盘旋在记忆的最深处。  

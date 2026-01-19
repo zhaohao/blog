@@ -1,12 +1,16 @@
 ---
 title: "女儿今天回了广州"
-draft: false 
-published: 2016-05-22
-categories: 
-  - "weblog"
+Date: 2016-05-22T18:20:00.000Z
+pubDatetime: 2016-05-22T18:20:00.000Z
+published: 2016-05-22T18:20:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "nyu-er-jin-tian-hui-le-guang-zhou"
+draft: false
 ---
-
-![DSC-20160513](/images/DSC-20160513.jpg)  
+[![DSC-20160513](https://zhao.im/wp-content/uploads/DSC-20160513.jpg)](https://zhao.im/wp-content/uploads/DSC-20160513.jpg)  
   
 前些日子在广州家里，Zoe没来由的突然发高烧，没什么其它症状，精力还是很充沛，降了烧都还好，然后就把她留在广州上幼儿园。  
 后面开始断续的咳嗽、发烧，其它症状都不明显。  

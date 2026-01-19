@@ -1,11 +1,15 @@
 ---
 title: "The answer is blowing in the wind"
-draft: false 
-published: 2009-03-21
-categories: 
-  - "weblog"
+Date: 2009-03-21T10:59:00.000Z
+pubDatetime: 2009-03-21T10:59:00.000Z
+published: 2009-03-21T10:59:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "the-answer-is-blowing-in-the-wind"
+draft: false
 ---
-
 How many roads must a man walk down, Before they call him a man?  
   
 How many seas must a white dove sail, Before she sleeps in the sand?  

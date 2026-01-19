@@ -1,11 +1,15 @@
 ---
 title: "若伊讲故事之狼来了"
-draft: false 
-published: 2017-11-07
-categories: 
-  - "default"
+Date: 2017-11-07T03:50:51.000Z
+pubDatetime: 2017-11-07T03:50:51.000Z
+published: 2017-11-07T03:50:51.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "zoe-the-wolf-is-coming"
+draft: false
 ---
-
 Zoe讲故事之狼来了。
 
  HTML5 audio not supported!

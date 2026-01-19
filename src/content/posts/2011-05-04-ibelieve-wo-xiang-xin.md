@@ -1,11 +1,15 @@
 ---
 title: "I believe我相信"
-draft: false 
-published: 2011-05-04
-categories: 
-  - "weblog"
+Date: 2011-05-04T22:45:00.000Z
+pubDatetime: 2011-05-04T22:45:00.000Z
+published: 2011-05-04T22:45:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "ibelieve-wo-xiang-xin"
+draft: false
 ---
-
     
 
 stardust@live.com

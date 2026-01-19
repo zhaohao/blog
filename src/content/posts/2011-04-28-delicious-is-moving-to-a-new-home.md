@@ -1,11 +1,15 @@
 ---
 title: "Delicious is moving to a new home"
-draft: false 
-published: 2011-04-28
-categories: 
-  - "weblog"
+Date: 2011-04-28T19:57:00.000Z
+pubDatetime: 2011-04-28T19:57:00.000Z
+published: 2011-04-28T19:57:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "delicious-is-moving-to-a-new-home"
+draft: false
 ---
-
 Yahoo! is excited to announce that Delicious has been acquired by the founders of YouTube, Chad Hurley and Steve Chen. As creators of the  
 largest online video platform, they have firsthand experience enabling  
 millions of users to share their experiences with the world. Delicious  
@@ -19,7 +23,7 @@ As soon as you let Yahoo! move your Delicious account, you will:
 It's easy to have Yahoo! move your account to AVOS. When you do, you  
 will be subject to the AVOS terms of service and privacy policy.  
 What happens if you do not move your bookmarks?  
-\* Delicious in its current form will be available until approximately July 2011. 
+\* Delicious in its current form will be available until approximately July 2011.  
 \* After that, you will no longer be able to use your existing  
 Delicious account and will not have access to your existing bookmarks or account information.
 

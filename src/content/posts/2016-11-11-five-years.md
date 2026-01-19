@@ -1,17 +1,17 @@
 ---
 title: "二〇一六年十一月十一"
-draft: false 
-published: 2016-11-11
-categories: 
-  - "weblog"
+Date: 2016-11-11T07:50:00.000Z
+pubDatetime: 2016-11-11T07:50:00.000Z
+published: 2016-11-11T07:50:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "five-years"
+draft: false
 ---
-
 20111111-20161111结婚五周年纪念日。  
 ……  
-![2016-11-11-the-fifth-wedding-anniversary](/images/2016-11-11-the-fifth-wedding-anniversary-citizen.jpg)
-
-![2016-11-11-the-fifth-wedding-anniversary](/images/2016-11-11-the-fifth-wedding-anniversary-citizen-02.jpg)
-
-![20111111-20161111](/images/2016-11-11-20161111.jpg)
+![2016-11-11-the-fifth-wedding-anniversary](https://zhao.im/wp-content/uploads/2016-11-11-the-fifth-wedding-anniversary-citizen.jpg) ![2016-11-11-the-fifth-wedding-anniversary](https://zhao.im/wp-content/uploads/2016-11-11-the-fifth-wedding-anniversary-citizen-02.jpg) ![20111111-20161111](https://zhao.im/wp-content/uploads/2016-11-11-20161111.jpg)
 
 Friday, November 11, 2016

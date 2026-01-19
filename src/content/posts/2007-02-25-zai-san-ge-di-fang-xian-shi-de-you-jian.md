@@ -1,11 +1,15 @@
 ---
 title: "在三个地方显示的邮件"
-draft: false 
-published: 2007-02-25
-categories: 
-  - "weblog"
+Date: 2007-02-25T02:31:00.000Z
+pubDatetime: 2007-02-25T02:31:00.000Z
+published: 2007-02-25T02:31:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "zai-san-ge-di-fang-xian-shi-de-you-jian"
+draft: false
 ---
-
 又已经是夜里两点半了，外面还有淅淅沥沥的雨声，明天怕是又起不来了。  
   
 现在居然还不想睡觉，把空间邮件发布重新设置一下。  

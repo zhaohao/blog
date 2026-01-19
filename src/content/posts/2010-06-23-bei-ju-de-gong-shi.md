@@ -1,11 +1,15 @@
 ---
 title: "悲剧的公式"
-draft: false 
-published: 2010-06-23
-categories: 
-  - "weblog"
+Date: 2010-06-23T19:00:00.000Z
+pubDatetime: 2010-06-23T19:00:00.000Z
+published: 2010-06-23T19:00:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "bei-ju-de-gong-shi"
+draft: false
 ---
-
   
 
 2500×(1+4%)17\=4869.75

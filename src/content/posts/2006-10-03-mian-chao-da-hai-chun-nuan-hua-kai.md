@@ -1,11 +1,15 @@
 ---
 title: "面朝大海, 春暖花开"
-draft: false 
-published: 2006-10-03
-categories: 
-  - "weblog"
+Date: 2006-10-03T23:50:00.000Z
+pubDatetime: 2006-10-03T23:50:00.000Z
+published: 2006-10-03T23:50:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "mian-chao-da-hai-chun-nuan-hua-kai"
+draft: false
 ---
-
 从明天起, 做一个幸福的人 喂马, 劈柴, 周游世界  
 从明天起, 关心粮食和蔬菜  
 我有一所房子, 面朝大海, 春暖花开  

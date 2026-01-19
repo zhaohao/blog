@@ -1,11 +1,15 @@
 ---
 title: "原来你也在这里"
-draft: false 
-published: 2008-09-01
-categories: 
-  - "weblog"
+Date: 2008-09-01T09:10:00.000Z
+pubDatetime: 2008-09-01T09:10:00.000Z
+published: 2008-09-01T09:10:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "yuan-lai-ni-ye-zai-zhe-li"
+draft: false
 ---
-
 请允许我尘埃落定，用沉默埋葬了过去，满身风雨我从海上来，才隐居在这沙漠里。  
   
 该隐瞒的事总清晰，千言万语只能无语，爱是天时地利的迷信，喔原来你也在这里。  

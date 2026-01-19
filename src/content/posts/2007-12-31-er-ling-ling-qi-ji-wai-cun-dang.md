@@ -1,11 +1,15 @@
 ---
 title: "二零零七- 叽歪-存档"
-draft: false 
-published: 2007-12-31
-categories: 
-  - "weblog"
+Date: 2007-12-31T23:56:00.000Z
+pubDatetime: 2007-12-31T23:56:00.000Z
+published: 2007-12-31T23:56:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "er-ling-ling-qi-ji-wai-cun-dang"
+draft: false
 ---
-
 2003-2007，我用四年的时光铸就了永远的悔恨！ 2007-12-31 周一 23:56:45 通过 GTalk  
   
 

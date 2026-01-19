@@ -1,11 +1,15 @@
 ---
 title: "Vector RB-100钟控收音机"
-draft: false 
-published: 2015-05-01
-categories: 
-  - "weblog"
+Date: 2015-05-01T11:55:00.000Z
+pubDatetime: 2015-05-01T11:55:00.000Z
+published: 2015-05-01T11:55:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "vectorrb100-zhong-kong-shou-yin-ji"
+draft: false
 ---
-
 这几天迷上大数字LED时钟，在淘宝上搜到了Vector RB-100钟控收音机，但看到买的人不多，看起来很不错，挺大的数字LED显示，当房间里的夜光时钟不错。  
   
 因为没有标注具体显示的尺寸，只有整体高度11.5cm，估计了LED的尺寸应该也还不小，设想应该比1寸数码管要大点，没想到手后发现理想现实有些差距，同1寸数码管相比还小那么一点点，但因为它的笔画较细，亮度更均匀，LED效果挺好，单独的每个笔画亮度细致均匀，显示起来更加精致一点。  
@@ -14,12 +18,12 @@ categories:
   
 外壳也没有预想的粗糙感，很细致。想自己打开看看调高光、低光的问题，去掉仅有的两个螺丝后无从下手了，外壳还是卡的紧紧的，看来内部的卡扣有很多，无损拆开看来难度不小，索性先放下了。  
   
-![Nikon 2015-04-29 22-24-51](/images/Nikon-2015-04-29-22-24-51.jpg)  
+[![Nikon 2015-04-29 22-24-51](https://zhao.im/wp-content/uploads/Nikon-2015-04-29-22-24-51.jpg)](https://zhao.im/wp-content/uploads/Nikon-2015-04-29-22-24-51.jpg)  
   
-![Nikon 2015-04-29 22-25-06](/images/Nikon-2015-04-29-22-25-06.jpg)  
+[![Nikon 2015-04-29 22-25-06](https://zhao.im/wp-content/uploads/Nikon-2015-04-29-22-25-06.jpg)](https://zhao.im/wp-content/uploads/Nikon-2015-04-29-22-25-06.jpg)  
   
-![Nikon 2015-04-29 22-25-17](/images/Nikon-2015-04-29-22-25-17.jpg)  
+[![Nikon 2015-04-29 22-25-17](https://zhao.im/wp-content/uploads/Nikon-2015-04-29-22-25-17.jpg)](https://zhao.im/wp-content/uploads/Nikon-2015-04-29-22-25-17.jpg)  
   
-![Nikon 2015-04-29 22-25-27](/images/Nikon-2015-04-29-22-25-27.jpg)
+[![Nikon 2015-04-29 22-25-27](https://zhao.im/wp-content/uploads/Nikon-2015-04-29-22-25-27.jpg)](https://zhao.im/wp-content/uploads/Nikon-2015-04-29-22-25-27.jpg)
 
 stardust@live.com

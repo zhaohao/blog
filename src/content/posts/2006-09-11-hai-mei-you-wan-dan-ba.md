@@ -1,11 +1,15 @@
 ---
 title: "还没有完蛋吧？"
-draft: false 
-published: 2006-09-11
-categories: 
-  - "weblog"
+Date: 2006-09-11T23:28:00.000Z
+pubDatetime: 2006-09-11T23:28:00.000Z
+published: 2006-09-11T23:28:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "hai-mei-you-wan-dan-ba"
+draft: false
 ---
-
 今天好伤心，一切的事情都是别人在做，我什么都做不了，因为我没有资格  
 呵呵，自嘲  
 Monday, September 11, 2006 23:28  

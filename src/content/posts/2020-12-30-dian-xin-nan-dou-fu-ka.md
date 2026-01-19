@@ -1,11 +1,15 @@
 ---
 title: "电信南都福卡"
-draft: false 
-published: 2020-12-30
-categories: 
-  - "memos"
+Date: 2020-12-30T03:14:00.000Z
+pubDatetime: 2020-12-30T03:14:00.000Z
+published: 2020-12-30T03:14:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Memos"]
+slug: "dian-xin-nan-dou-fu-ka"
+draft: false
 ---
-
 续上了两年优惠。
 
-![](/images/2020-12-30-fanfou-wordpress.jpg)
+![](https://zhao.im/wp-content/uploads/2020-12-30-fanfou-wordpress.jpg)

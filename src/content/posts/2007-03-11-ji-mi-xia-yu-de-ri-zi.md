@@ -1,12 +1,16 @@
 ---
 title: "几米－下雨的日子"
-draft: false 
-published: 2007-03-11
-categories: 
-  - "weblog"
+Date: 2007-03-11T15:13:00.000Z
+pubDatetime: 2007-03-11T15:13:00.000Z
+published: 2007-03-11T15:13:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "ji-mi-xia-yu-de-ri-zi"
+draft: false
 ---
-
-![](/images/xiayu2.jpg)下雨的日子  
+[![](https://zhao.im/wp-content/uploads/xiayu2.jpg)](https://zhao.im/wp-content/uploads/xiayu2.jpg)下雨的日子  
   
 雨就这么一直下着，我就这么一直望着  
   

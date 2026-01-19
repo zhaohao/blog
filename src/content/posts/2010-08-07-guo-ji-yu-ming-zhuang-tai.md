@@ -1,11 +1,15 @@
 ---
 title: "国际域名状态"
-draft: false 
-published: 2010-08-07
-categories: 
-  - "weblog"
+Date: 2010-08-07T12:25:00.000Z
+pubDatetime: 2010-08-07T12:25:00.000Z
+published: 2010-08-07T12:25:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "guo-ji-yu-ming-zhuang-tai"
+draft: false
 ---
-
 1、.com.net国际域名几种状态  
   
 <Active> 正常状态  

@@ -1,11 +1,15 @@
 ---
 title: "只言片语二零一零年十二月"
-draft: false 
-published: 2010-12-26
-categories: 
-  - "weblog"
+Date: 2010-12-26T20:11:00.000Z
+pubDatetime: 2010-12-26T20:11:00.000Z
+published: 2010-12-26T20:11:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "zhi-yan-pian-yu-er-ling-yi-ling-nian-shi-er-yue"
+draft: false
 ---
-
 2010-12-26 Chrome keyboard shortcuts – Google  
   
 2010-12-23 Chrome各版本下载集合  

@@ -1,11 +1,15 @@
 ---
 title: "Wisdom of Confucius"
-draft: false 
-published: 2011-12-03
-categories: 
-  - "weblog"
+Date: 2011-12-03T23:13:00.000Z
+pubDatetime: 2011-12-03T23:13:00.000Z
+published: 2011-12-03T23:13:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "wisdom-of-confucius"
+draft: false
 ---
-
 “It does not matter how slow you go so long as you do not stop.”  
   
 Posted on 2011-12-03 23:13

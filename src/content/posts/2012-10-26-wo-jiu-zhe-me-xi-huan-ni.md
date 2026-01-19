@@ -1,11 +1,15 @@
 ---
 title: "我就这么喜欢你……"
-draft: false 
-published: 2012-10-26
-categories: 
-  - "weblog"
+Date: 2012-10-26T22:56:00.000Z
+pubDatetime: 2012-10-26T22:56:00.000Z
+published: 2012-10-26T22:56:00.000Z
+description: ""
+author: "stardust"
+tags: []
+categories: ["Default"]
+slug: "wo-jiu-zhe-me-xi-huan-ni"
+draft: false
 ---
-
 “喂，喂喂，说点什么呀！”绿子把脸埋在我胸前说。  
   
 “说什么？”  
