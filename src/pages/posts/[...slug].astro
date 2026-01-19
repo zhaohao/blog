@@ -111,7 +111,9 @@ const jsonLd = {
         </div>
         
     </div>
-    <div id="tcomments"></div>
+
+    <Twikoo envId="https://twikoo.zme.life" />
+    
     <div class="flex flex-col md:flex-row justify-between mb-4 gap-4 overflow-hidden w-full">
         <a href={entry.data.nextSlug ? getPostUrlBySlug(entry.data.nextSlug) : "#"}
            class:list={["w-full font-bold overflow-hidden active:scale-95", {"pointer-events-none": !entry.data.nextSlug}]}>
@@ -133,20 +135,5 @@ const jsonLd = {
             </div>}
         </a>
     </div>
-
-<script is:inline>
-const script = document.createElement('script')
-script.src = 'https://cdn.jsdelivr.net/npm/twikoo@latest/dist/twikoo.all.min.js'
-script.onload = () => {
-  twikoo.init({
-    envId: 'https://twikoo.zme.life',
-    el: '#tcomments',
-    path: location.href,
-    lang: 'zh-CN',
-  })
-}
-document.head.appendChild(script)
-</script>
-
 
 </MainGridLayout>
