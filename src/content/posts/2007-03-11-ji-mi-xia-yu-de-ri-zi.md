@@ -10,7 +10,7 @@ categories: ["Default"]
 slug: "2007-03-11-ji-mi-xia-yu-de-ri-zi"
 draft: false
 ---
-[![](/images/xiayu2.jpg)](/images/xiayu2.jpg)下雨的日子  
+![](/images/xiayu2.jpg)下雨的日子  
   
 雨就这么一直下着，我就这么一直望着  
   

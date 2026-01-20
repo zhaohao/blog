@@ -11,6 +11,6 @@ slug: "2011-12-13-teng-xun-wei-xin-er-wei-ma-wei-xin-zhang-hao-haozhao"
 draft: false
 ---
 二〇一一一二一三  
-[![tumblr_lw4lw0idse1qktd12o1_500](/images/tumblr_lw4lw0idse1qktd12o1_500.jpg)](/images/tumblr_lw4lw0idse1qktd12o1_500.jpg)
+![tumblr_lw4lw0idse1qktd12o1_500](/images/tumblr_lw4lw0idse1qktd12o1_500.jpg)
 
 stardust@live.com

@@ -10,9 +10,9 @@ categories: ["Default"]
 slug: "2012-07-04-jian-kang-bao-bao"
 draft: false
 ---
-[![DSC06096-702249](/images/DSC06096-702249.jpg)](/images/DSC06096-702249.jpg)  
+![DSC06096-702249](/images/DSC06096-702249.jpg)  
   
-[![TWP_000030-703760](/images/TWP_000030-703760.jpg)](/images/TWP_000030-703760.jpg)  
+![TWP_000030-703760](/images/TWP_000030-703760.jpg)  
   
 Posted on 2012-07-04 10:27
 

@@ -10,7 +10,7 @@ categories: ["Default"]
 slug: "2008-08-03-windows-live-search-background"
 draft: false
 ---
-[![windowslivesearch_bg-787659](/images/windowslivesearch_bg-787659.jpg)](/images/windowslivesearch_bg-787659.jpg)  
+![windowslivesearch_bg-787659](/images/windowslivesearch_bg-787659.jpg)  
   
 Posted on 2008-08-03 22:31
 

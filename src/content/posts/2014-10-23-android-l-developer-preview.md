@@ -13,7 +13,7 @@ draft: false
 Android 5.0 (Lollipop) is almost here and users will begin receiving device updates in November.  
 To help you prepare, the Android 5.0 SDK is now available with final APIs.  
   
-[![Android-l](/images/Android-l.png)](/images/Android-l.png)  
+![Android-l](/images/Android-l.png)  
   
 
 * * *
