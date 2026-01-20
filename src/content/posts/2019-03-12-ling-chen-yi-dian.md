@@ -12,6 +12,6 @@ draft: false
 ---
 2019-03-12 01:01
 
-![](https://zhao.im/wp-content/uploads/2019-03-12-01-02.png)
+![](/images/2019-03-12-01-02.png)
 
 2019-03-12-01-02

@@ -10,6 +10,6 @@ categories: ["Default"]
 slug: "2009-02-09-2009-nian-yuan-xiao-jie"
 draft: false
 ---
-[![](https://zhao.im/wp-content/uploads/CCTV20090209-721913.jpg)](https://zhao.im/wp-content/uploads/CCTV20090209-721913.jpg)
+[![](/images/CCTV20090209-721913.jpg)](/images/CCTV20090209-721913.jpg)
 
 stardust@live.com

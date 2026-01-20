@@ -10,8 +10,8 @@ categories: ["Default"]
 slug: "2014-08-30-cuan-shui-hou-de-ma-chi-xian"
 draft: false
 ---
-[![wpid-wp-1409392962457.jpeg](https://zhao.im/wp-content/uploads/wpid-wp-1409392962457.jpeg)](https://zhao.im/wp-content/uploads/wpid-wp-1409392962457.jpeg)  
+[![wpid-wp-1409392962457.jpeg](/images/wpid-wp-1409392962457.jpeg)](/images/wpid-wp-1409392962457.jpeg)  
   
-[![wpid-wp-1409392952463.jpeg](https://zhao.im/wp-content/uploads/wpid-wp-1409392952463.jpeg)](https://zhao.im/wp-content/uploads/wpid-wp-1409392952463.jpeg)
+[![wpid-wp-1409392952463.jpeg](/images/wpid-wp-1409392952463.jpeg)](/images/wpid-wp-1409392952463.jpeg)
 
 stardust@live.com

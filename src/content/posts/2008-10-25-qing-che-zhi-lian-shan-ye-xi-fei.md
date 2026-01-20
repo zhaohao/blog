@@ -12,7 +12,7 @@ draft: false
 ---
 清澈之恋-杉野希妃  
   
-[![clean-love](https://zhao.im/wp-content/uploads/clean-love.jpg)](https://zhao.im/wp-content/uploads/clean-love.jpg)  
+[![clean-love](/images/clean-love.jpg)](/images/clean-love.jpg)  
   
 Posted on 2008-10-25 22:05
 

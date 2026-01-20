@@ -12,8 +12,8 @@ draft: false
 ---
 夜 2020-10-25 23:02 通过有饭
 
-![](https://zhao.im/wp-content/uploads/2020-10-25-fanfou2-wordpress.jpg)
+![](/images/2020-10-25-fanfou2-wordpress.jpg)
 
 没法照管，完全靠天的生长，时间以半年为单位计。 2020-10-25 23:00 通过有饭
 
-![](https://zhao.im/wp-content/uploads/2020-10-25-fanfou-wordpress.jpg)
+![](/images/2020-10-25-fanfou-wordpress.jpg)

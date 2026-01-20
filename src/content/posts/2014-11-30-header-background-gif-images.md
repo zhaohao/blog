@@ -11,8 +11,8 @@ slug: "2014-11-30-header-background-gif-images"
 draft: false
 ---
 ▼ Rain.  
-[![rain](https://zhao.im/wp-content/uploads/rain.gif)](https://zhao.im/wp-content/uploads/rain.gif)  
+[![rain](/images/rain.gif)](/images/rain.gif)  
 ▼ Sea.  
-[![sea](https://zhao.im/wp-content/uploads/sea.gif)](https://zhao.im/wp-content/uploads/sea.gif)
+[![sea](/images/sea.gif)](/images/sea.gif)
 
 stardust@live.com

@@ -12,4 +12,4 @@ draft: false
 ---
 5G 的速度还不错，应该是卡有限速300。
 
-![](https://zhao.im/wp-content/uploads/2021-01-25-fanfou-wordpress.jpg)
+![](/images/2021-01-25-fanfou-wordpress.jpg)

@@ -10,4 +10,4 @@ categories: ["Memos"]
 slug: "2020-01-19-tun-shu-xiao-huang-xiao-hei"
 draft: false
 ---
-![](https://zhao.im/wp-content/uploads/2020-01-19-fanfou-wordpress.jpg)
+![](/images/2020-01-19-fanfou-wordpress.jpg)

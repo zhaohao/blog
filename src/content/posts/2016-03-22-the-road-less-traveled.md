@@ -10,6 +10,6 @@ categories: ["Default"]
 slug: "2016-03-22-the-road-less-traveled"
 draft: false
 ---
-[![The-Road-Less-Traveled](https://zhao.im/wp-content/uploads/The-Road-Less-Traveled.jpg)](https://zhao.im/wp-content/uploads/The-Road-Less-Traveled.jpg)
+[![The-Road-Less-Traveled](/images/The-Road-Less-Traveled.jpg)](/images/The-Road-Less-Traveled.jpg)
 
 stardust@live.com

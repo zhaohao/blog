@@ -10,7 +10,7 @@ categories: ["Default"]
 slug: "2010-12-13-new-facebook-mail"
 draft: false
 ---
-[![](https://zhao.im/wp-content/uploads/FBmail-746507.png)](https://zhao.im/wp-content/uploads/FBmail-746507.png)  
+[![](/images/FBmail-746507.png)](/images/FBmail-746507.png)  
   
 
 stardust@live.com

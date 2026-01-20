@@ -20,4 +20,4 @@ draft: false
 
 上传了新照片 2020-12-17 10:06
 
-![](https://zhao.im/wp-content/uploads/2020-12-07-fanfou-wordpress.jpg)
+![](/images/2020-12-07-fanfou-wordpress.jpg)

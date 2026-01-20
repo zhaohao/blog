@@ -10,7 +10,7 @@ categories: ["Default"]
 slug: "2008-07-27-guangzhousummer"
 draft: false
 ---
-![](https://zhao.im/wp-content/uploads/Screenshot0030-730824.jpg)![](https://zhao.im/wp-content/uploads/stardust0034.png)  
+![](/images/Screenshot0030-730824.jpg)![](/images/stardust0034.png)  
 very very hot!!
 
 stardust@live.com

@@ -10,8 +10,8 @@ categories: ["Default"]
 slug: "2015-09-18-kindle-shu-ban-shi-tou-ji"
 draft: false
 ---
-[![SIMG-2015-08-12 23-26-56](https://zhao.im/wp-content/uploads/SIMG-2015-08-12-23-26-56.jpg)](https://zhao.im/wp-content/uploads/SIMG-2015-08-12-23-26-56.jpg)  
+[![SIMG-2015-08-12 23-26-56](/images/SIMG-2015-08-12-23-26-56.jpg)](/images/SIMG-2015-08-12-23-26-56.jpg)  
   
-[![IMG_20150918_100641](https://zhao.im/wp-content/uploads/IMG_20150918_100641.jpg)](https://zhao.im/wp-content/uploads/IMG_20150918_100641.jpg)
+[![IMG_20150918_100641](/images/IMG_20150918_100641.jpg)](/images/IMG_20150918_100641.jpg)
 
 stardust@live.com

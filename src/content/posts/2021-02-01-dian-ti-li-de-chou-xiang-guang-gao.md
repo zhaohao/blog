@@ -12,4 +12,4 @@ draft: false
 ---
 莫名的违和感。
 
-![](https://zhao.im/wp-content/uploads/2021-02-01-fanfou-wordpress.jpg)
+![](/images/2021-02-01-fanfou-wordpress.jpg)

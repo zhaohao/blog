@@ -10,7 +10,7 @@ categories: ["Default"]
 slug: "2014-09-10-nyu-er-de-ya-chi-you-yao-tian-liang-ke"
 draft: false
 ---
-[![Nikon 2014-09-10 20-46-07](https://zhao.im/wp-content/uploads/Nikon-2014-09-10-20-46-07.jpg)](https://zhao.im/wp-content/uploads/Nikon-2014-09-10-20-46-07.jpg)  
+[![Nikon 2014-09-10 20-46-07](/images/Nikon-2014-09-10-20-46-07.jpg)](/images/Nikon-2014-09-10-20-46-07.jpg)  
   
 ▲ 女儿的牙齿又要添两颗，二零一四年九月十日Zoe@Guangzhou
 

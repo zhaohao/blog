@@ -10,8 +10,8 @@ categories: ["Memos"]
 slug: "2022-05-08-yu-jie-he-qiao-de-dui-bi"
 draft: false
 ---
-![](https://zhao.im/wp-content/uploads/2022-05-08-fanfou2-wordpress.jpg)
+![](/images/2022-05-08-fanfou2-wordpress.jpg)
 
 雨🌧️
 
-![](https://zhao.im/wp-content/uploads/2022-05-08-fanfou-wordpress.jpg)
+![](/images/2022-05-08-fanfou-wordpress.jpg)

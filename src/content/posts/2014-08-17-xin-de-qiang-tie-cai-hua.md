@@ -10,6 +10,6 @@ categories: ["Default"]
 slug: "2014-08-17-xin-de-qiang-tie-cai-hua"
 draft: false
 ---
-[![20140817_121355_Android](https://zhao.im/wp-content/uploads/20140817_121355_Android.jpg)](https://zhao.im/wp-content/uploads/20140817_121355_Android.jpg)
+[![20140817_121355_Android](/images/20140817_121355_Android.jpg)](/images/20140817_121355_Android.jpg)
 
 stardust@live.com

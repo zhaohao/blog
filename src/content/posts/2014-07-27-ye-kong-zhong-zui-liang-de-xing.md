@@ -34,6 +34,6 @@ draft: false
   
 \[audio mp3="/wp-content/uploads/star.mp3"\]\[/audio\]  
   
-[![shinning-star](https://zhao.im/wp-content/uploads/shinning-star.jpg)](https://zhao.im/wp-content/uploads/shinning-star.jpg)
+[![shinning-star](/images/shinning-star.jpg)](/images/shinning-star.jpg)
 
 stardust@live.com

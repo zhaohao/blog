@@ -10,7 +10,7 @@ categories: ["Default"]
 slug: "2008-12-13-wallpaper-qq"
 draft: false
 ---
-[![wallpaper-qq-vip-200812](https://zhao.im/wp-content/uploads/wallpaper-qq-vip-200812.jpg)](https://zhao.im/wp-content/uploads/wallpaper-qq-vip-200812.jpg)  
+[![wallpaper-qq-vip-200812](/images/wallpaper-qq-vip-200812.jpg)](/images/wallpaper-qq-vip-200812.jpg)  
 Posted on 2008-12-13 14:07
 
 stardust@live.com

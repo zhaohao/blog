@@ -10,7 +10,7 @@ categories: ["Default"]
 slug: "2015-05-07-yong-dao-xian-zai-zui-zao-de-microsoftaccount"
 draft: false
 ---
-[![2015-05-07-winliveid](https://zhao.im/wp-content/uploads/2015-05-07-winliveid.png)](https://zhao.im/wp-content/uploads/2015-05-07-winliveid.png)  
+[![2015-05-07-winliveid](/images/2015-05-07-winliveid.png)](/images/2015-05-07-winliveid.png)  
   
 用到现在最早的Microsoft Account
 

@@ -10,7 +10,7 @@ categories: ["Default"]
 slug: "2014-11-07-wu-suo-bu-yong-qi-ji"
 draft: false
 ---
-[![gate](https://zhao.im/wp-content/uploads/gate.jpg)](https://zhao.im/wp-content/uploads/gate.jpg)  
+[![gate](/images/gate.jpg)](/images/gate.jpg)  
   
 外面的世界很精彩，这里的世界很无奈……  
   

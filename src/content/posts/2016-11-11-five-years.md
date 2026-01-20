@@ -12,6 +12,6 @@ draft: false
 ---
 20111111-20161111结婚五周年纪念日。  
 ……  
-![2016-11-11-the-fifth-wedding-anniversary](https://zhao.im/wp-content/uploads/2016-11-11-the-fifth-wedding-anniversary-citizen.jpg) ![2016-11-11-the-fifth-wedding-anniversary](https://zhao.im/wp-content/uploads/2016-11-11-the-fifth-wedding-anniversary-citizen-02.jpg) ![20111111-20161111](https://zhao.im/wp-content/uploads/2016-11-11-20161111.jpg)
+![2016-11-11-the-fifth-wedding-anniversary](/images/2016-11-11-the-fifth-wedding-anniversary-citizen.jpg) ![2016-11-11-the-fifth-wedding-anniversary](/images/2016-11-11-the-fifth-wedding-anniversary-citizen-02.jpg) ![20111111-20161111](/images/2016-11-11-20161111.jpg)
 
 Friday, November 11, 2016

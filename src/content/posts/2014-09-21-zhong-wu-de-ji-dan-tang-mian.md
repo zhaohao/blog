@@ -10,6 +10,6 @@ categories: ["Default"]
 slug: "2014-09-21-zhong-wu-de-ji-dan-tang-mian"
 draft: false
 ---
-[![IMG_20140921_142623](https://zhao.im/wp-content/uploads/IMG_20140921_142623.jpg)](https://zhao.im/wp-content/uploads/IMG_20140921_142623.jpg) [![IMG_20140921_142443](https://zhao.im/wp-content/uploads/IMG_20140921_142443.jpg)](https://zhao.im/wp-content/uploads/IMG_20140921_142443.jpg)
+[![IMG_20140921_142623](/images/IMG_20140921_142623.jpg)](/images/IMG_20140921_142623.jpg) [![IMG_20140921_142443](/images/IMG_20140921_142443.jpg)](/images/IMG_20140921_142443.jpg)
 
 stardust@live.com

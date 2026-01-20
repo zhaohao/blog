@@ -10,6 +10,6 @@ categories: ["Default"]
 slug: "2009-04-30-8915-shen-me-ne-bu-zhi-dao-shi-jian-cong-cong"
 draft: false
 ---
-[![](https://zhao.im/wp-content/uploads/medium2009-705582.jpg)](https://zhao.im/wp-content/uploads/medium2009-705582.jpg)
+[![](/images/medium2009-705582.jpg)](/images/medium2009-705582.jpg)
 
 stardust@live.com

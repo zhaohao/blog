@@ -22,6 +22,6 @@ draft: false
   
 恍然若隔世……  
   
-[![loopdool-bg.jpg](https://zhao.im/wp-content/uploads/loopdool-bg.jpg)](https://zhao.im/wp-content/uploads/loopdool-bg.jpg)
+[![loopdool-bg.jpg](/images/loopdool-bg.jpg)](/images/loopdool-bg.jpg)
 
 stardust@live.com

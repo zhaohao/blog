@@ -14,4 +14,4 @@ draft: false
 
 如盛夏般的冬季。
 
-![](https://zhao.im/wp-content/uploads/2020-12-28-fanfou-wordpress.jpg)
+![](/images/2020-12-28-fanfou-wordpress.jpg)
