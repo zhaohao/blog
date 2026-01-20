@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ji-mi-xia-yu-de-ri-zi"
+slug: "2007-03-11-ji-mi-xia-yu-de-ri-zi"
 draft: false
 ---
 [![](https://zhao.im/wp-content/uploads/xiayu2.jpg)](https://zhao.im/wp-content/uploads/xiayu2.jpg)下雨的日子  

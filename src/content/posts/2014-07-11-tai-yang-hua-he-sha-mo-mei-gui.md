@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "tai-yang-hua-he-sha-mo-mei-gui"
+slug: "2014-07-11-tai-yang-hua-he-sha-mo-mei-gui"
 draft: false
 ---
 阳台上的那些小植物～  

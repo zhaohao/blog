@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "lian-xiang-ru-men-ji-xie-jian-pan-mk100"
+slug: "2015-06-19-lian-xiang-ru-men-ji-xie-jian-pan-mk100"
 draft: false
 ---
 199入手第一个机械键盘，国产青轴，无边框设计，据介绍防水。因为没用过其他机械键盘，对比一般薄膜键盘，手感上强太多太多，噼里啪啦很有感觉，真如别人所讲一入机械再难回头。  

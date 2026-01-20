@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "guang-zhou-yi-dong-ji-lu"
+slug: "2021-01-03-guang-zhou-yi-dong-ji-lu"
 draft: false
 ---
 从 2008 年换号码到现在了。

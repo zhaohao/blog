@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "shi-zhe-tian-jia-le-https-de-zhi-chi"
+slug: "2015-07-16-shi-zhe-tian-jia-le-https-de-zhi-chi"
 draft: false
 ---
 在StartSSL上面申请了免费的SSL证书，`StartCom Class 1 Primary Intermediate Server CA`  

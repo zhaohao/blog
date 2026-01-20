@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "9437-yue-si-ri-tian-qi-qing-liang-you-le-qiu-tian-de-gan-jue"
+slug: "2010-10-04-9437-yue-si-ri-tian-qi-qing-liang-you-le-qiu-tian-de-gan-jue"
 draft: false
 ---
 昨晚凉风开始起来，一阵阵的掀开窗帘扫进屋子，有了秋天的感觉。  

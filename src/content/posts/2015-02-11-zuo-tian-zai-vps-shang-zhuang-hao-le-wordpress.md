@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zuo-tian-zai-vps-shang-zhuang-hao-le-wordpress"
+slug: "2015-02-11-zuo-tian-zai-vps-shang-zhuang-hao-le-wordpress"
 draft: false
 ---
 **这**一个VPS一直以来稳定运行着Ubuntu+Shadowsocks+Node.js+Nginx+Ghost，但Ghost博客实在是太小众，和Wordpress的外围配套设施完全没得比，移动端也没有客户端支持，更主要的是没有可以转平台的导出工具，想着时间越久越受困，就又动心思换回wordpress。  

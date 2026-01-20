@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhong-qiu-shi-jie"
+slug: "2008-09-14-zhong-qiu-shi-jie"
 draft: false
 ---
 中秋的广州不似秋，这几天三十五六度的天气俨然仍是酷暑。  

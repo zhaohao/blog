@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "hiragion-sans-gb"
+slug: "2010-10-17-hiragion-sans-gb"
 draft: false
 ---
 字体名称：Hiragion Sans GB  

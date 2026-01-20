@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "would-you-wait-for-me-forever"
+slug: "2010-01-13-would-you-wait-for-me-forever"
 draft: false
 ---
 i stand alone in the darkness the winter of my life come so fast  

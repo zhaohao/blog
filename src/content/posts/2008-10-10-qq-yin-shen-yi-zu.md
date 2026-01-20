@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "qq-yin-shen-yi-zu"
+slug: "2008-10-10-qq-yin-shen-yi-zu"
 draft: false
 ---
 我刚上线,QQ对话框里就跳出来一段话:”半年了都不见你上网?”是我的一位大学同学,我写了一行字过去:”其实我每天都在线,不过隐身而已.” 很快,QQ上一个灰色的头像就动了起来,原来我这个同学也在隐身,他说:”其实也没有什么事.”然后他的头像继续灰色,我们谁也没有继续聊天,就这样归于沉默.  

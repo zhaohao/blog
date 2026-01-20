@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "er-ling-ling-qi-nian-qi-yue"
+slug: "2007-07-05-er-ling-ling-qi-nian-qi-yue"
 draft: false
 ---
 二零零七年七月  

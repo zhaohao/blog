@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "kan-dao-de-yi-xie-hua"
+slug: "2009-12-24-kan-dao-de-yi-xie-hua"
 draft: false
 ---
 给”蜗居””蚁族”一代的箴言 胡敏 分类：胡敏语录之人生感言  

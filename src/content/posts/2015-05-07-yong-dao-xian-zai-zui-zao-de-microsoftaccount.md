@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yong-dao-xian-zai-zui-zao-de-microsoftaccount"
+slug: "2015-05-07-yong-dao-xian-zai-zui-zao-de-microsoftaccount"
 draft: false
 ---
 [![2015-05-07-winliveid](https://zhao.im/wp-content/uploads/2015-05-07-winliveid.png)](https://zhao.im/wp-content/uploads/2015-05-07-winliveid.png)  

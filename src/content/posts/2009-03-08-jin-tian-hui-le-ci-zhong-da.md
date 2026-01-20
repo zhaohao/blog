@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jin-tian-hui-le-ci-zhong-da"
+slug: "2009-03-08-jin-tian-hui-le-ci-zhong-da"
 draft: false
 ---
 以往都是很宅，出去补办手机卡成了一个今天自己必须出门的理由，因为昨天已经发现离的最近的那个移动服务厅被大大的手机商铺取代而白去一次，回来在网上查了几个移动服务厅的位置，发现这些位置反正是要坐公交的了，于是决定还是去学校里面这个，顺路再看一看曾经熟悉的地方，已经很久没回校园看看了。  

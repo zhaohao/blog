@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ai-yue-tuan-si-er-wu-han"
+slug: "2008-06-30-ai-yue-tuan-si-er-wu-han"
 draft: false
 ---
 岁月在蒸发，蝴蝶依旧恋着花。  

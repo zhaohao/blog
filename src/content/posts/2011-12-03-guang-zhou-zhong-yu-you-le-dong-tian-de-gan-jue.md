@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "guang-zhou-zhong-yu-you-le-dong-tian-de-gan-jue"
+slug: "2011-12-03-guang-zhou-zhong-yu-you-le-dong-tian-de-gan-jue"
 draft: false
 ---
 广州终于有了冬天的感觉，阳光很好……  

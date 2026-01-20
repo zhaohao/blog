@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "green-bamboo-leaves"
+slug: "2012-04-27-green-bamboo-leaves"
 draft: false
 ---
 Green bamboo leaves  

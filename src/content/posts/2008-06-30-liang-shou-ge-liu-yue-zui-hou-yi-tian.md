@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "liang-shou-ge-liu-yue-zui-hou-yi-tian"
+slug: "2008-06-30-liang-shou-ge-liu-yue-zui-hou-yi-tian"
 draft: false
 ---
 一生何求-陈百强 What I need In My Life  

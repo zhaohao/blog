@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "8910-ling-chen-shi-hou-le-hen-kun-le"
+slug: "2009-04-25-8910-ling-chen-shi-hou-le-hen-kun-le"
 draft: false
 ---
 天气非常的潮湿，触摸到的东西都有种潮潮的感觉。  

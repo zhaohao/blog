@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wu-liao-er-yi"
+slug: "2009-04-15-wu-liao-er-yi"
 draft: false
 ---
 无聊而已，仅此而已，没有别的……  

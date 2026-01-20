@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhu-zi-nu-cai-he-gou-zuo-zhe-han-han"
+slug: "2010-09-18-zhu-zi-nu-cai-he-gou-zuo-zhe-han-han"
 draft: false
 ---
 在这个敏感的时刻，我有的朋友开始研究要不要游行。当然，游的主体可以是反日保钓救船长。终于，在一个很多论坛里连“游行”两个字都打不出来的国家里，我们有行可以游了。那么，要不要参加这次命题一日游呢？  

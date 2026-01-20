@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "xin-bu-ding-xin-bu-jing-zhuang-tai-bu-hao"
+slug: "2010-04-21-xin-bu-ding-xin-bu-jing-zhuang-tai-bu-hao"
 draft: false
 ---
 二〇一〇年四月二十一日星期三 11:55:50  

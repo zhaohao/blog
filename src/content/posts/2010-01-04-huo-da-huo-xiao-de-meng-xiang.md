@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "huo-da-huo-xiao-de-meng-xiang"
+slug: "2010-01-04-huo-da-huo-xiao-de-meng-xiang"
 draft: false
 ---
 每个人在现实的背后都有着或大或小的梦想~  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "mo-ming-qi-miao-zhe-shi-zen-me-zhao-le"
+slug: "2008-12-02-mo-ming-qi-miao-zhe-shi-zen-me-zhao-le"
 draft: false
 ---
 昨天晚上做梦，梦到回到家了，不知怎么的就又飘到另外一个环境，似乎是天寒地冻，要过一条马路。  

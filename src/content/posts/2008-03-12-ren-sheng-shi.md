@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ren-sheng-shi"
+slug: "2008-03-12-ren-sheng-shi"
 draft: false
 ---
 人生就是一个轮回的游戏，没有人会知道结局，更没有谁会为谁负责，因为谁也不是谁的谁!  

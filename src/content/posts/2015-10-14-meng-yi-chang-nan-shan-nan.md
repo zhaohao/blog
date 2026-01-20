@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "meng-yi-chang-nan-shan-nan"
+slug: "2015-10-14-meng-yi-chang-nan-shan-nan"
 draft: false
 ---
 我们都曾经寂寞而给对方承诺　我们都因为折磨而厌倦了生活  

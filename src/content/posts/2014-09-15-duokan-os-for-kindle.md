@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "duokan-os-for-kindle"
+slug: "2014-09-15-duokan-os-for-kindle"
 draft: false
 ---
 [![Nikon 2014-09-12 13-48-32](https://zhao.im/wp-content/uploads/Nikon-2014-09-12-13-48-32.jpg)](https://zhao.im/wp-content/uploads/Nikon-2014-09-12-13-48-32.jpg)  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ni-bu-nu-li-shui-ye-gei-bu-liao-ni-xiang-yao-de-sheng-huo"
+slug: "2015-03-28-ni-bu-nu-li-shui-ye-gei-bu-liao-ni-xiang-yao-de-sheng-huo"
 draft: false
 ---
 **现**在凌晨零点三十八分，我刚挂了电话，与我的好姐妹。  

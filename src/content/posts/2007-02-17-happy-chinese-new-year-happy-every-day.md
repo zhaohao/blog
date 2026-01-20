@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "happy-chinese-new-year-happy-every-day"
+slug: "2007-02-17-happy-chinese-new-year-happy-every-day"
 draft: false
 ---
 Happy Chinese new year ,happy every day!

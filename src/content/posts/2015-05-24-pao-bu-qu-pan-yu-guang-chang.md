@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "pao-bu-qu-pan-yu-guang-chang"
+slug: "2015-05-24-pao-bu-qu-pan-yu-guang-chang"
 draft: false
 ---
 Acui今天P班，心血来潮出门去广场接她顺道跑步。湿气腾腾的空气，一种压抑的感觉铺天盖地。  

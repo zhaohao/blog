@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "some-words"
+slug: "2010-01-04-some-words"
 draft: false
 ---
 In any walk of life, if you want other people to take notice of you, you can only do it by relying on solid achievements and sound abililty.  

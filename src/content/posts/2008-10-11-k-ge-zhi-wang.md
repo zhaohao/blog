@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "k-ge-zhi-wang"
+slug: "2008-10-11-k-ge-zhi-wang"
 draft: false
 ---
 我以为要是唱的用心良苦，你总会对我多点在乎；我以为虽然爱情已成往事，千言万语说出来可以互相安抚。  

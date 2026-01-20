@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ipad-suo-ping-bi-zhi"
+slug: "2014-09-23-ipad-suo-ping-bi-zhi"
 draft: false
 ---
 [![20140918_233716000_iOS](https://zhao.im/wp-content/uploads/20140918_233716000_iOS.jpg)](https://zhao.im/wp-content/uploads/20140918_233716000_iOS.jpg)  

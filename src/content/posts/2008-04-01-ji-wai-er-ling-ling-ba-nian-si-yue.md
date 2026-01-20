@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ji-wai-er-ling-ling-ba-nian-si-yue"
+slug: "2008-04-01-ji-wai-er-ling-ling-ba-nian-si-yue"
 draft: false
 ---
 其实只要你还活着，你就没有停歇的机会，哪怕你曾经恋爱失败、事业受挫、颓废迷惘、糜烂可耻、忍气吞声……  

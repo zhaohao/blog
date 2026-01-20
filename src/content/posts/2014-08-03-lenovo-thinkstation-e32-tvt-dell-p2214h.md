@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "lenovo-thinkstation-e32-tvt-dell-p2214h"
+slug: "2014-08-03-lenovo-thinkstation-e32-tvt-dell-p2214h"
 draft: false
 ---
 电脑型号 联想 98002993 Tower  

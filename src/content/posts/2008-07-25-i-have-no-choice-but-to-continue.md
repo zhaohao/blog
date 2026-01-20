@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "i-have-no-choice-but-to-continue"
+slug: "2008-07-25-i-have-no-choice-but-to-continue"
 draft: false
 ---
 I have no choice but to continue.  

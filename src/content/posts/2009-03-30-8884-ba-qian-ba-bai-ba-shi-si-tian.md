@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "8884-ba-qian-ba-bai-ba-shi-si-tian"
+slug: "2009-03-30-8884-ba-qian-ba-bai-ba-shi-si-tian"
 draft: false
 ---
 \[8884\]八千八百八十四天……  

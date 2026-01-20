@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jiu-xing-ren-ge-fen-xi-zhi-wo-yi"
+slug: "2008-03-16-jiu-xing-ren-ge-fen-xi-zhi-wo-yi"
 draft: false
 ---
 九型人格分析  

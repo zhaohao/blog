@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "you-shi-wu-yan-de-zhou-mo"
+slug: "2008-11-29-you-shi-wu-yan-de-zhou-mo"
 draft: false
 ---
 正中午，广州，裹在厚厚的棉被里面居然还双脚冰凉。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "naruto-qing-niao"
+slug: "2008-08-06-naruto-qing-niao"
 draft: false
 ---
 如果振翅高飞，我说过不会再回来，目标是那，蔚蓝的 蔚蓝的 天空。  

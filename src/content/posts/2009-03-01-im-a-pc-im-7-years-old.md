@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "im-a-pc-im-7-years-old"
+slug: "2009-03-01-im-a-pc-im-7-years-old"
 draft: false
 ---
 Windows Live Life Without Walls : Windows Live Photo Gallery  

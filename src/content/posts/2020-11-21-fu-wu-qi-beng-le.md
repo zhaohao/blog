@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "fu-wu-qi-beng-le"
+slug: "2020-11-21-fu-wu-qi-beng-le"
 draft: false
 ---
 服务器崩了。

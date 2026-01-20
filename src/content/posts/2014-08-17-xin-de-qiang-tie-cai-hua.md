@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "xin-de-qiang-tie-cai-hua"
+slug: "2014-08-17-xin-de-qiang-tie-cai-hua"
 draft: false
 ---
 [![20140817_121355_Android](https://zhao.im/wp-content/uploads/20140817_121355_Android.jpg)](https://zhao.im/wp-content/uploads/20140817_121355_Android.jpg)

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "rosettastone-ru-shi-tong"
+slug: "2011-03-01-rosettastone-ru-shi-tong"
 draft: false
 ---
 如师通.(Rosetta.Stone).v3.4.5.英语.(美国).1.2.3.4.5.级.(Win32.云端版)  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "you-shi-yi-tian-guo-qu-le"
+slug: "2015-10-09-you-shi-yi-tian-guo-qu-le"
 draft: false
 ---
 匆匆的又一天。  

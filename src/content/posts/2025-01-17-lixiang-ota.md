@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "lixiang-ota"
+slug: "2025-01-17-lixiang-ota"
 draft: false
 ---
 理想汽车OTA内测圈子小礼物🎁，挺有质感的一个磁吸徽章。

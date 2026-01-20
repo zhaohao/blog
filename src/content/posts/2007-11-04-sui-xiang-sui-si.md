@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "sui-xiang-sui-si"
+slug: "2007-11-04-sui-xiang-sui-si"
 draft: false
 ---
 晚上突然想关掉电脑一段时间，想回味一下看书的感觉。翻出了大学几年买的青年文摘，有03年的，04年的，06年的，从时间上看也是一个耐人寻味的东西，是关乎心情抑或是其它已经不得而知。或许还有更多，只是现在再没有它们的影子。  

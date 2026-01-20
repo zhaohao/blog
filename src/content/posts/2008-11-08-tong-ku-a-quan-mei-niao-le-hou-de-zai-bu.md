@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "tong-ku-a-quan-mei-niao-le-hou-de-zai-bu"
+slug: "2008-11-08-tong-ku-a-quan-mei-niao-le-hou-de-zai-bu"
 draft: false
 ---
 昨天立冬，终于要进入冬季了，到搞笑的是广州昨天的气温最高又达到了三十度，太阳还是有点炙热，中午从顶楼平台走去吃饭，看到的景象依然和夏季一样：树仍绿油油一片，阳光依然刺眼，空气依然有一丝炙热。吃过午餐的盒饭，已经是满头满身大汗，匆忙回到位子上靠空调降一降温。  

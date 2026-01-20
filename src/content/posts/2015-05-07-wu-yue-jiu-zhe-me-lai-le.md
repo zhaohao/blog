@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wu-yue-jiu-zhe-me-lai-le"
+slug: "2015-05-07-wu-yue-jiu-zhe-me-lai-le"
 draft: false
 ---
 不经意间已经过了立夏了，但对于这个南方省会城市来讲，意味着就又一次进入了酷暑的天气，火辣的阳光抑或连日的阴雨。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "chun-tian-de-yu-mei-ren"
+slug: "2015-02-10-chun-tian-de-yu-mei-ren"
 draft: false
 ---
 [![IMG_20150209_140845PN](https://zhao.im/wp-content/uploads/IMG_20150209_140845PN.jpg)](https://zhao.im/wp-content/uploads/IMG_20150209_140845PN.jpg)

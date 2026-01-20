@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "cong-xiang-shi-xiang-zhi-dao-zou-dao-yi-qi"
+slug: "2009-07-18-cong-xiang-shi-xiang-zhi-dao-zou-dao-yi-qi"
 draft: false
 ---
 从相识相知到走到一起，我们要幸福……  

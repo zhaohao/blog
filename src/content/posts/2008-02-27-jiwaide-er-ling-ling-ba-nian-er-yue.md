@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jiwaide-er-ling-ling-ba-nian-er-yue"
+slug: "2008-02-27-jiwaide-er-ling-ling-ba-nian-er-yue"
 draft: false
 ---
 winner or loser? 2008-02-27 周三 13:23:03 通过 MSN  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wu-liao-outlook2010-qian-ming-ce-shi"
+slug: "2010-04-30-wu-liao-outlook2010-qian-ming-ce-shi"
 draft: false
 ---
   

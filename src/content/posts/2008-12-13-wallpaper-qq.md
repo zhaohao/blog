@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wallpaper-qq"
+slug: "2008-12-13-wallpaper-qq"
 draft: false
 ---
 [![wallpaper-qq-vip-200812](https://zhao.im/wp-content/uploads/wallpaper-qq-vip-200812.jpg)](https://zhao.im/wp-content/uploads/wallpaper-qq-vip-200812.jpg)  

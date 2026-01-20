@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yi-fu-tu-pian"
+slug: "2007-02-26-yi-fu-tu-pian"
 draft: false
 ---
 蓝色，还是蓝色。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "blogger-bi-ye"
+slug: "2007-05-28-blogger-bi-ye"
 draft: false
 ---
 不幸的是今天blogger又不能访问了。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "guan-yu-ji-mi-yi"
+slug: "2008-03-12-guan-yu-ji-mi-yi"
 draft: false
 ---
 :: 关于幾米 ::  

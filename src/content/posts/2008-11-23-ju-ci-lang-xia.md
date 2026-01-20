@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ju-ci-lang-xia"
+slug: "2008-11-23-ju-ci-lang-xia"
 draft: false
 ---
 [![Kikujiro05-758668](https://zhao.im/wp-content/uploads/Kikujiro05-758668.jpg)](https://zhao.im/wp-content/uploads/Kikujiro05-758668.jpg)  

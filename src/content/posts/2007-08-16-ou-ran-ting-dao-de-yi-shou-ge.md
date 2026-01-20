@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ou-ran-ting-dao-de-yi-shou-ge"
+slug: "2007-08-16-ou-ran-ting-dao-de-yi-shou-ge"
 draft: false
 ---
 沿着区区折折的小路往前，像往常一样和许许多多各式各样的人擦肩而过。  

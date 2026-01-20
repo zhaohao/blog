@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wu-can-da-cong-dou-jiang-chao-fan"
+slug: "2011-12-09-wu-can-da-cong-dou-jiang-chao-fan"
 draft: false
 ---
 午餐，大葱，豆酱炒饭。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "8888-wo-zuo-guo-xie-shen-me-ne"
+slug: "2009-04-03-8888-wo-zuo-guo-xie-shen-me-ne"
 draft: false
 ---
 \[8888\]我做过些什么呢？  

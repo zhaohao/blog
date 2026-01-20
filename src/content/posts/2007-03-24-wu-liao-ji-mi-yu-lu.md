@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wu-liao-ji-mi-yu-lu"
+slug: "2007-03-24-wu-liao-ji-mi-yu-lu"
 draft: false
 ---
 1.人生总有许多巧合，两条平行线也可能会有交汇的一天。人生总有许多意外，握在手里面的风筝也会突然断了线。  

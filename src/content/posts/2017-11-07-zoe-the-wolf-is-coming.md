@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zoe-the-wolf-is-coming"
+slug: "2017-11-07-zoe-the-wolf-is-coming"
 draft: false
 ---
 Zoe讲故事之狼来了。

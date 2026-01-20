@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "8919-ming-tian-li-xia-yang-guang-yao-yan"
+slug: "2009-05-04-8919-ming-tian-li-xia-yang-guang-yao-yan"
 draft: false
 ---
 过了五一假期数小时之后，今天下午放假半天，中午走出来，阳光炽热耀眼，夏天来了……  

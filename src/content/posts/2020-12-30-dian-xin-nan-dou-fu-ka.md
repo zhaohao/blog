@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "dian-xin-nan-dou-fu-ka"
+slug: "2020-12-30-dian-xin-nan-dou-fu-ka"
 draft: false
 ---
 续上了两年优惠。

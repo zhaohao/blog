@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "windows-7-mklink"
+slug: "2010-10-23-windows-7-mklink"
 draft: false
 ---
 C:UsersAcui>mklink  

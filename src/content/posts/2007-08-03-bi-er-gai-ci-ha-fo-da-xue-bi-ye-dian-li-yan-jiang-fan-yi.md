@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "bi-er-gai-ci-ha-fo-da-xue-bi-ye-dian-li-yan-jiang-fan-yi"
+slug: "2007-08-03-bi-er-gai-ci-ha-fo-da-xue-bi-ye-dian-li-yan-jiang-fan-yi"
 draft: false
 ---
   

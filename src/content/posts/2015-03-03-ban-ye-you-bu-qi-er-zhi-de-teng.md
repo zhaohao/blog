@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ban-ye-you-bu-qi-er-zhi-de-teng"
+slug: "2015-03-03-ban-ye-you-bu-qi-er-zhi-de-teng"
 draft: false
 ---
 **结**石毫无预兆的又移动了位置，伴随着的那种揪揪的痛和莫名的反胃恶心的感觉狂风般扑来。还隐隐的发冷，自己去倒了开水，喝下去仍不解决问题，到卫生间开了热水淋浴冲了很久很久才缓过劲来，稍微不那么难受。  

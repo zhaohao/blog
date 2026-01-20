@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "duan-wu-jia-qi-san-tian"
+slug: "2010-06-15-duan-wu-jia-qi-san-tian"
 draft: false
 ---
 到现在还没有睡觉，Acui上夜班，自己现在不知道在做什么~  

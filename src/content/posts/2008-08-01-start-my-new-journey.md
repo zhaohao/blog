@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "start-my-new-journey"
+slug: "2008-08-01-start-my-new-journey"
 draft: false
 ---
 Start My New Journey ! Now Begin!  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "shang-chuan-le-ji-shou-ge-dao-skydrive"
+slug: "2007-12-08-shang-chuan-le-ji-shou-ge-dao-skydrive"
 draft: false
 ---
 第一首：哼唱版本的美丽心情；  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "shou-ji-ce-su-ji-lu"
+slug: "2021-01-25-shou-ji-ce-su-ji-lu"
 draft: false
 ---
 5G 的速度还不错，应该是卡有限速300。

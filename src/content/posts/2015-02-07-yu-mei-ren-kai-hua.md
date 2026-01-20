@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yu-mei-ren-kai-hua"
+slug: "2015-02-07-yu-mei-ren-kai-hua"
 draft: false
 ---
 虞美人开花。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "test-network"
+slug: "2012-10-27-test-network"
 draft: false
 ---
 嘀嘀嗒嗒  

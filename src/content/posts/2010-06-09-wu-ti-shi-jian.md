@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wu-ti-shi-jian"
+slug: "2010-06-09-wu-ti-shi-jian"
 draft: false
 ---
 年度 起始计数 终止计数 计数天数 计数年数  

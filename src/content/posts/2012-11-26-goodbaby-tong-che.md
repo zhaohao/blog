@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "goodbaby-tong-che"
+slug: "2012-11-26-goodbaby-tong-che"
 draft: false
 ---
 Goodbaby童车  

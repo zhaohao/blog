@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ruo-yi-de-pa-xing-dian"
+slug: "2013-11-10-ruo-yi-de-pa-xing-dian"
 draft: false
 ---
 Zoe’s Creeping mat.  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "wei-xin-8-de-kai-ping-ye-mian"
+slug: "2021-01-21-wei-xin-8-de-kai-ping-ye-mian"
 draft: false
 ---
 我看见你、我看见你看见的……

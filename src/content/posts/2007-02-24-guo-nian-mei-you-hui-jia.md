@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "guo-nian-mei-you-hui-jia"
+slug: "2007-02-24-guo-nian-mei-you-hui-jia"
 draft: false
 ---
 无聊的时候总是很多  

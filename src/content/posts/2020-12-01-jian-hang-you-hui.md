@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "jian-hang-you-hui"
+slug: "2020-12-01-jian-hang-you-hui"
 draft: false
 ---
 不懂建行了，先是3张5元兑换码，接着3张10元兑换码，再然后三张15元兑换码。十一月充满意外，十二月但愿继续加油😂

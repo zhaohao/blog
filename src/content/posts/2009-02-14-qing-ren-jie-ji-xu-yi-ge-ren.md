@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "qing-ren-jie-ji-xu-yi-ge-ren"
+slug: "2009-02-14-qing-ren-jie-ji-xu-yi-ge-ren"
 draft: false
 ---
 二月十四，继续一个人。感觉有点孤独。  

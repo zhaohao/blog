@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "yi-xie-sui-sui-nian"
+slug: "2020-12-07-yi-xie-sui-sui-nian"
 draft: false
 ---
 // 人世间所有的感怀，大概物是人非四个字就能概括了。概括不下的，就再等等。

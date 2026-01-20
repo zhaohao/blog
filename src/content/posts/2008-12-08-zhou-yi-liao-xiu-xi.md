@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhou-yi-liao-xiu-xi"
+slug: "2008-12-08-zhou-yi-liao-xiu-xi"
 draft: false
 ---
 十二月一日，上班的地方网络断掉，就不能在白天上网了，这算是对长久以来习惯的一个改变较大的事情吧。  

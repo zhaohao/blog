@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "sheng-ri-kuai-yue-ge"
+slug: "2009-03-26-sheng-ri-kuai-yue-ge"
 draft: false
 ---
 你的生日让我想起，一个很久以前的朋友，那是一个寒冷的冬天，他流浪在街头。  

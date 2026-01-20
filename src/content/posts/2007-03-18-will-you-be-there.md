@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "will-you-be-there"
+slug: "2007-03-18-will-you-be-there"
 draft: false
 ---
 Michael Jackson －Will You Be There  

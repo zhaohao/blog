@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "kai-xue-de-di-yi-tian"
+slug: "2005-02-21-kai-xue-de-di-yi-tian"
 draft: false
 ---
 今天是开学的第一天，只有上午一次数电课，上午借完书就回到宿舍里睡觉了，接着独自去到图书馆里，打算着多看看书，晚饭的时候很饿，可是没有去吃饭，把找的小说书看下去，然后就不觉得饿了。  

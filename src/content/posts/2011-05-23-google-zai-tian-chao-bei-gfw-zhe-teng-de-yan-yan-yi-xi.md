@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "google-zai-tian-chao-bei-gfw-zhe-teng-de-yan-yan-yi-xi"
+slug: "2011-05-23-google-zai-tian-chao-bei-gfw-zhe-teng-de-yan-yan-yi-xi"
 draft: false
 ---
   

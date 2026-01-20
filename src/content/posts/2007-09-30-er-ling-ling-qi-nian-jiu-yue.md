@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "er-ling-ling-qi-nian-jiu-yue"
+slug: "2007-09-30-er-ling-ling-qi-nian-jiu-yue"
 draft: false
 ---
 九月的最后一天,连续发呆了一个月的时间，不知道自己的未来在哪里。一直在做着同一个梦，可惜现在看来有点像是白日梦。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "goagent-ke-hu-duan-lou-dong"
+slug: "2014-12-06-goagent-ke-hu-duan-lou-dong"
 draft: false
 ---
 Goagent客户端惊现pac漏洞，可被远程遍历目录及下载任意文件。  

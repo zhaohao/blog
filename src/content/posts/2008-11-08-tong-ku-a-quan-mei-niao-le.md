@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "tong-ku-a-quan-mei-niao-le"
+slug: "2008-11-08-tong-ku-a-quan-mei-niao-le"
 draft: false
 ---
 辛辛苦苦在手机上按了半天的东西没了！  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zai-digitalocean-de-ubuntuvps-shang-an-zhuang-ghost"
+slug: "2014-10-24-zai-digitalocean-de-ubuntuvps-shang-an-zhuang-ghost"
 draft: false
 ---
 Ghost博客系统刚刚发布的时候就在官方站点注册了一个尝试，记得最初还是以Ghost.io作为官方主域名的。  

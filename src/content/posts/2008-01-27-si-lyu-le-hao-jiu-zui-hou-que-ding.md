@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "si-lyu-le-hao-jiu-zui-hou-que-ding"
+slug: "2008-01-27-si-lyu-le-hao-jiu-zui-hou-que-ding"
 draft: false
 ---
 我绝对不能在HX留太久的时间,在那里永远没有自己的梦想!不离开只会后悔一辈子!  

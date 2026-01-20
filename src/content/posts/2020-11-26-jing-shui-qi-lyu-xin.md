@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "jing-shui-qi-lyu-xin"
+slug: "2020-11-26-jing-shui-qi-lyu-xin"
 draft: false
 ---
 小米豌豆净水器的滤芯提示到期，暴力锯开，用了一年的滤芯还非常白静，自来水水质还是不错的。

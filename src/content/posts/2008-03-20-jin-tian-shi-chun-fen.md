@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jin-tian-shi-chun-fen"
+slug: "2008-03-20-jin-tian-shi-chun-fen"
 draft: false
 ---
 记录是个奇怪的东西 不知道该做什么的时候在那里计算时间，二百五十几天的时间可以聚精会神的做很多的事情，同样也可以忙忙碌碌而做不了任何东西。  

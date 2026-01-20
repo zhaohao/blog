@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "diy-shu-ma-guan-dian-zi-zhong"
+slug: "2015-04-26-diy-shu-ma-guan-dian-zi-zhong"
 draft: false
 ---
 不算纯粹的DIY，只是买了散件自己焊了一下。这么几年没有拿电烙铁焊电路板了，不自觉的手就生了，在加上电烙铁不怎么好用（怀念当年的PACE焊台），并且没有拆焊设备，万一弄错一点就报废了，所以格外的小心翼翼。  

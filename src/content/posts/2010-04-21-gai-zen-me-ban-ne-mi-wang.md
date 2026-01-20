@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "gai-zen-me-ban-ne-mi-wang"
+slug: "2010-04-21-gai-zen-me-ban-ne-mi-wang"
 draft: false
 ---
 该怎么办呢？迷惘~

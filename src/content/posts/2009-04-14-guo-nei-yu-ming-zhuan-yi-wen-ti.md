@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "guo-nei-yu-ming-zhuan-yi-wen-ti"
+slug: "2009-04-14-guo-nei-yu-ming-zhuan-yi-wen-ti"
 draft: false
 ---
 选择本以为得到转移密码就OK了，没想到又遇到whois问题，中国的东西，让人拿什么信任……  

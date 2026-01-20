@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "tian-liang-le-zoe-chuan-shang-le-hou-yi-fu"
+slug: "2014-11-14-tian-liang-le-zoe-chuan-shang-le-hou-yi-fu"
 draft: false
 ---
 天凉了，Zoe穿上了厚衣服。  

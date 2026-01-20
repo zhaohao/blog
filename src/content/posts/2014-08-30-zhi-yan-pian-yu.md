@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhi-yan-pian-yu"
+slug: "2014-08-30-zhi-yan-pian-yu"
 draft: false
 ---
 在一个自己喜欢的地方，做着喜欢的事情。过你想过的生活，身边有你爱的人。这就是幸福的微小含义了吧。#Twitter#

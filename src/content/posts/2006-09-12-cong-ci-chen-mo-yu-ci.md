@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "cong-ci-chen-mo-yu-ci"
+slug: "2006-09-12-cong-ci-chen-mo-yu-ci"
 draft: false
 ---
 1、生命是幻觉。可是我需要你在。  

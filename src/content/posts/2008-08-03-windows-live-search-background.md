@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "windows-live-search-background"
+slug: "2008-08-03-windows-live-search-background"
 draft: false
 ---
 [![windowslivesearch_bg-787659](https://zhao.im/wp-content/uploads/windowslivesearch_bg-787659.jpg)](https://zhao.im/wp-content/uploads/windowslivesearch_bg-787659.jpg)  

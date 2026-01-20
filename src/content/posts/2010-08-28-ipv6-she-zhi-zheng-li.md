@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ipv6-she-zhi-zheng-li"
+slug: "2010-08-28-ipv6-she-zhi-zheng-li"
 draft: false
 ---
   

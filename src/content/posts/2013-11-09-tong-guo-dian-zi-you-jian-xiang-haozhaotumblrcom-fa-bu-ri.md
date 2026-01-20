@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "tong-guo-dian-zi-you-jian-xiang-haozhaotumblrcom-fa-bu-ri"
+slug: "2013-11-09-tong-guo-dian-zi-you-jian-xiang-haozhaotumblrcom-fa-bu-ri"
 draft: false
 ---
 Please add the following unique email address to your contacts　for easy access.  

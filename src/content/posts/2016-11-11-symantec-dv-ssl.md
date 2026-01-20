@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "symantec-dv-ssl"
+slug: "2016-11-11-symantec-dv-ssl"
 draft: false
 ---
 ![20111111-20161111](https://zhao.im/wp-content/uploads/2016-11-12-symantec-dv-ssl.jpg)

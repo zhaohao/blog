@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "memos-of-oct-2024__trashed"
+slug: "2024-10-31-memos-of-oct-2024__trashed"
 draft: true
 ---
 📅 2024/10/31 20:50 十月最后一次骑车。#运动 Thursday, October 31, 2024

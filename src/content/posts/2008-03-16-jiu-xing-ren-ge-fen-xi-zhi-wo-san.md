@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jiu-xing-ren-ge-fen-xi-zhi-wo-san"
+slug: "2008-03-16-jiu-xing-ren-ge-fen-xi-zhi-wo-san"
 draft: false
 ---
 4号性格者的主要特征包括：  

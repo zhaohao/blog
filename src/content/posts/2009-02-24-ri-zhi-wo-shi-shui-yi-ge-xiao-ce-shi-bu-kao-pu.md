@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ri-zhi-wo-shi-shui-yi-ge-xiao-ce-shi-bu-kao-pu"
+slug: "2009-02-24-ri-zhi-wo-shi-shui-yi-ge-xiao-ce-shi-bu-kao-pu"
 draft: false
 ---
 我是谁？ 选了后结果是这个：  

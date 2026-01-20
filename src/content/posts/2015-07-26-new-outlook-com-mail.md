@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "new-outlook-com-mail"
+slug: "2015-07-26-new-outlook-com-mail"
 draft: false
 ---
 两个月前就有消息Outlook.com的邮箱服务都将整合到office365服务后台及界面，并开放部分用户预览，但自己的账号一直没有动静。  

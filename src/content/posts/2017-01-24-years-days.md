@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "years-days"
+slug: "2017-01-24-years-days"
 draft: false
 ---
 Say something to myself…

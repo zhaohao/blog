@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "san-tian-san-ci-tan-hua-liu-cheng-kai-shi-jin-xing-zhong"
+slug: "2011-02-11-san-tian-san-ci-tan-hua-liu-cheng-kai-shi-jin-xing-zhong"
 draft: false
 ---
 stardust@live.com

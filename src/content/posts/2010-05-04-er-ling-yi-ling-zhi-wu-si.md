@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "er-ling-yi-ling-zhi-wu-si"
+slug: "2010-05-04-er-ling-yi-ling-zhi-wu-si"
 draft: false
 ---
 昨天接到朋友电话，都快要做爸爸了，祝福~ Tuesday AM 2010-5-4  

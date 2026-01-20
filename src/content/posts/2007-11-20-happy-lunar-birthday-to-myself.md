@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "happy-lunar-birthday-to-myself"
+slug: "2007-11-20-happy-lunar-birthday-to-myself"
 draft: false
 ---
 你的生日让我想起，一个很久以前的朋友，那是一个寒冷的冬天，他流浪在街头 我以为他要祈求什么，他却总是摇摇头，他说今天是他的生日，却没人祝他生日快乐  

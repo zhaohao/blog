@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "gan-dao-you-dian-gu-dan-he-wu-nai"
+slug: "2008-01-11-gan-dao-you-dian-gu-dan-he-wu-nai"
 draft: false
 ---
 昨天晚上在QQ上遇见姐姐，问关于过年怎么安排的事情，不知道该怎样回答，似乎只是想一个人躲起来。  

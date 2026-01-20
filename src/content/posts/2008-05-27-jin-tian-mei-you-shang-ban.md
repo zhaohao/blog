@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jin-tian-mei-you-shang-ban"
+slug: "2008-05-27-jin-tian-mei-you-shang-ban"
 draft: false
 ---
 调休，早上睡到九点半才起床，伸手开了电脑。  

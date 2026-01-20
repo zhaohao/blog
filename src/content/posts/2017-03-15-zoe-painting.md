@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zoe-painting"
+slug: "2017-03-15-zoe-painting"
 draft: false
 ---
 Zoe的那些画儿。 ![2017-02-25-ZOE-Painting](https://zhao.im/wp-content/uploads/2017-02-25-ZOE-Painting.jpg)  

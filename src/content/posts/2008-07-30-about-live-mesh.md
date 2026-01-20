@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "about-live-mesh"
+slug: "2008-07-30-about-live-mesh"
 draft: false
 ---
 今天收到了Windows Live Mesh的邀请："Live Mesh: you are invited!"。  

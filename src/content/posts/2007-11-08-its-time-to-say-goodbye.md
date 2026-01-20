@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "its-time-to-say-goodbye"
+slug: "2007-11-08-its-time-to-say-goodbye"
 draft: false
 ---
 是谁说的? 当一个人总在怀念过去的时候 他也就开始在慢慢变老了......  

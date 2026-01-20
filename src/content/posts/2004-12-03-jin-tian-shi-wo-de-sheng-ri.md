@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jin-tian-shi-wo-de-sheng-ri"
+slug: "2004-12-03-jin-tian-shi-wo-de-sheng-ri"
 draft: false
 ---
 今天是我的生日，现在已经十一点多了，马上就要进入另一岁了，感觉好令人惋惜，转眼之间已经度过了二十个春夏秋冬了，可是还是这样的不懂事，不了解自己的感情，真是没有办法。  

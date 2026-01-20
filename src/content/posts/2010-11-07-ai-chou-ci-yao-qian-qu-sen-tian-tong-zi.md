@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ai-chou-ci-yao-qian-qu-sen-tian-tong-zi"
+slug: "2010-11-07-ai-chou-ci-yao-qian-qu-sen-tian-tong-zi"
 draft: false
 ---
 远远的看着你久违的背影 有一点不真实的情绪 好像一出哀愁的电影 全世界忽然间都安静  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "xiao-chong-you-ni-zhen-hao"
+slug: "2012-07-13-xiao-chong-you-ni-zhen-hao"
 draft: false
 ---
 每个人，都想快乐，有多少人，可以拥有？人海中，你遇过谁，那个人，你一定没有忘记。  

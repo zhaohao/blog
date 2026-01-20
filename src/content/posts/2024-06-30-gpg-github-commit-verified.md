@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: ["Github", "GPG"]
 categories: ["Default"]
-slug: "gpg-github-commit-verified"
+slug: "2024-06-30-gpg-github-commit-verified"
 draft: false
 ---
 本文为在Github Desktop下配置提交签名的操作步骤。

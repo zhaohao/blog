@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "guan-yu-stardust"
+slug: "2008-07-07-guan-yu-stardust"
 draft: false
 ---
 回忆历来听到的歌，没有哪一首歌能像Forever一样让我久久不能放下的了。  

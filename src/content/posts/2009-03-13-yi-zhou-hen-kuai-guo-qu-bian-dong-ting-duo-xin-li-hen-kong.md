@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yi-zhou-hen-kuai-guo-qu-bian-dong-ting-duo-xin-li-hen-kong"
+slug: "2009-03-13-yi-zhou-hen-kuai-guo-qu-bian-dong-ting-duo-xin-li-hen-kong"
 draft: false
 ---
 一周很快过去，变动挺多，心里很空。  

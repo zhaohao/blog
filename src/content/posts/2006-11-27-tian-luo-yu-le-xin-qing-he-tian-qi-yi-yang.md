@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "tian-luo-yu-le-xin-qing-he-tian-qi-yi-yang"
+slug: "2006-11-27-tian-luo-yu-le-xin-qing-he-tian-qi-yi-yang"
 draft: false
 ---
 2006天落雨了，心情和天气一样，但还是很喜欢雨天。  

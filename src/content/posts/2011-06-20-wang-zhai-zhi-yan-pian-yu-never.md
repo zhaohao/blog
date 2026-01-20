@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wang-zhai-zhi-yan-pian-yu-never"
+slug: "2011-06-20-wang-zhai-zhi-yan-pian-yu-never"
 draft: false
 ---
 永远不要去羡慕别人的生活，即使那个人看起来快乐富足。  

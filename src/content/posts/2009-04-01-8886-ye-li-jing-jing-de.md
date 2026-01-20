@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "8886-ye-li-jing-jing-de"
+slug: "2009-04-01-8886-ye-li-jing-jing-de"
 draft: false
 ---
 晚上九点多，感觉很累，虽然一天没做任何事情，虽然按时间算睡的也挺多。关掉了电脑，关掉了灯，小小的房间暗了下来。  

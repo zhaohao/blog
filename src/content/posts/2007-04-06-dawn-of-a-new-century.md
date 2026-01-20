@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "dawn-of-a-new-century"
+slug: "2007-04-06-dawn-of-a-new-century"
 draft: false
 ---
 Secret Garden  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "hao-yun-de-jian-kang-fen-xiang-di-shi-ba-zhou"
+slug: "2012-09-05-hao-yun-de-jian-kang-fen-xiang-di-shi-ba-zhou"
 draft: false
 ---
 进入孕18周，宝宝现在大概有14厘米长，重160-198克。  

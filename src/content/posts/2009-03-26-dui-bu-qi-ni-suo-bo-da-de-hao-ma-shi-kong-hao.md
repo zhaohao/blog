@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "dui-bu-qi-ni-suo-bo-da-de-hao-ma-shi-kong-hao"
+slug: "2009-03-26-dui-bu-qi-ni-suo-bo-da-de-hao-ma-shi-kong-hao"
 draft: false
 ---
 13512789684终过了半年的保留期。

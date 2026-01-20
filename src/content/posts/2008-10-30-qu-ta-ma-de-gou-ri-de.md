@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "qu-ta-ma-de-gou-ri-de"
+slug: "2008-10-30-qu-ta-ma-de-gou-ri-de"
 draft: false
 ---
 这真是一个充满神奇的地方。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "new-wordpress-com-site-howardzhao-wordpress-com"
+slug: "2011-03-06-new-wordpress-com-site-howardzhao-wordpress-com"
 draft: false
 ---
 Some useful links:  

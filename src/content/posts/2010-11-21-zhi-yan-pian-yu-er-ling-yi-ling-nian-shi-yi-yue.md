@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhi-yan-pian-yu-er-ling-yi-ling-nian-shi-yi-yue"
+slug: "2010-11-21-zhi-yan-pian-yu-er-ling-yi-ling-nian-shi-yi-yue"
 draft: false
 ---
 2010-11-21 到了这个时节（气温？湿度？气压？~）手又开始“更新”脱皮~  

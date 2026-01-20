@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wo-niu-snail"
+slug: "2014-08-25-wo-niu-snail"
 draft: false
 ---
 [![20071231614493852](https://zhao.im/wp-content/uploads/20071231614493852.jpg)](https://zhao.im/wp-content/uploads/20071231614493852.jpg)  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "qu-zhong-ren-san-wu-ren-he-cai"
+slug: "2007-06-27-qu-zhong-ren-san-wu-ren-he-cai"
 draft: false
 ---
 2006年的某一天，看到一群群，一对对的人们在忙着他们在中大最后一次盛宴的时候，似乎这种情景离自己还很遥远，然而转瞬之间，已经悄无声息的降临到了自己的面前。  

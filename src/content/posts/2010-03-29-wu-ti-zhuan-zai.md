@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wu-ti-zhuan-zai"
+slug: "2010-03-29-wu-ti-zhuan-zai"
 draft: false
 ---
 世界用Google，我们用百度；世界用youtube，我们用优酷；世界用牛奶，我们用三鹿；世界用游戏机，我们用劲舞；世界用facebook，我们 用开心；世界用MSN，我们用QQ；世界用 WCDMA，我们用TD；世界用FTTH，我们用adsl；世界用internet，我们用LAN。  

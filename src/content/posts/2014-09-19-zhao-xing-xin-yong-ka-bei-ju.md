@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhao-xing-xin-yong-ka-bei-ju"
+slug: "2014-09-19-zhao-xing-xin-yong-ka-bei-ju"
 draft: false
 ---
 [![Nikon-2014-09-19-17-14-38-2](https://zhao.im/wp-content/uploads/Nikon-2014-09-19-17-14-38-2.jpg)](https://zhao.im/wp-content/uploads/Nikon-2014-09-19-17-14-38-2.jpg)  

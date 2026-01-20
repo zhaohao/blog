@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "friday-you-shi-zhou-wu-guo-de-tai-kuai"
+slug: "2008-09-19-friday-you-shi-zhou-wu-guo-de-tai-kuai"
 draft: false
 ---
 连续两天的时间都是四点钟睡觉了，感觉晕晕的！  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "windows-live-hotmail-wave3"
+slug: "2008-11-02-windows-live-hotmail-wave3"
 draft: false
 ---
 今天登陆一个很久没用的live ID, 发现对应的Live Hotmail居然更新到了wave3,先前hotmail组发送的邮件介绍过的速度提高70%,虽然无法判断到底速度提高多少，但在新版本下明显感觉速度快了很多，尤其是打开邮件的时候。  

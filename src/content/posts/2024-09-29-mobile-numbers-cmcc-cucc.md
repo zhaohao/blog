@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: ["hardware"]
 categories: ["Default"]
-slug: "mobile-numbers-cmcc-cucc"
+slug: "2024-09-29-mobile-numbers-cmcc-cucc"
 draft: false
 ---
 **手机卡盘点之移动篇:**

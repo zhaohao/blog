@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhi-yan-pian-yu-er-ling-yi-ling-nian-si-yue"
+slug: "2010-04-30-zhi-yan-pian-yu-er-ling-yi-ling-nian-si-yue"
 draft: false
 ---
 2010-04-30 无聊，Outlook2010签名测试 Email : hao@zhao.in 4/30/2010 5:45 PM  

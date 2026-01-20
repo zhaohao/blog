@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ikbc-poker-keyboard"
+slug: "2016-11-10-ikbc-poker-keyboard"
 draft: false
 ---
 IKBC Poker 2升级版青轴机械键盘。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "chen-ai-luo-ding"
+slug: "2007-05-26-chen-ai-luo-ding"
 draft: false
 ---
 天气很热！  

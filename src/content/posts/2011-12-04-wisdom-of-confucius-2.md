@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wisdom-of-confucius-2"
+slug: "2011-12-04-wisdom-of-confucius-2"
 draft: false
 ---
 > "It does not matter how slow you go so long as you do not stop."  

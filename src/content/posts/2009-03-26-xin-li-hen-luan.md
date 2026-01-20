@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "xin-li-hen-luan"
+slug: "2009-03-26-xin-li-hen-luan"
 draft: false
 ---
 心里很乱，有很强烈的无力的感觉，不知道以后会是怎样？

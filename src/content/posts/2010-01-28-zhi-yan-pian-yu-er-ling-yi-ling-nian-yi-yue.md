@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhi-yan-pian-yu-er-ling-yi-ling-nian-yi-yue"
+slug: "2010-01-28-zhi-yan-pian-yu-er-ling-yi-ling-nian-yi-yue"
 draft: false
 ---
 2010-01-13 would you wait for me forever?  

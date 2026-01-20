@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wo-de-shi-nian-zhi-yi-jiu-jiu-ba"
+slug: "2008-11-17-wo-de-shi-nian-zhi-yi-jiu-jiu-ba"
 draft: false
 ---
 难忘初中！曾经年少！  

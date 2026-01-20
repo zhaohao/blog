@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wang-ji-jin-tian-you-fan-chu-lai-le-de-ge"
+slug: "2009-03-27-wang-ji-jin-tian-you-fan-chu-lai-le-de-ge"
 draft: false
 ---
 有太多往事就别喝下太少酒精，太珍惜生命就别随便掏心，舍不得看破就别张开眼睛，想开心就要舍得伤心。  

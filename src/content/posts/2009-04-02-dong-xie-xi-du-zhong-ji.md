@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "dong-xie-xi-du-zhong-ji"
+slug: "2009-04-02-dong-xie-xi-du-zhong-ji"
 draft: false
 ---
 "佛祖有云，旗未动，风也未动，是人的心自己在动…… "  

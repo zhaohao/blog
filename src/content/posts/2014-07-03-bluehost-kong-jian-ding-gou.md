@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "bluehost-kong-jian-ding-gou"
+slug: "2014-07-03-bluehost-kong-jian-ding-gou"
 draft: false
 ---
 一直使用免费的Blogger，今天看到Bluehost中国优惠的套餐，于是定了个入门的套餐，尝试下Bluehost的服务。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "an-zhuang-windowsfonts-dao-ubuntu"
+slug: "2011-04-06-an-zhuang-windowsfonts-dao-ubuntu"
 draft: false
 ---
 1 拷贝微软字体到桌面的windows7fonts文件：  

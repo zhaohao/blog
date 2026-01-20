@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ibelieve-wo-xiang-xin"
+slug: "2011-05-04-ibelieve-wo-xiang-xin"
 draft: false
 ---
     

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhao-hui-jian-dan-de-weblog"
+slug: "2014-11-10-zhao-hui-jian-dan-de-weblog"
 draft: false
 ---
 选择太多会让人更加迷乱。  

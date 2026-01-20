@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhi-zou-shang-gre-zhi-lu-de-yong-shi"
+slug: "2007-11-25-zhi-zou-shang-gre-zhi-lu-de-yong-shi"
 draft: false
 ---
 > 俞敏洪  

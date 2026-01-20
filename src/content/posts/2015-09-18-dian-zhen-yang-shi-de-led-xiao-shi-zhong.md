@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "dian-zhen-yang-shi-de-led-xiao-shi-zhong"
+slug: "2015-09-18-dian-zhen-yang-shi-de-led-xiao-shi-zhong"
 draft: false
 ---
 白色点阵LED显示，每个数字字符是4x7个LED点。  

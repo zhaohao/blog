@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "this-bunny-really-wants-his-bed-back"
+slug: "2009-03-03-this-bunny-really-wants-his-bed-back"
 draft: false
 ---
 超级勇猛的兔子哦！  

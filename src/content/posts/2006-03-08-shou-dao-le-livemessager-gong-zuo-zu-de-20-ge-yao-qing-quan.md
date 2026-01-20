@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "shou-dao-le-livemessager-gong-zuo-zu-de-20-ge-yao-qing-quan"
+slug: "2006-03-08-shou-dao-le-livemessager-gong-zuo-zu-de-20-ge-yao-qing-quan"
 draft: false
 ---
 今天收到了live messager工作组的20个邀请权限。  

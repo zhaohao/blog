@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhi-yan-pian-yu-er-ling-yi-ling-nian-shi-er-yue"
+slug: "2010-12-26-zhi-yan-pian-yu-er-ling-yi-ling-nian-shi-er-yue"
 draft: false
 ---
 2010-12-26 Chrome keyboard shortcuts – Google  

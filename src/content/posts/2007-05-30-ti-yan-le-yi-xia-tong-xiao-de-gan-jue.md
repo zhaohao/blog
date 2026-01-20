@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ti-yan-le-yi-xia-tong-xiao-de-gan-jue"
+slug: "2007-05-30-ti-yan-le-yi-xia-tong-xiao-de-gan-jue"
 draft: false
 ---
 前天晚上经过了一个通宵，到早上六点才睡觉。也才知道原来无点半的时候天已经大亮了。  

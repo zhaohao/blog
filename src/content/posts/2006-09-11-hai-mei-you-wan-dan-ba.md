@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "hai-mei-you-wan-dan-ba"
+slug: "2006-09-11-hai-mei-you-wan-dan-ba"
 draft: false
 ---
 今天好伤心，一切的事情都是别人在做，我什么都做不了，因为我没有资格  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhong-wu-de-ji-dan-tang-mian"
+slug: "2014-09-21-zhong-wu-de-ji-dan-tang-mian"
 draft: false
 ---
 [![IMG_20140921_142623](https://zhao.im/wp-content/uploads/IMG_20140921_142623.jpg)](https://zhao.im/wp-content/uploads/IMG_20140921_142623.jpg) [![IMG_20140921_142443](https://zhao.im/wp-content/uploads/IMG_20140921_142443.jpg)](https://zhao.im/wp-content/uploads/IMG_20140921_142443.jpg)

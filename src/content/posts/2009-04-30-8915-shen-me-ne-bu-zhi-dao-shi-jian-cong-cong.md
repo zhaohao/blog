@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "8915-shen-me-ne-bu-zhi-dao-shi-jian-cong-cong"
+slug: "2009-04-30-8915-shen-me-ne-bu-zhi-dao-shi-jian-cong-cong"
 draft: false
 ---
 [![](https://zhao.im/wp-content/uploads/medium2009-705582.jpg)](https://zhao.im/wp-content/uploads/medium2009-705582.jpg)

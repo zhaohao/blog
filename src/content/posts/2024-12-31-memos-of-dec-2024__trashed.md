@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "memos-of-dec-2024__trashed"
+slug: "2024-12-31-memos-of-dec-2024__trashed"
 draft: true
 ---
 📅 2024/12/31 19:52  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: ["Html", "Jekyll", "Theme"]
 categories: ["Default"]
-slug: "add-back-link"
+slug: "2024-06-26-add-back-link"
 draft: false
 ---
 在修改主题的时候，遇到一个问题，就是从主页面点击进文章页后，在文章页中需要设置导航按钮用于返回。最初只是直接简单的添加了回主页的链接，这样只能说是勉强能用了。  

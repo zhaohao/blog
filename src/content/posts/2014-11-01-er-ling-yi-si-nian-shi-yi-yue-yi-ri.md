@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "er-ling-yi-si-nian-shi-yi-yue-yi-ri"
+slug: "2014-11-01-er-ling-yi-si-nian-shi-yi-yue-yi-ri"
 draft: false
 ---
 00:36 AM 时间匆匆，跨过了十月，迈入了二〇一四年的倒数第二个月份。  

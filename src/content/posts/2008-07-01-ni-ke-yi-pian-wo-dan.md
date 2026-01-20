@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ni-ke-yi-pian-wo-dan"
+slug: "2008-07-01-ni-ke-yi-pian-wo-dan"
 draft: false
 ---
 三个月前，这群人还在世界各地挥舞着五星红旗，举着自制的标语横幅，为奥运火炬的荣光而抗争，还在国外的论坛上用不纯熟的英语，驳斥着西方媒体的傲慢和偏见，还在msn和QQ上，用红色的心连成一串，他们高呼：中国加油！北京加油！他们跳进冰冷的水池中，举起五星红旗。  

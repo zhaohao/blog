@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "meng-xiang-xu-rong-gai-bian-xian-shi"
+slug: "2007-11-25-meng-xiang-xu-rong-gai-bian-xian-shi"
 draft: false
 ---
 不知道如果再这样继续下去，会有个什么样的结局，会不会就这么庸庸碌碌一辈子？我不会甘心。  

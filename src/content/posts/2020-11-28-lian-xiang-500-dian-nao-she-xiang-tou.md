@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "lian-xiang-500-dian-nao-she-xiang-tou"
+slug: "2020-11-28-lian-xiang-500-dian-nao-she-xiang-tou"
 draft: false
 ---
 联想500电脑摄像头，外观是自己喜欢的样子，方正简洁，带手动隐私挡板，比其它一些奇奇怪怪的样子好多了。

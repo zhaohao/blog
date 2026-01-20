@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zi-ji-zui-que-fa-de-jiu-shi-dui-ren-sheng-de-gui-hua"
+slug: "2008-06-25-zi-ji-zui-que-fa-de-jiu-shi-dui-ren-sheng-de-gui-hua"
 draft: false
 ---
 自己最缺乏的就是对人生的规划，所以一直茫然，一直虚妄，一直孤独和忧伤。  

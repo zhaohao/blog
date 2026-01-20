@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zai-xue-xiao-de-zui-hou-yi-tian"
+slug: "2007-07-04-zai-xue-xiao-de-zui-hou-yi-tian"
 draft: false
 ---
 今天是四号了，本来今天就可以走了，不过还是又在学校多待了一天。

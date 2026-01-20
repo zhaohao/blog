@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "di-yi-ci-kan-dao-hai"
+slug: "2005-02-27-di-yi-ci-kan-dao-hai"
 draft: false
 ---
 第一次看到海是在一年多前，也就是来到学校之后了，看着那浊黄的海水，心里隐隐有一丝的失落。  

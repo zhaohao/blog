@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "kindle-shu-ban-shi-tou-ji"
+slug: "2015-09-18-kindle-shu-ban-shi-tou-ji"
 draft: false
 ---
 [![SIMG-2015-08-12 23-26-56](https://zhao.im/wp-content/uploads/SIMG-2015-08-12-23-26-56.jpg)](https://zhao.im/wp-content/uploads/SIMG-2015-08-12-23-26-56.jpg)  

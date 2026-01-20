@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "gao-bie-le-shu-nian-ming-tian-hai-yao-ji-xu"
+slug: "2009-01-26-gao-bie-le-shu-nian-ming-tian-hai-yao-ji-xu"
 draft: false
 ---
 看了些六七年前的东西，怔怔的 看了好久，似乎是有很多很多的感触，但脑中却是空空的，大片大片的空白……  

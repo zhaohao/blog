@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhe-yi-tian-jiu-zhe-yang-jing-jing-de-guo-qu-le-20110101"
+slug: "2011-01-01-zhe-yi-tian-jiu-zhe-yang-jing-jing-de-guo-qu-le-20110101"
 draft: false
 ---
 想在标题记上时间，还是习惯性的敲上了2010四个字符~然后再改……  

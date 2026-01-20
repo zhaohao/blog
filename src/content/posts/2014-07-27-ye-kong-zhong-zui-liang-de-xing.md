@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ye-kong-zhong-zui-liang-de-xing"
+slug: "2014-07-27-ye-kong-zhong-zui-liang-de-xing"
 draft: false
 ---
 \[audio mp3="/wp-content/uploads/ykzzldx.mp3"\]\[/audio\]  

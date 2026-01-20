@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ji-wai-er-ling-ling-ba-nian-wu-yue"
+slug: "2008-05-01-ji-wai-er-ling-ling-ba-nian-wu-yue"
 draft: false
 ---
 今天我在人生之路上迷路了……  

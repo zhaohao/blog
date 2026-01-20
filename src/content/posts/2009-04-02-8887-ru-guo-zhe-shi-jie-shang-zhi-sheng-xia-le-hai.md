@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "8887-ru-guo-zhe-shi-jie-shang-zhi-sheng-xia-le-hai"
+slug: "2009-04-02-8887-ru-guo-zhe-shi-jie-shang-zhi-sheng-xia-le-hai"
 draft: false
 ---
 如果这世界上只剩下了海，那么我就是那最后的一只帆船，我知道会有一只鸟在帆上，陪着我向海的深处流浪–在那个地方……  

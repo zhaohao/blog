@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ming-tian-yi-ding-yao-ba-ying-yu-gei-bei-wan"
+slug: "2004-12-14-ming-tian-yi-ding-yao-ba-ying-yu-gei-bei-wan"
 draft: false
 ---
 明天一定要把英语给背完，真是的拖了好长时间，就是不想背......  

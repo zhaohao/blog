@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "2008-nian-1-yue-1-ri-de-yang-guang"
+slug: "2008-01-17-2008-nian-1-yue-1-ri-de-yang-guang"
 draft: false
 ---
 [![](https://zhao.im/wp-content/uploads/20080101-28007-29.jpg)](https://zhao.im/wp-content/uploads/20080101-28007-29.jpg)[![](https://zhao.im/wp-content/uploads/20080101-28005-29.jpg)](https://zhao.im/wp-content/uploads/20080101-28005-29.jpg)  

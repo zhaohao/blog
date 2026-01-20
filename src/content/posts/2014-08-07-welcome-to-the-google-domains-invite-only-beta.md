@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "welcome-to-the-google-domains-invite-only-beta"
+slug: "2014-08-07-welcome-to-the-google-domains-invite-only-beta"
 draft: false
 ---
 Hello,  

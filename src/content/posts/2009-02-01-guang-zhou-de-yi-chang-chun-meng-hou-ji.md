@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "guang-zhou-de-yi-chang-chun-meng-hou-ji"
+slug: "2009-02-01-guang-zhou-de-yi-chang-chun-meng-hou-ji"
 draft: false
 ---
 今天只想把这个再发一遍……  

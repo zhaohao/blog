@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhi-yan-pian-yu-er-ling-yi-ling-nian-qi-yue"
+slug: "2010-07-30-zhi-yan-pian-yu-er-ling-yi-ling-nian-qi-yue"
 draft: false
 ---
 2010-07-30 短消息 部门几乎分崩离析~人人变得敏感而谨慎，人人看不到前面的方向，人人心存芥蒂~  

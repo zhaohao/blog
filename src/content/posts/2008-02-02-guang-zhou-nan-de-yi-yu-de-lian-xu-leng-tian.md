@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "guang-zhou-nan-de-yi-yu-de-lian-xu-leng-tian"
+slug: "2008-02-02-guang-zhou-nan-de-yi-yu-de-lian-xu-leng-tian"
 draft: false
 ---
 冷了好久了，外面在下着小雨。  

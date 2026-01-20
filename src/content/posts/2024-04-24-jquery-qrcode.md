@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jquery-qrcode"
+slug: "2024-04-24-jquery-qrcode"
 draft: false
 ---
 今天一个博客上看到有文章的二维码链接，通过搜索知道了可以通过 jquery.qrcode.js在前端实时生成字符串的二维码。所以试着在这里也加了这个功能。

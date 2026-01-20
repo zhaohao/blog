@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "wang-shang-mai-chu-yu-ming"
+slug: "2019-03-19-wang-shang-mai-chu-yu-ming"
 draft: false
 ---
 2019-03-18 12:16 PDT 买家选择通过电汇付款，Escrow.com等待付款到达。

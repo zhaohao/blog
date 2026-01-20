@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "shi-jian-yi-jing-kuai-dao-yi-dian-ban-le-hen-shi-an-jing"
+slug: "2009-03-01-shi-jian-yi-jing-kuai-dao-yi-dian-ban-le-hen-shi-an-jing"
 draft: false
 ---
 两天来第一次下楼…天气有些凉了，让人感觉清醒…  

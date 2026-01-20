@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: ["life"]
 categories: ["Default"]
-slug: "little-things-this-week"
+slug: "2024-07-09-little-things-this-week"
 draft: false
 ---
 这周小溪小树在家，等待周五的散学礼后就正式放暑假了。

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "bu-zhi-dao-zuo-le-shen-me"
+slug: "2008-03-22-bu-zhi-dao-zuo-le-shen-me"
 draft: false
 ---
 昨天晚上到三四点才睡觉，在电脑加过内存条之后似乎对着电脑的时间更长了。之所以到三四点才睡觉，主要原因是对着新的APP MAIL发痴，这种发痴不是一次两次的事情了，曾经有过对着hi.baidu，对着blogger，等等等……总之是一种极度痴呆的表现。  

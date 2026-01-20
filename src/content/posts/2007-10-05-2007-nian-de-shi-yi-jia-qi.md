@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "2007-nian-de-shi-yi-jia-qi"
+slug: "2007-10-05-2007-nian-de-shi-yi-jia-qi"
 draft: false
 ---
 2007年的十一假期不觉中已经到了第五天。  

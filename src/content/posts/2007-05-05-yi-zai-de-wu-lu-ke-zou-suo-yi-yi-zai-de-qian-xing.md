@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yi-zai-de-wu-lu-ke-zou-suo-yi-yi-zai-de-qian-xing"
+slug: "2007-05-05-yi-zai-de-wu-lu-ke-zou-suo-yi-yi-zai-de-qian-xing"
 draft: false
 ---
 明白一些东西的时候  却是最不需要明白的时候  

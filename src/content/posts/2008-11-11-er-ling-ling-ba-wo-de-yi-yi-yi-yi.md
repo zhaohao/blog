@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "er-ling-ling-ba-wo-de-yi-yi-yi-yi"
+slug: "2008-11-11-er-ling-ling-ba-wo-de-yi-yi-yi-yi"
 draft: false
 ---
 一个有些尴尬的日子，不过算了，既然是自己选择了这样的生活也就无所谓了！  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "kong-jian-mu-ban-zai-ci-bian-dong"
+slug: "2007-10-30-kong-jian-mu-ban-zai-ci-bian-dong"
 draft: false
 ---
 这几天突然又迷上了改CSS和HTML,主要是想在空间里添加一个像样的导航栏，以前一直没有实现，可怜不会java scripts，添加的导航栏改的歪歪扭扭的又不好看所以就开始瞄网上现成的了。  

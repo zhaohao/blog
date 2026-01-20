@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "colorful-wallpaper"
+slug: "2014-11-25-colorful-wallpaper"
 draft: false
 ---
 Colorful Wallpaper  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "xiao-shuo-guang-zhou-de-yi-chang-chun-meng-wei-sheng"
+slug: "2006-12-13-xiao-shuo-guang-zhou-de-yi-chang-chun-meng-wei-sheng"
 draft: false
 ---
 明白一些东西的时候 却是最不需要明白的时候  

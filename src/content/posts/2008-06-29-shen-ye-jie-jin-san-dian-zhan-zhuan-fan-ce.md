@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "shen-ye-jie-jin-san-dian-zhan-zhuan-fan-ce"
+slug: "2008-06-29-shen-ye-jie-jin-san-dian-zhan-zhuan-fan-ce"
 draft: false
 ---
 深夜接近三点，辗转反侧，受够了一年来心中的煎熬，Quit? Not quit?  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ping-fan-zhi-lu"
+slug: "2016-05-29-ping-fan-zhi-lu"
 draft: false
 ---
 > 向前走 就这么走 就算你被给过什么  

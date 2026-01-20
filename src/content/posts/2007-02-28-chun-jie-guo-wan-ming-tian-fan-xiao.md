@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "chun-jie-guo-wan-ming-tian-fan-xiao"
+slug: "2007-02-28-chun-jie-guo-wan-ming-tian-fan-xiao"
 draft: false
 ---
 一个人的春节这么快就过完了，又到回学校的时间了，想一下这十几天，真是彻底的……  

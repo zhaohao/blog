@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "qian-shi-shi-shui-mai-de-ni"
+slug: "2007-04-07-qian-shi-shi-shui-mai-de-ni"
 draft: false
 ---
 今天逸仙时空的十大之一，很老的文了，同样还有一很古老的话语：  

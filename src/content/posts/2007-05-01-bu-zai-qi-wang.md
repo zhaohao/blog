@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "bu-zai-qi-wang"
+slug: "2007-05-01-bu-zai-qi-wang"
 draft: false
 ---
 呜呜，郁闷呀！  

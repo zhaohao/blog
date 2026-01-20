@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zui-hou-de-zhe-teng-xi-tong"
+slug: "2015-09-21-zui-hou-de-zhe-teng-xi-tong"
 draft: false
 ---
 旧的笔记本前面脑袋一热装回了XP，虽然看起来CPU、内存都占用相当相当的少，但或许是SSD加大内存的台式机用惯了，笔记本XP总是给人卡卡的感觉，比印象中以前它装Win7、Win8、Win8.1、Win10预览版都卡。  

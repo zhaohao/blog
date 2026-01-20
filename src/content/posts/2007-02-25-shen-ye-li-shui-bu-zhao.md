@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "shen-ye-li-shui-bu-zhao"
+slug: "2007-02-25-shen-ye-li-shui-bu-zhao"
 draft: false
 ---
 在三个地方显示的邮件  

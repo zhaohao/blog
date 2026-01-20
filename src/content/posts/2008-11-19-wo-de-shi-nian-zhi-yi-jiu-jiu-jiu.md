@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wo-de-shi-nian-zhi-yi-jiu-jiu-jiu"
+slug: "2008-11-19-wo-de-shi-nian-zhi-yi-jiu-jiu-jiu"
 draft: false
 ---
 一九九九年，上高中了，离开家更远了，可也大了，不会像刚上初中时一样死活不去上学而赖在家中而转学了。  

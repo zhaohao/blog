@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "cucc-sz-fiber-broadband"
+slug: "2020-03-05-cucc-sz-fiber-broadband"
 draft: false
 ---
 双十一期间深圳联通单宽带半价优惠，100M宽带480+200一年，正好需要宽带，小区又有联通接入，于是果断下单安装。

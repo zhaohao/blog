@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "xiao-ji-er-ling-er-wu-ling-er-yi-ba"
+slug: "2025-02-17-xiao-ji-er-ling-er-wu-ling-er-yi-ba"
 draft: false
 ---
 早晨五点五十闹钟，艰难的从挤的满满当当的车库里挪出车，六点多天还完全黑蒙蒙，一路上就有了很多的大货车，这在以前这个时间点过这条路的经验里是一路空旷的。  

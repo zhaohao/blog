@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "you-shi-yi-xie-anbb-de-zhi-yan-pian-yu"
+slug: "2007-05-23-you-shi-yi-xie-anbb-de-zhi-yan-pian-yu"
 draft: false
 ---
 有时候网络像一双翅膀，你拥有了它，就能接近梦想的天空，如果没有翅膀，就只能在平地上徘徊。虽然很难说，飞与不飞，哪一种才是幸福。  

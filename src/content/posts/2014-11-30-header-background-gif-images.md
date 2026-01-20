@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "header-background-gif-images"
+slug: "2014-11-30-header-background-gif-images"
 draft: false
 ---
 ▼ Rain.  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "nyu-er-de-ya-chi-you-yao-tian-liang-ke"
+slug: "2014-09-10-nyu-er-de-ya-chi-you-yao-tian-liang-ke"
 draft: false
 ---
 [![Nikon 2014-09-10 20-46-07](https://zhao.im/wp-content/uploads/Nikon-2014-09-10-20-46-07.jpg)](https://zhao.im/wp-content/uploads/Nikon-2014-09-10-20-46-07.jpg)  

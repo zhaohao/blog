@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "2008-nian-zui-hou-yi-tian-le"
+slug: "2008-12-31-2008-nian-zui-hou-yi-tian-le"
 draft: false
 ---
 2008年最后一天了，记下些这两天的一些琐事。  

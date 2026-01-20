@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ya-hu-cai-yuan-zhi-dao-wen-jian-gou-tong-de-yu-yan-ji-qiao"
+slug: "2010-01-10-ya-hu-cai-yuan-zhi-dao-wen-jian-gou-tong-de-yu-yan-ji-qiao"
 draft: false
 ---
 作者： jmj | 2009-10-22  

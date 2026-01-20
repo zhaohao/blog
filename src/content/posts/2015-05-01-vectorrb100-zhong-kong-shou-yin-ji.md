@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "vectorrb100-zhong-kong-shou-yin-ji"
+slug: "2015-05-01-vectorrb100-zhong-kong-shou-yin-ji"
 draft: false
 ---
 这几天迷上大数字LED时钟，在淘宝上搜到了Vector RB-100钟控收音机，但看到买的人不多，看起来很不错，挺大的数字LED显示，当房间里的夜光时钟不错。  

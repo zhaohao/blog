@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "8999the-sound-of-silence"
+slug: "2009-07-23-8999the-sound-of-silence"
 draft: false
 ---
 Hello darkness, my old friend  

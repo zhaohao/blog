@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "green-world"
+slug: "2015-05-03-green-world"
 draft: false
 ---
 > Living in the moment isn't about seeking anything special.It's about seeing the special in anything.

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "nei-xie-nian-na-guo-de-nei-xie-yu-ming"
+slug: "2014-10-30-nei-xie-nian-na-guo-de-nei-xie-yu-ming"
 draft: false
 ---
 [![cogs](https://zhao.im/wp-content/uploads/cogs.jpg)](https://zhao.im/wp-content/uploads/cogs.jpg)  

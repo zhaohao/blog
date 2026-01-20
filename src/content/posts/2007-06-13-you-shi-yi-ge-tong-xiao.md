@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "you-shi-yi-ge-tong-xiao"
+slug: "2007-06-13-you-shi-yi-ge-tong-xiao"
 draft: false
 ---
 早上六点睡觉，到中午才起床，再这样下去会疯掉的。  

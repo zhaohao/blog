@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "nikon-nikkor-afs-50mm"
+slug: "2016-10-17-nikon-nikkor-afs-50mm"
 draft: false
 ---
 ![Tuzki20161017](https://zhao.im/wp-content/uploads/2016-10-17-nikon-nikkor-afs-50mm.jpg)

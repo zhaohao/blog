@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yi-xie-ren-yi-xie-shi-yi-xie-xin-qing"
+slug: "2008-02-29-yi-xie-ren-yi-xie-shi-yi-xie-xin-qing"
 draft: false
 ---
 一些天，一些人，一些事，时间流逝，所有一切都在默默的发生着，无法挽留的离开越来越远。  

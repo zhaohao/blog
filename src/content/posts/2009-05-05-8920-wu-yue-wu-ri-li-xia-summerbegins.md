@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "8920-wu-yue-wu-ri-li-xia-summerbegins"
+slug: "2009-05-05-8920-wu-yue-wu-ri-li-xia-summerbegins"
 draft: false
 ---
 \[8920\]五月五日，立夏Summer begins  

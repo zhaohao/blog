@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "you-yi-ci-jiang-wen-you-yi-ci-li-kai-xia-tian"
+slug: "2008-01-13-you-yi-ci-jiang-wen-you-yi-ci-li-kai-xia-tian"
 draft: false
 ---
 **广州日报讯**（叶卡斯 谈天）昨天还是烈日当空高温灼人，今天冷空气一到马上是降温又降雨。今天气温大致在13～16℃，最高气温下降10℃左右，最低气温亦有下降。这意味着人们的体感比较寒冷，建议穿一些挡风的外套以作保暖。未来三天持续寒冷，最低气温可能跌破10℃。  

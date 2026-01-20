@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "you-shi-hou-tu-ran-zhao-bu-dao-zi-ji"
+slug: "2010-11-05-you-shi-hou-tu-ran-zhao-bu-dao-zi-ji"
 draft: false
 ---
 2010-11-05 DIARYONE  

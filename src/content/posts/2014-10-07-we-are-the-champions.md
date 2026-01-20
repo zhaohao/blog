@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "we-are-the-champions"
+slug: "2014-10-07-we-are-the-champions"
 draft: false
 ---
 皇后乐队。只因一句曲调喜欢一首歌。  

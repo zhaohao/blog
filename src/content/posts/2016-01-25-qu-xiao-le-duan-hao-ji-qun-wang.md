@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "qu-xiao-le-duan-hao-ji-qun-wang"
+slug: "2016-01-25-qu-xiao-le-duan-hao-ji-qun-wang"
 draft: false
 ---
 取消掉了从二〇〇九年就开始使用的省二医的短号集群网。同673095和633095彻底告别。  

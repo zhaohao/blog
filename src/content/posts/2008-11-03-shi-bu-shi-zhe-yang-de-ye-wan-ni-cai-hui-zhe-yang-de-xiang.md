@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "shi-bu-shi-zhe-yang-de-ye-wan-ni-cai-hui-zhe-yang-de-xiang"
+slug: "2008-11-03-shi-bu-shi-zhe-yang-de-ye-wan-ni-cai-hui-zhe-yang-de-xiang"
 draft: false
 ---
 结束忙碌的一天，换回熟悉的寂寞，懒懒的躺在沙发上，像母亲温暖臂弯。  

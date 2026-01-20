@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jekyll-theme-note"
+slug: "2018-08-10-jekyll-theme-note"
 draft: false
 ---
 一直喜欢十多年前旧版foxmail中的一个信纸模版，极简的感觉。  

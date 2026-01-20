@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "8897-tian-he-tang-xia-bu-zhi-hai-yao-zai-zhe-duo-jiu"
+slug: "2009-04-12-8897-tian-he-tang-xia-bu-zhi-hai-yao-zai-zhe-duo-jiu"
 draft: false
 ---
 睡觉，外面正有着吵闹声……  

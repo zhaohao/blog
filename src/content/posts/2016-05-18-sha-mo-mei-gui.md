@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "sha-mo-mei-gui"
+slug: "2016-05-18-sha-mo-mei-gui"
 draft: false
 ---
 几年的沙玫终于第一次鼓起了花苞。  

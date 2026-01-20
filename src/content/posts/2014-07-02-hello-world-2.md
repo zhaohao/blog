@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "hello-world-2"
+slug: "2014-07-02-hello-world-2"
 draft: false
 ---
 Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "2009-nian-fei-ben-er-guo"
+slug: "2009-12-27-2009-nian-fei-ben-er-guo"
 draft: false
 ---
 2009年飞奔而过，青春在消耗，人是否也一起成长？

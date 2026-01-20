@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "gui-mi-xin-qiao"
+slug: "2011-05-19-gui-mi-xin-qiao"
 draft: false
 ---
 曾经真的以为人生就这样了，平静的心拒绝再有浪潮，斩了千次的情丝却断不了，百转千折它将我围绕……  

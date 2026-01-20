@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "cuo-wu-118neterrconnectiontimedout-cao-zuo-chao-shi"
+slug: "2011-05-13-cuo-wu-118neterrconnectiontimedout-cao-zuo-chao-shi"
 draft: false
 ---
   

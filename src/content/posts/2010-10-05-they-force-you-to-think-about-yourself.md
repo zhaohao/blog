@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "they-force-you-to-think-about-yourself"
+slug: "2010-10-05-they-force-you-to-think-about-yourself"
 draft: false
 ---
   

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "que-fa-dui-ren-sheng-de-gui-hua"
+slug: "2008-06-25-que-fa-dui-ren-sheng-de-gui-hua"
 draft: false
 ---
 对未来感到一片模糊，没有设想，也没有准备，所以会迷惘，会自责，会孤独和忧伤！  

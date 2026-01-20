@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jekyll-theme-trophy"
+slug: "2016-10-11-jekyll-theme-trophy"
 draft: false
 ---
 发现了Trophy这一个Jekyll的主题，是自己喜欢的风格，用起来。

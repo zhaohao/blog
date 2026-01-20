@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yang-guang-ming-mei"
+slug: "2021-01-13-yang-guang-ming-mei"
 draft: false
 ---
 这一段时间来干燥了很多天，前天终于有了一点点毛毛雨。

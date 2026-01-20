@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "xie-zai-kao-shi-zhi-qian"
+slug: "2007-01-19-xie-zai-kao-shi-zhi-qian"
 draft: false
 ---
 19日 阴天 就要去考试了，完了之后就要回家了  

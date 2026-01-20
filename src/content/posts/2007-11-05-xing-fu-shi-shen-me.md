@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "xing-fu-shi-shen-me"
+slug: "2007-11-05-xing-fu-shi-shen-me"
 draft: false
 ---
 [![](https://zhao.im/wp-content/uploads/null.jpg)](https://zhao.im/wp-content/uploads/null.jpg)[![](https://zhao.im/wp-content/uploads/skykite.jpg)](https://zhao.im/wp-content/uploads/skykite.jpg)  

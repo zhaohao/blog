@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yue-chang-da-yue-gu-dan-ge-ci"
+slug: "2009-09-26-yue-chang-da-yue-gu-dan-ge-ci"
 draft: false
 ---
 多年以后，你回到我身边，不安全充满了你疲倦的双眼。  

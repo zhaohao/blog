@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "remove-windows-live-ads-css"
+slug: "2011-03-17-remove-windows-live-ads-css"
 draft: false
 ---
 /_Remove Windows live mail ad and Expand Reading Aera_/  

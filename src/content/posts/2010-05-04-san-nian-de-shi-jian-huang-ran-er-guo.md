@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "san-nian-de-shi-jian-huang-ran-er-guo"
+slug: "2010-05-04-san-nian-de-shi-jian-huang-ran-er-guo"
 draft: false
 ---
 困惑中，三年时间自己有怎样的收获？  

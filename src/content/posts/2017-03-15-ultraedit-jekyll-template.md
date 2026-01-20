@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ultraedit-jekyll-template"
+slug: "2017-03-15-ultraedit-jekyll-template"
 draft: false
 ---
 使用UltraEdit的模板功能，可以快捷的插入Jekyll日志所需的头文件。 以下为自己所用的模板。

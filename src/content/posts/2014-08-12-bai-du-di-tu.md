@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "bai-du-di-tu"
+slug: "2014-08-12-bai-du-di-tu"
 draft: false
 ---
 我的位置到广州市胸科医院第二门诊部  

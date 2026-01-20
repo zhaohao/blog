@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yi-xian-shi-kong-zhi-id"
+slug: "2007-06-30-yi-xian-shi-kong-zhi-id"
 draft: false
 ---
 Welcome to Sun Yat-sen (Zhongshan) University Yat-sen Channel BBS  

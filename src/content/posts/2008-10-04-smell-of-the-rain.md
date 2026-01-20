@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "smell-of-the-rain"
+slug: "2008-10-04-smell-of-the-rain"
 draft: false
 ---
 下起了雨了，听到窗外嗒嗒声，闻到空气中雨的味道！  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jian-dao-liu-xing"
+slug: "2015-04-26-jian-dao-liu-xing"
 draft: false
 ---
 晚上Acui踩着单车带Zoe，自己跟着跑步，到江边小公园转了一圈。  

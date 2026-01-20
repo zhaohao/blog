@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "shen-ye-ling-dian-si-shi-duo-le-shui-jiao"
+slug: "2009-04-29-shen-ye-ling-dian-si-shi-duo-le-shui-jiao"
 draft: false
 ---
 晚上又无聊的改了下模板，没做什么事，发现最近除了旧有的蓝白绿色外，还倾向于喜欢浓烈的紫色… 只是个记号而已。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "starry-starry-night"
+slug: "2009-03-09-starry-starry-night"
 draft: false
 ---
 美国著名民谣歌手Don McLean（唐·麦克林）的《Starry Starry Night》（星夜）是Don McLean为纪念荷兰的伟大画家文森特·梵高而作，收录在那张为其赢来巨大声誉的专辑《American Pie》（美国派）里。  

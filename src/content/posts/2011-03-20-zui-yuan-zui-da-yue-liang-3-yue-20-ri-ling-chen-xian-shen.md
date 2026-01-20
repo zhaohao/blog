@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zui-yuan-zui-da-yue-liang-3-yue-20-ri-ling-chen-xian-shen"
+slug: "2011-03-20-zui-yuan-zui-da-yue-liang-3-yue-20-ri-ling-chen-xian-shen"
 draft: false
 ---
 根据天文精确推算，3月20日2时10分，地球运行到月亮和太阳之间，此时月亮恰好“直面”太阳，它将太阳的光全部反射给地球，故呈现“最圆”；3时许，月亮运行到距离地球最近的位置上，此时月球离地球约35.6万公里，这比月球离地球的最远距离要近5万多公里，因而从地球上看去，月亮比平时要大一些。  

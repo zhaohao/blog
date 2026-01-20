@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: ["ai"]
 categories: ["Default"]
-slug: "vscode-jekyll-post"
+slug: "2021-01-04-vscode-jekyll-post"
 draft: false
 ---
 使用Visual Studio Code中的代码片段Snippets功能，可以方便的插入所需的文件头。  

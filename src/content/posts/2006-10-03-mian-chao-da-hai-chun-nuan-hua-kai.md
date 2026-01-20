@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "mian-chao-da-hai-chun-nuan-hua-kai"
+slug: "2006-10-03-mian-chao-da-hai-chun-nuan-hua-kai"
 draft: false
 ---
 从明天起, 做一个幸福的人 喂马, 劈柴, 周游世界  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "dui-ka-tong-you-hua-suan-fa-de-jiang-zao-tiao-zheng-fen"
+slug: "2015-10-18-dui-ka-tong-you-hua-suan-fa-de-jiang-zao-tiao-zheng-fen"
 draft: false
 ---
 工具名称 ：waifu2x  

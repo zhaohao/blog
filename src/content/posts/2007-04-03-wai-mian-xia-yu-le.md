@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wai-mian-xia-yu-le"
+slug: "2007-04-03-wai-mian-xia-yu-le"
 draft: false
 ---
 快九点半了，外面又哗哗的下起雨来了……  

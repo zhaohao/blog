@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wo-jiu-zhe-me-xi-huan-ni"
+slug: "2012-10-26-wo-jiu-zhe-me-xi-huan-ni"
 draft: false
 ---
 “喂，喂喂，说点什么呀！”绿子把脸埋在我胸前说。  

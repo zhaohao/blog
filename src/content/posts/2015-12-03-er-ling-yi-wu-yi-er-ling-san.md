@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "er-ling-yi-wu-yi-er-ling-san"
+slug: "2015-12-03-er-ling-yi-wu-yi-er-ling-san"
 draft: false
 ---
 过了这一天，又一个周岁。感谢Acui，感谢Zoe。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "you-yi-ge-ren-ke-yi-qu-qian-gua-de-gan-jue-shi-xing-fu-de"
+slug: "2009-05-14-you-yi-ge-ren-ke-yi-qu-qian-gua-de-gan-jue-shi-xing-fu-de"
 draft: false
 ---
 发现心中一直的想着她……  

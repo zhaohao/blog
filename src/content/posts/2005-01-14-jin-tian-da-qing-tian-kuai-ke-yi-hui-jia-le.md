@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jin-tian-da-qing-tian-kuai-ke-yi-hui-jia-le"
+slug: "2005-01-14-jin-tian-da-qing-tian-kuai-ke-yi-hui-jia-le"
 draft: false
 ---
 今天大晴天。快可以回家了。

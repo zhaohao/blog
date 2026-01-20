@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "hun-sha-zhao-guang-zhou"
+slug: "2011-04-04-hun-sha-zhao-guang-zhou"
 draft: false
 ---
 等待化妆中……

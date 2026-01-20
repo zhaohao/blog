@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "longest-distance"
+slug: "2018-08-07-longest-distance"
 draft: false
 ---
 世界上最远的距离 不是生与死的距离  

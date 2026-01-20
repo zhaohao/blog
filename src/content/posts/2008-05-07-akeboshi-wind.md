@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "akeboshi-wind"
+slug: "2008-05-07-akeboshi-wind"
 draft: false
 ---
 naruto  

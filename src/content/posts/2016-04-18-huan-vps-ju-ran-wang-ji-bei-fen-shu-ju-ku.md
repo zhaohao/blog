@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "huan-vps-ju-ran-wang-ji-bei-fen-shu-ju-ku"
+slug: "2016-04-18-huan-vps-ju-ran-wang-ji-bei-fen-shu-ju-ku"
 draft: false
 ---
 移除了DigitalOCean上纽约节点的Droplet，才猛的想起只是备份了文件目录而没导出数据库，连带后台最近未整理批准的留言也都没了。  

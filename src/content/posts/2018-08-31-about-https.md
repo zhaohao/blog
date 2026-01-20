@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "about-https"
+slug: "2018-08-31-about-https"
 draft: false
 ---
 > // Google 安全博客早些时候宣布，2018 年 7 月发布的 Chrome 68 将标记 HTTP 网站为不安全。搜索巨人还计划在搜索结果里降低 HTTP 网站的排名。

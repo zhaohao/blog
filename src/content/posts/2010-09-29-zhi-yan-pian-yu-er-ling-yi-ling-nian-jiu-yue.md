@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhi-yan-pian-yu-er-ling-yi-ling-nian-jiu-yue"
+slug: "2010-09-29-zhi-yan-pian-yu-er-ling-yi-ling-nian-jiu-yue"
 draft: false
 ---
 2010-09-29 -moz-opacity to opacity Gecko 1.9.1/ Firefox 3.5 and later do not support -moz-opacity. By now, you should be using simply opacity.  

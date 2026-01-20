@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jin-tian-dao-le-yi-dian-zhong-shui-jiao"
+slug: "2008-06-04-jin-tian-dao-le-yi-dian-zhong-shui-jiao"
 draft: false
 ---
 ## 今天到了一点钟睡觉

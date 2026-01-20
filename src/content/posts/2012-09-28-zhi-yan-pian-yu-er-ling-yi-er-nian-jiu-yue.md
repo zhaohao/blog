@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhi-yan-pian-yu-er-ling-yi-er-nian-jiu-yue"
+slug: "2012-09-28-zhi-yan-pian-yu-er-ling-yi-er-nian-jiu-yue"
 draft: false
 ---
 2012-09-28 September 28, 2012 at 03:58PM 测试IFTTT中检测facebook状态信息…  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yi-jing-guo-le-ba-qian-ba-bai-ba-shi-ge-ri-ri-ye-ye"
+slug: "2009-03-26-yi-jing-guo-le-ba-qian-ba-bai-ba-shi-ge-ri-ri-ye-ye"
 draft: false
 ---
 已经过了八千八百八十个日日夜夜……

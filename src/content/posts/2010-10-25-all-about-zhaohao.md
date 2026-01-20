@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "all-about-zhaohao"
+slug: "2010-10-25-all-about-zhaohao"
 draft: false
 ---
 [twitter.com/zhaohao](http://twitter.com/zhaohao)  

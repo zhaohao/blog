@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "tian-lu-yao-ai-guo-liu-xing"
+slug: "2007-10-20-tian-lu-yao-ai-guo-liu-xing"
 draft: false
 ---
 天路遥，人世远，凝眸处沧海桑田。为谁痛哭，为谁嘻笑，任光阴凋尽朱颜。  

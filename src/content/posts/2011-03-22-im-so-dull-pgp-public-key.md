@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "im-so-dull-pgp-public-key"
+slug: "2011-03-22-im-so-dull-pgp-public-key"
 draft: false
 ---
   

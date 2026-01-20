@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wang-wen-man-man-de-fu-neng-liang-or-zhen-xiang"
+slug: "2015-11-08-wang-wen-man-man-de-fu-neng-liang-or-zhen-xiang"
 draft: false
 ---
   

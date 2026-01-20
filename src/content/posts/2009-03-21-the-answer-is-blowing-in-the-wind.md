@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "the-answer-is-blowing-in-the-wind"
+slug: "2009-03-21-the-answer-is-blowing-in-the-wind"
 draft: false
 ---
 How many roads must a man walk down, Before they call him a man?  

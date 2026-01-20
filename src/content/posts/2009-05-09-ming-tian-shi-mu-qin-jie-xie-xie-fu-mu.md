@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ming-tian-shi-mu-qin-jie-xie-xie-fu-mu"
+slug: "2009-05-09-ming-tian-shi-mu-qin-jie-xie-xie-fu-mu"
 draft: false
 ---
 明天是母亲节，谢谢父母  

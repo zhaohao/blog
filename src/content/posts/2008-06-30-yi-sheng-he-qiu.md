@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yi-sheng-he-qiu"
+slug: "2008-06-30-yi-sheng-he-qiu"
 draft: false
 ---
 一生何求-陈百强  

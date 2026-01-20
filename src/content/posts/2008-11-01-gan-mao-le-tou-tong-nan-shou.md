@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "gan-mao-le-tou-tong-nan-shou"
+slug: "2008-11-01-gan-mao-le-tou-tong-nan-shou"
 draft: false
 ---
 感冒了，头痛难受。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "birthday-of-ning"
+slug: "2016-12-07-birthday-of-ning"
 draft: false
 ---
 ![wind-flower](https://zhao.im/wp-content/uploads/2016-12-08-wind-flower.gif)

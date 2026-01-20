@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "to-runi-runi-run-to-stopi-stop-to-run"
+slug: "2006-10-10-to-runi-runi-run-to-stopi-stop-to-run"
 draft: false
 ---
 为了走开我走开 为了留下我留下  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yang-guang-yao-yan-tian-qi-wei-re"
+slug: "2015-09-28-yang-guang-yao-yan-tian-qi-wei-re"
 draft: false
 ---
 二零壹伍年九月二十八日，晴，广东广州。  

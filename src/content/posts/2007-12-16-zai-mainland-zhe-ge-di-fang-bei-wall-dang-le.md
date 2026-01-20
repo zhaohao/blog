@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zai-mainland-zhe-ge-di-fang-bei-wall-dang-le"
+slug: "2007-12-16-zai-mainland-zhe-ge-di-fang-bei-wall-dang-le"
 draft: false
 ---
 本来还庆幸blogger的自定义域还能够正常使用，但是在十二月的某天，这种庆幸彻底化为无奈了。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "hao-yun-de-jian-kang-fen-xiang-di-shi-wu-zhou"
+slug: "2012-08-13-hao-yun-de-jian-kang-fen-xiang-di-shi-wu-zhou"
 draft: false
 ---
 在15-18周之间是做产前诊断的最佳时期，现在你需要做一次产前诊断了。  

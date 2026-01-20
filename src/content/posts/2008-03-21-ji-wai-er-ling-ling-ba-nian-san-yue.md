@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ji-wai-er-ling-ling-ba-nian-san-yue"
+slug: "2008-03-21-ji-wai-er-ling-ling-ba-nian-san-yue"
 draft: false
 ---
 愿我来生得菩提时,心似琉璃.  

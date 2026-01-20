@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zui-hou-de-xue-xiao-shi-guang"
+slug: "2007-06-27-zui-hou-de-xue-xiao-shi-guang"
 draft: false
 ---
 套用一本曾经引用过的书的自序-曲终人散，无人喝彩  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "shi-yi-yue-le-dong-tian-le"
+slug: "2008-11-08-shi-yi-yue-le-dong-tian-le"
 draft: false
 ---
 昨天立冬，广州白天最高气温又是三十度以上，中午从楼顶平台走去吃饭，又感受了一下火辣辣的阳光（夸张了点）。吃完饭已经又是满头大汗了，匆匆下楼回到来了空调的屋里降温。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "shou-ji-msn-he-shou-ji-qq-qu-guang-gao"
+slug: "2009-04-28-shou-ji-msn-he-shou-ji-qq-qu-guang-gao"
 draft: false
 ---
 无聊而已。Nokia 5700 S60V3，其它没用过。  

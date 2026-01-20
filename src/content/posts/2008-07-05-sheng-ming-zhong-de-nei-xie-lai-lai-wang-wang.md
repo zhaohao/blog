@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "sheng-ming-zhong-de-nei-xie-lai-lai-wang-wang"
+slug: "2008-07-05-sheng-ming-zhong-de-nei-xie-lai-lai-wang-wang"
 draft: false
 ---
 朋友，许多年后，若我们在街头偶然相遇，你会将我的名字脱口而出吗？还是会立即将头侧向一边，加快脚步与我擦身而过，形同陌路……  

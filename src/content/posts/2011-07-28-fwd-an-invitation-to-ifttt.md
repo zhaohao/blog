@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "fwd-an-invitation-to-ifttt"
+slug: "2011-07-28-fwd-an-invitation-to-ifttt"
 draft: false
 ---
 \---------- Forwarded message ----------  

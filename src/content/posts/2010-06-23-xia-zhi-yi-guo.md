@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "xia-zhi-yi-guo"
+slug: "2010-06-23-xia-zhi-yi-guo"
 draft: false
 ---
 没有意识到夏至已经过去两天~  

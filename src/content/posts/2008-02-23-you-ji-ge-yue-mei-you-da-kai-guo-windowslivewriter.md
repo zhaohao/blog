@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "you-ji-ge-yue-mei-you-da-kai-guo-windowslivewriter"
+slug: "2008-02-23-you-ji-ge-yue-mei-you-da-kai-guo-windowslivewriter"
 draft: false
 ---
 自从上次无法访问这个地方开始，就没有再使用live writer，每次都是通过邮件，但是人越来越懒，连点鼠标的耐心都有点丧失了，更无从谈起加上些什么有意义的东西。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jin-tian-you-dao-le-kuai-yi-dian-le"
+slug: "2004-12-05-jin-tian-you-dao-le-kuai-yi-dian-le"
 draft: false
 ---
 今天又到了快一点了，没办法，天天都要到这个时间，感觉作业要做不完了，可是还是不想做，感觉很累的样子，实际上什么也没有做。  

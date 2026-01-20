@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "misfortunes-never-come-singly"
+slug: "2015-01-21-misfortunes-never-come-singly"
 draft: false
 ---
 屋漏偏逢连夜雨 船迟又遇打头风  

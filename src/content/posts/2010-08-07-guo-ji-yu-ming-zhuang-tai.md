@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "guo-ji-yu-ming-zhuang-tai"
+slug: "2010-08-07-guo-ji-yu-ming-zhuang-tai"
 draft: false
 ---
 1、.com.net国际域名几种状态  

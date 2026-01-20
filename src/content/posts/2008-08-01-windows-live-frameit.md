@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "windows-live-frameit"
+slug: "2008-08-01-windows-live-frameit"
 draft: false
 ---
 Welcome!  

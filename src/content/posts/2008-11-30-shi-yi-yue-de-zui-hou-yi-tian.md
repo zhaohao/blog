@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "shi-yi-yue-de-zui-hou-yi-tian"
+slug: "2008-11-30-shi-yi-yue-de-zui-hou-yi-tian"
 draft: false
 ---
 周末，昨晚上到三点半才睡觉，很长时间处于半睡半醒的状态之中，迷糊中有很不踏实的感觉。  

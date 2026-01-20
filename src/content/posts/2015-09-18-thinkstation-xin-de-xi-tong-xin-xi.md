@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "thinkstation-xin-de-xi-tong-xin-xi"
+slug: "2015-09-18-thinkstation-xin-de-xi-tong-xin-xi"
 draft: false
 ---
 换回了Windows8.1，相比Win10，Win8.1传统桌面的地方就是传统桌面，该是Metro效果的就是Metro界面，二者较为独立互不影响，自己感觉显得更为清爽简洁些。功能方面VirtualBox虚拟机兼容性也好。  

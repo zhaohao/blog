@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "alizeethe-first-sight"
+slug: "2009-03-08-alizeethe-first-sight"
 draft: false
 ---
 Alizee—Moi Lolita \[Live\] In Amsterdam  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "guan-yu-ji-mi-san"
+slug: "2008-03-12-guan-yu-ji-mi-san"
 draft: false
 ---
 我和我的「小人」-<幾米>  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jin-tian-nan-de-you-hen-can-lan-de-yang-guang"
+slug: "2007-04-18-jin-tian-nan-de-you-hen-can-lan-de-yang-guang"
 draft: false
 ---
 蓝天白云，灿烂的阳光，舒服清凉的温度

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "er-ling-ling-qi-nian-ba-yue"
+slug: "2007-08-30-er-ling-ling-qi-nian-ba-yue"
 draft: false
 ---
 2007年8月30日  

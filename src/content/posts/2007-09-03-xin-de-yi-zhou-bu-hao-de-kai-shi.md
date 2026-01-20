@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "xin-de-yi-zhou-bu-hao-de-kai-shi"
+slug: "2007-09-03-xin-de-yi-zhou-bu-hao-de-kai-shi"
 draft: false
 ---
 培训期结束，分配到了计算机系统，但此计算机非彼计算机。感冒中……

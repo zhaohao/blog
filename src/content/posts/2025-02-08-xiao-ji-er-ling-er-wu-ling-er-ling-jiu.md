@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "xiao-ji-er-ling-er-wu-ling-er-ling-jiu"
+slug: "2025-02-08-xiao-ji-er-ling-er-wu-ling-er-ling-jiu"
 draft: false
 ---
 晚上睡觉做了一堆的梦，早晨依旧六点多醒来，又迷糊的睡下，睡眠质量不怎么行。

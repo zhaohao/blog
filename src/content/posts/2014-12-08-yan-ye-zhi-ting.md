@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yan-ye-zhi-ting"
+slug: "2014-12-08-yan-ye-zhi-ting"
 draft: false
 ---
 鸣神の　少しとよみて　さし昙り　雨も降らんか　君を留めん  

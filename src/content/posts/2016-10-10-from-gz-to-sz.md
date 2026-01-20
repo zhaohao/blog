@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "from-gz-to-sz"
+slug: "2016-10-10-from-gz-to-sz"
 draft: false
 ---
 双十时间，又一次从广州到深圳，不知算是离开还是归来。

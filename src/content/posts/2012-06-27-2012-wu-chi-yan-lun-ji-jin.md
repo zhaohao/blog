@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "2012-wu-chi-yan-lun-ji-jin"
+slug: "2012-06-27-2012-wu-chi-yan-lun-ji-jin"
 draft: false
 ---
 没有最无耻只有更无耻！  

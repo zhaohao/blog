@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zui-liang-de-yue-guang"
+slug: "2014-07-13-zui-liang-de-yue-guang"
 draft: false
 ---
 [![moonlight](https://zhao.im/wp-content/uploads/Nikon-20140712-DSC_3320.jpg)](https://zhao.im/wp-content/uploads/Nikon-20140712-DSC_3320.jpg)   [![moonlight](https://zhao.im/wp-content/uploads/Nikon-20140712-DSC_3323.jpg)](https://zhao.im/wp-content/uploads/Nikon-20140712-DSC_3323.jpg)  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zoe-more-paintings"
+slug: "2017-04-15-zoe-more-paintings"
 draft: false
 ---
 Zoe又多了一些画儿。

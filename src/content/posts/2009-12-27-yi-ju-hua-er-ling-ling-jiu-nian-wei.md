@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yi-ju-hua-er-ling-ling-jiu-nian-wei"
+slug: "2009-12-27-yi-ju-hua-er-ling-ling-jiu-nian-wei"
 draft: false
 ---
 2009年飞奔而过，青春在消耗，人是否也一起成长？

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhi-yan-pian-yu-er-ling-yi-yi-nian-yi-yue"
+slug: "2011-01-26-zhi-yan-pian-yu-er-ling-yi-yi-nian-yi-yue"
 draft: false
 ---
 2011-01-26 休假第十天，算上前一个周末已经是第十二天了~  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "will-you-still-love-me-tomorrow"
+slug: "2008-08-15-will-you-still-love-me-tomorrow"
 draft: false
 ---
 午夜的收音机，轻轻传来一首歌，那是你我都已熟悉的旋律，在你遗忘的时候我依然还记得，明天你是否依然爱我？  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "chrome-ge-ban-ben-xia-zai-ji-he"
+slug: "2010-12-23-chrome-ge-ban-ben-xia-zai-ji-he"
 draft: false
 ---
 **来源：http://www.chromi.org/chromedownload**  

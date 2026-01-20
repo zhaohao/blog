@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: ["UI"]
 categories: ["Default"]
-slug: "xiu-gai-le-xia-farallon-zhu-ti"
+slug: "2026-01-13-xiu-gai-le-xia-farallon-zhu-ti"
 draft: false
 ---
 为了让WP的主题显示的风格同Memos显示页大体一致，修改了Farallon主题的页面和导航栏的显示风格。

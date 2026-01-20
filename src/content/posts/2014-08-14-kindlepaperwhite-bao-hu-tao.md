@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "kindlepaperwhite-bao-hu-tao"
+slug: "2014-08-14-kindlepaperwhite-bao-hu-tao"
 draft: false
 ---
 [![20140814_051111028_iOS](https://zhao.im/wp-content/uploads/20140814_051111028_iOS.jpg)](https://zhao.im/wp-content/uploads/20140814_051111028_iOS.jpg)[![20140814_051158959_iOS](https://zhao.im/wp-content/uploads/20140814_051158959_iOS.jpg)](https://zhao.im/wp-content/uploads/20140814_051158959_iOS.jpg)[![20140814_051304125_iOS](https://zhao.im/wp-content/uploads/20140814_051304125_iOS.jpg)](https://zhao.im/wp-content/uploads/20140814_051304125_iOS.jpg)[![20140814_051525777_iOS](https://zhao.im/wp-content/uploads/20140814_051525777_iOS.jpg)](https://zhao.im/wp-content/uploads/20140814_051525777_iOS.jpg)

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: ["running"]
 categories: ["Default"]
-slug: "hui-fu-pao-di-er-tian"
+slug: "2026-01-14-hui-fu-pao-di-er-tian"
 draft: false
 ---
 先是跟着跑步机视频部分走部分跑的运动了15分钟，刚好1.5km。

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "hao-yun-de-jian-kang-fen-xiang-di-shi-qi-zhou"
+slug: "2012-08-29-hao-yun-de-jian-kang-fen-xiang-di-shi-qi-zhou"
 draft: false
 ---
 这个星期进入了胎宝宝发育的关键期，循环系统、尿道等也开始工作。  

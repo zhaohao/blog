@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "neng-gan-de-bu-ting-hua"
+slug: "2008-04-02-neng-gan-de-bu-ting-hua"
 draft: false
 ---
 FROM:布珞阁 <2007.04.5 21:15 bruce>  

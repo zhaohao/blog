@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wu-yan-de-zhou-mo"
+slug: "2005-03-19-wu-yan-de-zhou-mo"
 draft: false
 ---
 来过好多次了，可是没有留下任何文字，

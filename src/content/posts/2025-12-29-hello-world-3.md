@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "hello-world-3"
+slug: "2025-12-29-hello-world-3"
 draft: true
 ---
 Hello World !

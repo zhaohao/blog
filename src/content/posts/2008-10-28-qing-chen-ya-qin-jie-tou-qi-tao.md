@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "qing-chen-ya-qin-jie-tou-qi-tao"
+slug: "2008-10-28-qing-chen-ya-qin-jie-tou-qi-tao"
 draft: false
 ---
 清尘雅琴：静海莲心/一声佛号一声心  

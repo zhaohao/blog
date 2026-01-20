@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "di-tie-shang-wu-liao-luan-dian-de-ce-shi"
+slug: "2010-05-17-di-tie-shang-wu-liao-luan-dian-de-ce-shi"
 draft: false
 ---
 【 你偏重左脑还是右脑 】  

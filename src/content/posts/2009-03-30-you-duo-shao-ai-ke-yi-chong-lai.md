@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "you-duo-shao-ai-ke-yi-chong-lai"
+slug: "2009-03-30-you-duo-shao-ai-ke-yi-chong-lai"
 draft: false
 ---
 常常责怪自己当初不应该，常常后悔没有把你留下来，为什么明明相爱，到最后还是要分开，是否我们总是徘徊在心门之外。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "hao-yun-de-jian-kang-fen-xiang-di-shi-zhou"
+slug: "2012-07-09-hao-yun-de-jian-kang-fen-xiang-di-shi-zhou"
 draft: false
 ---
 怀孕进入第10周了，你的胎儿现在已经很象个小人儿了，他（她）的身长大约有40毫米，体重达到10克左右。  

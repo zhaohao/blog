@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhuan-zhai-wo-men-xin-zhong-de-yi-xie-dong-hua"
+slug: "2009-01-31-zhuan-zhai-wo-men-xin-zhong-de-yi-xie-dong-hua"
 draft: false
 ---
 1、机器猫　　一句话点评：那个不论我们有多笨拙、多弱小、犯多少错误、也还是永远不会背弃我们的朋友。  

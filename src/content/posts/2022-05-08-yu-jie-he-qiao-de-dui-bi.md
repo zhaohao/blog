@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "yu-jie-he-qiao-de-dui-bi"
+slug: "2022-05-08-yu-jie-he-qiao-de-dui-bi"
 draft: false
 ---
 ![](https://zhao.im/wp-content/uploads/2022-05-08-fanfou2-wordpress.jpg)

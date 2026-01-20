@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jin-tian-yi-ge-yong-sheng-nan-wang-de-ri-zi"
+slug: "2009-07-18-jin-tian-yi-ge-yong-sheng-nan-wang-de-ri-zi"
 draft: false
 ---
 今天，一个永生难忘的日子  

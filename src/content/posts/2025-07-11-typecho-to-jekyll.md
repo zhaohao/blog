@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "typecho-to-jekyll"
+slug: "2025-07-11-typecho-to-jekyll"
 draft: false
 ---
 今天又翻看域名，想起以前设置的Astro博客和Jekyll博客，然后就再次试图在几个系统之间进行同步，搜到了Typecho上的Tp2MD插件，可以将typecho的文章转换为Jekyll适用的md文件，遂尝试使用。

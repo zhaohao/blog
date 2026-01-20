@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "shen-shou-zhai-xing"
+slug: "2006-11-26-shen-shou-zhai-xing"
 draft: false
 ---
 失去，也是一种笃定。  

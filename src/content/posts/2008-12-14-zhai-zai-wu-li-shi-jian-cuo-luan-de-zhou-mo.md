@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhai-zai-wu-li-shi-jian-cuo-luan-de-zhou-mo"
+slug: "2008-12-14-zhai-zai-wu-li-shi-jian-cuo-luan-de-zhou-mo"
 draft: false
 ---
 周末，这又是一个混乱的周末。  

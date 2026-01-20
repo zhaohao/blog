@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "android-l-developer-preview"
+slug: "2014-10-23-android-l-developer-preview"
 draft: false
 ---
 Android 5.0 (Lollipop) is almost here and users will begin receiving device updates in November.  

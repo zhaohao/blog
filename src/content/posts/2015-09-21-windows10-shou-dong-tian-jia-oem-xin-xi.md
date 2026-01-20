@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "windows10-shou-dong-tian-jia-oem-xin-xi"
+slug: "2015-09-21-windows10-shou-dong-tian-jia-oem-xin-xi"
 draft: false
 ---
 [![oemlogo256px](https://zhao.im/wp-content/uploads/oemlogo256px.png)](https://zhao.im/wp-content/uploads/oemlogo256px.png)  

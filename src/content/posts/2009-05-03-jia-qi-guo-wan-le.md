@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jia-qi-guo-wan-le"
+slug: "2009-05-03-jia-qi-guo-wan-le"
 draft: false
 ---
 几天很快过去了……  

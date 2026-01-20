@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "9424-yu-tian-qi-qing-liang"
+slug: "2010-09-21-9424-yu-tian-qi-qing-liang"
 draft: false
 ---
 2010-09-21  

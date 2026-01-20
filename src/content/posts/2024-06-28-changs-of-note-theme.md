@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: ["Html", "Jekyll", "Theme"]
 categories: ["Default"]
-slug: "changs-of-note-theme"
+slug: "2024-06-28-changs-of-note-theme"
 draft: false
 ---
 *   \[x\] 调整了页面字体，色彩以及fontawsome图标。

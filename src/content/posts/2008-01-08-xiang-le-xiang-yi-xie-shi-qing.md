@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "xiang-le-xiang-yi-xie-shi-qing"
+slug: "2008-01-08-xiang-le-xiang-yi-xie-shi-qing"
 draft: false
 ---
 今天早上没能准时起来，又往后推迟了许久，希望明天不会这样了。  

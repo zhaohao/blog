@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ping-vultr-from-shenzhen-ct"
+slug: "2016-10-17-ping-vultr-from-shenzhen-ct"
 draft: false
 ---
 服务器信息来源 ：[https://www.vultr.com/faq/](https://www.vultr.com/faq/)

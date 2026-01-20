@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "nin-yi-jing-huo-le-9099-tian-le"
+slug: "2009-11-01-nin-yi-jing-huo-le-9099-tian-le"
 draft: false
 ---
 您已经活了9099天了~  

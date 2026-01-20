@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zai-hx-zui-hou-yi-ge-gong-zuo-ri"
+slug: "2011-02-28-zai-hx-zui-hou-yi-ge-gong-zuo-ri"
 draft: false
 ---
 从此同人生第一份工作说byebye,看未来~~~  

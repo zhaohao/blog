@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yi-xie-bao-yuan-yi-xie-ge"
+slug: "2007-12-16-yi-xie-bao-yuan-yi-xie-ge"
 draft: false
 ---
 在MainLand这个地方被wall挡了，本来还庆幸blogger的自定义域还能够正常使用，但是在十二月的某天，这种庆幸彻底化为无奈了。  

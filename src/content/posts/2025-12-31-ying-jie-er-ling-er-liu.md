@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: ["life"]
 categories: ["Default"]
-slug: "ying-jie-er-ling-er-liu"
+slug: "2025-12-31-ying-jie-er-ling-er-liu"
 draft: false
 ---
 二〇二五年最后一天，折腾饭否的数据到 WP ，机械性手工转移弄得头昏脑胀。散落各处的数据大概汇集到了 WordPress 和 Memos 两个地方。大概不再折腾别的平台了。

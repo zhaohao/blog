@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "8907qq-you-xiang-yi-you-duo-ming-you-xiang"
+slug: "2009-04-22-8907qq-you-xiang-yi-you-duo-ming-you-xiang"
 draft: false
 ---
 前一段时间看到的新闻，要有邀请邮件才能开通，今天看到更新，只要一个@foxmail.com的邮箱发一封信到QQmail，点击Email地址旁边的小图标就能进入注册页面。于是就把QQ号对应的邮箱新注册了个Foxmail邮箱地址:iswm(at)foxmail.com。  

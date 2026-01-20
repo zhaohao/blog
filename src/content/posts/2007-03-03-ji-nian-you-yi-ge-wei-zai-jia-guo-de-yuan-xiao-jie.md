@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ji-nian-you-yi-ge-wei-zai-jia-guo-de-yuan-xiao-jie"
+slug: "2007-03-03-ji-nian-you-yi-ge-wei-zai-jia-guo-de-yuan-xiao-jie"
 draft: false
 ---
   

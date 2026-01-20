@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: ["life", "running"]
 categories: ["Default"]
-slug: "start-running-again"
+slug: "2026-01-13-start-running-again"
 draft: false
 ---
 久坐不运动，身体开始表现出各种警讯，各种亚健康状态层出不穷，迫切需要改善这种状态。  

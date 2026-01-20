@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yi-xie-ling-sui-de-dong-xi"
+slug: "2008-09-11-yi-xie-ling-sui-de-dong-xi"
 draft: false
 ---
 刚刚能感受到一点秋意的时候马上又进入了酷热之中。本来晚上有单位"单身者"的中秋聚餐的，可是对这里没有太多的归属感进而对这种活动没有任何想去的冲动。  

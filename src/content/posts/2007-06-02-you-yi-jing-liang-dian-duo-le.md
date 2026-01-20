@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "you-yi-jing-liang-dian-duo-le"
+slug: "2007-06-02-you-yi-jing-liang-dian-duo-le"
 draft: false
 ---
 不知不觉中已经到2号了，一整天唯一的感觉就是热了，一整天风扇开到最大吹着，睡觉的时候感觉到竹席也完全是热的。  

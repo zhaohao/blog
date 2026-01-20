@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ren-yi-qie-de-tong-ku-ben-zhi-shang-dou-shi-dui-zi-ji-de-wu"
+slug: "2015-02-10-ren-yi-qie-de-tong-ku-ben-zhi-shang-dou-shi-dui-zi-ji-de-wu"
 draft: false
 ---
 > 人一切的痛苦，本质上都是对自己的无能的愤怒。

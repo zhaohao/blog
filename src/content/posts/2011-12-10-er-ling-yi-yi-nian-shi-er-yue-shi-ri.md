@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "er-ling-yi-yi-nian-shi-er-yue-shi-ri"
+slug: "2011-12-10-er-ling-yi-yi-nian-shi-er-yue-shi-ri"
 draft: false
 ---
 [![tumblr_lvyulodkim1qktd12o1_1280](https://zhao.im/wp-content/uploads/tumblr_lvyulodkim1qktd12o1_1280.jpg)](https://zhao.im/wp-content/uploads/tumblr_lvyulodkim1qktd12o1_1280.jpg)  

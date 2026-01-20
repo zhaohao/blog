@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jin-tian-you-dao-shi-yi-dian-cai-qi-chuang"
+slug: "2009-04-18-jin-tian-you-dao-shi-yi-dian-cai-qi-chuang"
 draft: false
 ---
 今天又到十一点才起床，不知做了什么事，除了又无聊的改了下blogger的模板…  

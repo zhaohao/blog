@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jin-tian-hen-luan-bu-zhi-dao-gai-zen-me-shuo"
+slug: "2010-01-12-jin-tian-hen-luan-bu-zhi-dao-gai-zen-me-shuo"
 draft: false
 ---
 今天很乱，不知道该怎么说。部门吃饭，气氛有些压抑～  

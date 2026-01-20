@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "hui-fu-pao-bu-di-si-tian"
+slug: "2026-01-16-hui-fu-pao-bu-di-si-tian"
 draft: false
 ---
 今天算是恢复运动后第一个完整的5km，全程没有中断，没有中间调低速度，没有中途扶跑步机把手，全程都是跑步姿态。

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "dian-ti-li-de-chou-xiang-guang-gao"
+slug: "2021-02-01-dian-ti-li-de-chou-xiang-guang-gao"
 draft: false
 ---
 莫名的违和感。

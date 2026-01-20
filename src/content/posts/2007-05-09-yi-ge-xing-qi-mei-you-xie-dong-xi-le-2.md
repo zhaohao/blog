@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yi-ge-xing-qi-mei-you-xie-dong-xi-le-2"
+slug: "2007-05-09-yi-ge-xing-qi-mei-you-xie-dong-xi-le-2"
 draft: false
 ---
 已经有一个星期没有再写些什么了，无论如何加一点点东西吧。  

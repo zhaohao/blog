@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhong-da-ma-tou-tian-zi-ma-tou-zhong-da-ma-tou"
+slug: "2007-06-11-zhong-da-ma-tou-tian-zi-ma-tou-zhong-da-ma-tou"
 draft: false
 ---
 到广州已经两年了，可是对近在咫尺的珠江还没怎么"亲密接触"，终于在昨天为了去北京路而坐了一次"水上巴士"，之所以加上引号因为去和回来坐的又都不是真正意义上的水上巴士，而都是大个一点的游船。  

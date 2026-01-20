@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "android-lollipop-5-0-1-ota"
+slug: "2014-12-19-android-lollipop-5-0-1-ota"
 draft: false
 ---
 Android Lollipop 5.0.1 OTA推送，可惜系统已经Root，重启安装机器人倒地不起……  

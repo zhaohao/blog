@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "memos-of-nov-2024__trashed"
+slug: "2024-11-30-memos-of-nov-2024__trashed"
 draft: true
 ---
 📅 2024/11/28 21:40 在家这边绕了一圈。 Thursday, November 28, 2024

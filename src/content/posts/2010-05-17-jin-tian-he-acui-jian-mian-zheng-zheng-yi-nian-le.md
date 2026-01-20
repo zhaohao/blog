@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jin-tian-he-acui-jian-mian-zheng-zheng-yi-nian-le"
+slug: "2010-05-17-jin-tian-he-acui-jian-mian-zheng-zheng-yi-nian-le"
 draft: false
 ---
 今天和Acui见面整整一年了。

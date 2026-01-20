@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "hai-kuo-tian-kong"
+slug: "2010-09-11-hai-kuo-tian-kong"
 draft: false
 ---
 2010-09-11 DIARYONE， 歌、电影  

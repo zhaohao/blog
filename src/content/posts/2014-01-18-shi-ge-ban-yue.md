@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "shi-ge-ban-yue"
+slug: "2014-01-18-shi-ge-ban-yue"
 draft: false
 ---
 \[gallery\]  

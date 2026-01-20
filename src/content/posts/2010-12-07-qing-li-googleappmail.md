@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "qing-li-googleappmail"
+slug: "2010-12-07-qing-li-googleappmail"
 draft: false
 ---
 2010-12-05 清空@[zhaohao.name](http://zhaohao.name/)~  

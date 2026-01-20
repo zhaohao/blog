@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jian-kang-bao-bao"
+slug: "2012-07-04-jian-kang-bao-bao"
 draft: false
 ---
 [![DSC06096-702249](https://zhao.im/wp-content/uploads/DSC06096-702249.jpg)](https://zhao.im/wp-content/uploads/DSC06096-702249.jpg)  

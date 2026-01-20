@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "vitas-xing-xing"
+slug: "2008-09-02-vitas-xing-xing"
 draft: false
 ---
 无数次的问自己，我为何而生、为何而存在？  

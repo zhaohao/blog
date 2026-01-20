@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "xiao-wang-shu"
+slug: "2016-03-30-xiao-wang-shu"
 draft: false
 ---
 从开始哭着嫉妒，变成了笑着羡慕。时间是怎么样，划过了我皮肤，只有我自己最清楚。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yong-yuan-bu-hui-tou"
+slug: "2006-12-13-yong-yuan-bu-hui-tou"
 draft: false
 ---
 在天色破晓之前  

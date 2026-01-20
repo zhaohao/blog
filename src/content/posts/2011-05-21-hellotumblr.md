@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "hellotumblr"
+slug: "2011-05-21-hellotumblr"
 draft: false
 ---
 2011-05-21 Hello,tumblr.  

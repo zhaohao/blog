@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "gong-zuo-zhuang-tai-di-luo-dao-ji-zhi"
+slug: "2010-06-22-gong-zuo-zhuang-tai-di-luo-dao-ji-zhi"
 draft: false
 ---
 需要离开~

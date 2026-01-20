@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhe-teng-yu-ming"
+slug: "2009-04-20-zhe-teng-yu-ming"
 draft: false
 ---
 折腾域名告一段落。  

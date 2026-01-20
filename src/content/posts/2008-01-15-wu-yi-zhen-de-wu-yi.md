@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wu-yi-zhen-de-wu-yi"
+slug: "2008-01-15-wu-yi-zhen-de-wu-yi"
 draft: false
 ---
 无意中敲进那几个熟悉的字母，想再体验下那白底黑字的失落感，可没想到状态栏显示加载了那么几个熟悉的地址，于是又一次直接见到了这久违的页面。  

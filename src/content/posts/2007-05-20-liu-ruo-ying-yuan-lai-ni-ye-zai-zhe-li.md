@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "liu-ruo-ying-yuan-lai-ni-ye-zai-zhe-li"
+slug: "2007-05-20-liu-ruo-ying-yuan-lai-ni-ye-zai-zhe-li"
 draft: false
 ---
 在曾经那段在图书馆的日子里，经常听的的一首歌。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhuan-zai-wo-men-de-liao-tian-tou-xiang-zai-xian-huo-yin"
+slug: "2007-06-09-zhuan-zai-wo-men-de-liao-tian-tou-xiang-zai-xian-huo-yin"
 draft: false
 ---
 其实网络上面的人都是寂寞的，试想如果工作生活太繁忙，哪会有时间天天泡在网络上呢？可是，现在有太多时间好像是富余的。闲暇里，网络成了上班或是在家最好的消遣方式。各种即时的聊天工具应运而生，人们在选择着，也在其中流连着甚至沉迷着。  

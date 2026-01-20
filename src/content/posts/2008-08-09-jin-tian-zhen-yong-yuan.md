@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jin-tian-zhen-yong-yuan"
+slug: "2008-08-09-jin-tian-zhen-yong-yuan"
 draft: false
 ---
 走过岁月我才发现世界多不完美，成功或失败都有一些错觉  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yong-yuan-de-shou-wang-ye-kong-shou-wang-zhe"
+slug: "2008-10-16-yong-yuan-de-shou-wang-ye-kong-shou-wang-zhe"
 draft: false
 ---
 到了周三晚上习惯性的调到那个频道，却不再能听到那个熟悉的声音……  

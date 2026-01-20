@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "fttr-other-routers"
+slug: "2025-03-22-fttr-other-routers"
 draft: false
 ---
 升级了FTTR，有了一主一从两个带2.5G网口的网关，自带的WIFI效果也不错了，千兆宽带在旁边测速能到1.5Gbps左右。这样原来的路由器就空闲下来。这两个路由器都是挺高规格的，尤其是前一段刚购置的中兴晴天BE5100Pro+WIFI7路由器，也带有两个2.5G的WAN/LAN口，另一个是TP-Link的AX5400WIFI6路由器。

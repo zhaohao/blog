@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "i-singi-swim"
+slug: "2009-05-10-i-singi-swim"
 draft: false
 ---
 When the birds are sleeping,that's when the trees sing.  

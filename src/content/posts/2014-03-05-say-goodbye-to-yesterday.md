@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "say-goodbye-to-yesterday"
+slug: "2014-03-05-say-goodbye-to-yesterday"
 draft: false
 ---
 去年今日此门中  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "cry-on-my-shoulder"
+slug: "2009-03-02-cry-on-my-shoulder"
 draft: false
 ---
 Deutschland sucht den superstar  

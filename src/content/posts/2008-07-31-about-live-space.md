@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "about-live-space"
+slug: "2008-07-31-about-live-space"
 draft: false
 ---
 今天登录Live space 在最上面出现了这样的提示：  

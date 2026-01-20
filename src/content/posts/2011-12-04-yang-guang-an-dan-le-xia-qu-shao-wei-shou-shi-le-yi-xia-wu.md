@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yang-guang-an-dan-le-xia-qu-shao-wei-shou-shi-le-yi-xia-wu"
+slug: "2011-12-04-yang-guang-an-dan-le-xia-qu-shao-wei-shou-shi-le-yi-xia-wu"
 draft: false
 ---
 再传些阳光还明亮时的照片……  

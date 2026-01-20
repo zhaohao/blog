@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "the-road-less-traveled"
+slug: "2016-03-22-the-road-less-traveled"
 draft: false
 ---
 [![The-Road-Less-Traveled](https://zhao.im/wp-content/uploads/The-Road-Less-Traveled.jpg)](https://zhao.im/wp-content/uploads/The-Road-Less-Traveled.jpg)

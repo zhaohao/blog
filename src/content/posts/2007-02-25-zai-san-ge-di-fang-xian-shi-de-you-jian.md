@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zai-san-ge-di-fang-xian-shi-de-you-jian"
+slug: "2007-02-25-zai-san-ge-di-fang-xian-shi-de-you-jian"
 draft: false
 ---
 又已经是夜里两点半了，外面还有淅淅沥沥的雨声，明天怕是又起不来了。  

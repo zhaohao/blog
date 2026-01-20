@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "er-ling-ling-ba-nian-yi-yue-yi-ri-de-yang-guang"
+slug: "2008-01-17-er-ling-ling-ba-nian-yi-yue-yi-ri-de-yang-guang"
 draft: false
 ---
 2008年1月1日13:54:27的阳光  

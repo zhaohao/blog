@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ma-shang-jiu-yao-jin-ru-2008-nian-le"
+slug: "2007-12-31-ma-shang-jiu-yao-jin-ru-2008-nian-le"
 draft: false
 ---
 马上就要进入2008年了,新年即将到来，2007年将永远的离去了！  

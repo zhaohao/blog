@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ge-shi-li-kong-de-hong-yan"
+slug: "2008-06-01-ge-shi-li-kong-de-hong-yan"
 draft: false
 ---
 谁会相信雨滴会变成一杯咖啡，种子会开成鲜丽的玫瑰。孤寂的旅途是单程的约会，相近 相识后各自而飞。  

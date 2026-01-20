@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhi-yan-pian-yu-er-ling-yi-ling-nian-shi-yue"
+slug: "2010-10-31-zhi-yan-pian-yu-er-ling-yi-ling-nian-shi-yue"
 draft: false
 ---
 2010-10-31 十月最后一天了~  

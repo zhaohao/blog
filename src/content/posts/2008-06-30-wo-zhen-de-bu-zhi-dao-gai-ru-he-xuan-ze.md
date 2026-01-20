@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wo-zhen-de-bu-zhi-dao-gai-ru-he-xuan-ze"
+slug: "2008-06-30-wo-zhen-de-bu-zhi-dao-gai-ru-he-xuan-ze"
 draft: false
 ---
 心里仍然乱七八糟，十一点多点躺到床上，现在已经一点半了，感到好累。  

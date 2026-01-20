@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "liu-shui-zhang-yi-dan-20080625"
+slug: "2008-06-25-liu-shui-zhang-yi-dan-20080625"
 draft: false
 ---
 经历了几天的酷热之后，因为台风的原因，终于又凉快了一点了。今天凌晨四五点的时候，被雨声给吵醒，迷迷糊糊的关上了飞飘雨点的窗口，迷糊中瞄了下时间，接着继续睡觉。  

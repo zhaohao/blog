@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "tai-ge-er-yuan-ding-ji"
+slug: "2006-11-11-tai-ge-er-yuan-ding-ji"
 draft: false
 ---
 我想要对你说出我要说我的最深的话语，我不敢，我怕你哂笑。  

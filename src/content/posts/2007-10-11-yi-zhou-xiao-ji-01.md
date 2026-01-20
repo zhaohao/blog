@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yi-zhou-xiao-ji-01"
+slug: "2007-10-11-yi-zhou-xiao-ji-01"
 draft: false
 ---
 转瞬间十一过去已经又快一周时间了，这一周真可以用折腾来形容。  

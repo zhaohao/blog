@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "sealed-with-a-kiss"
+slug: "2008-07-12-sealed-with-a-kiss"
 draft: false
 ---
 以吻封缄―Sealed with a kiss  

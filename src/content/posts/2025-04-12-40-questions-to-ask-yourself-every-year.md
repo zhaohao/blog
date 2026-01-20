@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "40-questions-to-ask-yourself-every-year"
+slug: "2025-04-12-40-questions-to-ask-yourself-every-year"
 draft: false
 ---
 [https://stephango.com/40-questions](https://stephango.com/40-questions)

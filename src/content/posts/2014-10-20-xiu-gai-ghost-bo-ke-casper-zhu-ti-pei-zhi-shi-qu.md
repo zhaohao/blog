@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "xiu-gai-ghost-bo-ke-casper-zhu-ti-pei-zhi-shi-qu"
+slug: "2014-10-20-xiu-gai-ghost-bo-ke-casper-zhu-ti-pei-zhi-shi-qu"
 draft: false
 ---
 1.修改主题配色。  

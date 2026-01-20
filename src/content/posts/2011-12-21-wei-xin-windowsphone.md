@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wei-xin-windowsphone"
+slug: "2011-12-21-wei-xin-windowsphone"
 draft: false
 ---
 [![tumblr_lwjze3xn1q1qktd12o1_1280](https://zhao.im/wp-content/uploads/tumblr_lwjze3xn1q1qktd12o1_1280.jpg)](https://zhao.im/wp-content/uploads/tumblr_lwjze3xn1q1qktd12o1_1280.jpg)  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "lou-ding-de-lyu-ye-xiao-hua"
+slug: "2016-04-26-lou-ding-de-lyu-ye-xiao-hua"
 draft: false
 ---
 一段时间没有回家,正值阴雨连绵的季节,楼顶的花花草草在雨水的滋润下蓬勃起来。@Guangzhou 2016  

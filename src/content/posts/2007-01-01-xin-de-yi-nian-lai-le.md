@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "xin-de-yi-nian-lai-le"
+slug: "2007-01-01-xin-de-yi-nian-lai-le"
 draft: false
 ---
 躺在床上翻来覆去就是无法入睡，没想到今年的第一天竟会这样迎来。心里有太大的压力了，不知今后的路该怎样才能更好的走下去。  

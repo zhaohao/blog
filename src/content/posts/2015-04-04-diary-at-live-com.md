@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "diary-at-live-com"
+slug: "2015-04-04-diary-at-live-com"
 draft: false
 ---
 **注**册到了Diary(at)live.com这个邮箱，配合Live的后缀挺有意义的，加上微软已经关闭了@live.com的注册，这也算是一桩意外事件。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "shi-jian-xue-xin-qing-ming-yun"
+slug: "2004-12-06-shi-jian-xue-xin-qing-ming-yun"
 draft: false
 ---
 每个人的命运是不同的  

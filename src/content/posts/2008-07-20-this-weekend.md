@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "this-weekend"
+slug: "2008-07-20-this-weekend"
 draft: false
 ---
 又一个周末，天气非常热，本打算去姐姐家的，可到了时间又不想着出门了。  

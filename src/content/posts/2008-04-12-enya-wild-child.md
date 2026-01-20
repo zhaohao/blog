@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "enya-wild-child"
+slug: "2008-04-12-enya-wild-child"
 draft: false
 ---
 A day without rain  

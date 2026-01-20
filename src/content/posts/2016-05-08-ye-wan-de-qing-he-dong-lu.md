@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ye-wan-de-qing-he-dong-lu"
+slug: "2016-05-08-ye-wan-de-qing-he-dong-lu"
 draft: false
 ---
 夜晚的街道，手动对焦把焦点调糊,随手按了几下，红绿灯，车灯，窗口的灯都朦胧了一片……  

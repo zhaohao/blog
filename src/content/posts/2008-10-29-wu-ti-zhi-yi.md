@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wu-ti-zhi-yi"
+slug: "2008-10-29-wu-ti-zhi-yi"
 draft: false
 ---
 一天，很快过完了。  

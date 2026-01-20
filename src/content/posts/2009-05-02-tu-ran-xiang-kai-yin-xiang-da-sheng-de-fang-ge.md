@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "tu-ran-xiang-kai-yin-xiang-da-sheng-de-fang-ge"
+slug: "2009-05-02-tu-ran-xiang-kai-yin-xiang-da-sheng-de-fang-ge"
 draft: false
 ---
 五一假期，有些不知所措，不知道怎么安排……  

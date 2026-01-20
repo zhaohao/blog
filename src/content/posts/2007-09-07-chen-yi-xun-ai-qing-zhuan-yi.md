@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "chen-yi-xun-ai-qing-zhuan-yi"
+slug: "2007-09-07-chen-yi-xun-ai-qing-zhuan-yi"
 draft: false
 ---
 电影《爱情呼叫转移》主题曲  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "yi-zao-qu-ji-chang"
+slug: "2025-02-07-yi-zao-qu-ji-chang"
 draft: false
 ---
 凌晨四点半闹钟，送小溪小树的姥姥姥爷去机场✈️，走了沿江高速一路顺畅，直到4F国内出发入口即停即走路段有些缓慢。后面两个小插曲也一波三折的顺利解决了，顺利乘机出发。

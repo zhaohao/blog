@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "new-google-logo"
+slug: "2015-09-03-new-google-logo"
 draft: false
 ---
 二〇一五年九月,Google启用了无衬线字体的Logo，更加扁平化、年轻化。  

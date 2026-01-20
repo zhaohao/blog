@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "fan-fan-fan-fan-fan-fan-fan-fan-fan-fan-fan-fan-fan-fan-fan"
+slug: "2008-12-02-fan-fan-fan-fan-fan-fan-fan-fan-fan-fan-fan-fan-fan-fan-fan"
 draft: false
 ---
 烦烦烦烦烦烦烦烦烦烦烦烦烦烦烦烦烦烦烦烦烦烦烦烦……

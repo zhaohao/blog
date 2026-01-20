@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "xian-zai-shi-jian-ling-chen-si-dian-zheng"
+slug: "2007-02-26-xian-zai-shi-jian-ling-chen-si-dian-zheng"
 draft: false
 ---
 接连有几天都到很晚才睡觉了，坐在电脑前似乎时间过的很快，还没有做些什么东西都已经到很迟很迟了。

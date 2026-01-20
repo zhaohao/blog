@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "new-lofree-mouse"
+slug: "2024-05-05-new-lofree-mouse"
 draft: false
 ---
 在bilibili上发现了这个小鼠标，完全被吸引。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jie-jue-hao-ma-bei-biao-ji"
+slug: "2019-12-29-jie-jue-hao-ma-bei-biao-ji"
 draft: false
 ---
 前面用自己的一个联通号码打给另一部小米手机，结果MIUI来电界面显示为一个公司的名字。  

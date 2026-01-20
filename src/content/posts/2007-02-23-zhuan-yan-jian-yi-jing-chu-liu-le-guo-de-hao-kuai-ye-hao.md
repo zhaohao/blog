@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhuan-yan-jian-yi-jing-chu-liu-le-guo-de-hao-kuai-ye-hao"
+slug: "2007-02-23-zhuan-yan-jian-yi-jing-chu-liu-le-guo-de-hao-kuai-ye-hao"
 draft: false
 ---
 转眼间已经初六了，过的好快，也好颓废。

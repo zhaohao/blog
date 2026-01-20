@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wai-mian-you-xia-qi-le-yu-1930"
+slug: "2007-02-24-wai-mian-you-xia-qi-le-yu-1930"
 draft: false
 ---
 又下雨了，啪啪的打在雨棚上面，一个人吃着刚刚煮的面，突然没有了孤独的感觉。

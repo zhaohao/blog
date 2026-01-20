@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "er-ling-yi-san-nian-shi-yi-yue-jiu-ri"
+slug: "2013-11-09-er-ling-yi-san-nian-shi-yi-yue-jiu-ri"
 draft: false
 ---
 周六，Github上的Jekyll总是页面编译错误，只能停留在六月的日志了。  

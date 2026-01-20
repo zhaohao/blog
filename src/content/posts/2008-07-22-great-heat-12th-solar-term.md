@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "great-heat-12th-solar-term"
+slug: "2008-07-22-great-heat-12th-solar-term"
 draft: false
 ---
 今天在日历上看到已经是"大暑"了，08年又已经过去了好多。一整天从早上起床起就很不在状态，明明算起来睡觉的时间不算短，但每每起床的时候都仍然感觉到很累，很困。  

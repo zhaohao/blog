@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ye-kong-shou-wang-zhe-wei-shen-me-kao-yan"
+slug: "2006-10-11-ye-kong-shou-wang-zhe-wei-shen-me-kao-yan"
 draft: false
 ---
 猛然之间，真的就是考研倒计时100天了，你真的做好准备了吗？  

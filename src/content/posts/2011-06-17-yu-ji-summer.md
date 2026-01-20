@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yu-ji-summer"
+slug: "2011-06-17-yu-ji-summer"
 draft: false
 ---
 纷繁复杂的世界，纷繁复杂的梦，伴着时时灼热的阳光、时时清凉的雨水，悄无声息的慢慢改变着……  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "xian-guang-blogger-fa-xian"
+slug: "2007-03-01-xian-guang-blogger-fa-xian"
 draft: false
 ---
   

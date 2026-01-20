@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "delicious-is-moving-to-a-new-home"
+slug: "2011-04-28-delicious-is-moving-to-a-new-home"
 draft: false
 ---
 Yahoo! is excited to announce that Delicious has been acquired by the founders of YouTube, Chad Hurley and Steve Chen. As creators of the  

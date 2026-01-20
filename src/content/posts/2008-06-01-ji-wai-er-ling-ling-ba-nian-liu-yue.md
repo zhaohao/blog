@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ji-wai-er-ling-ling-ba-nian-liu-yue"
+slug: "2008-06-01-ji-wai-er-ling-ling-ba-nian-liu-yue"
 draft: false
 ---
 虚空的虚空，凡事都是虚空。已有的 事，后必再有；已行的事，后必再行。日光之下，并无新事。已过的时世代，无人纪 念；将来的世代，后来的人也不纪念。  

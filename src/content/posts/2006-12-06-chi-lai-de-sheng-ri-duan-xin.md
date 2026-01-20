@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "chi-lai-de-sheng-ri-duan-xin"
+slug: "2006-12-06-chi-lai-de-sheng-ri-duan-xin"
 draft: false
 ---
 收到生日的短信，可惜今人已非故人暸。  

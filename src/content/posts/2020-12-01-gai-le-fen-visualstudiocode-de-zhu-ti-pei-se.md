@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "gai-le-fen-visualstudiocode-de-zhu-ti-pei-se"
+slug: "2020-12-01-gai-le-fen-visualstudiocode-de-zhu-ti-pei-se"
 draft: false
 ---
 改了份Visual Studio Code的主题配色。

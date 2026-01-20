@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhe-yi-nian-duo-lai-tai-di-xiao-le"
+slug: "2008-08-18-zhe-yi-nian-duo-lai-tai-di-xiao-le"
 draft: false
 ---
 快两点了，本来十二点多就躺下了，不过到现在还没有睡着，乱七八糟的东西在脑海里飘悠。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jiu-xing-ren-ge-fen-xi-zhi-wo-er"
+slug: "2008-03-16-jiu-xing-ren-ge-fen-xi-zhi-wo-er"
 draft: false
 ---
 ５号性格－观察者  

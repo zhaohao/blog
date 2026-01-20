@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "r51345762-dang-an-gua-kao-xu-fei-wen-ti-tian-he-ruan-jian"
+slug: "2011-04-21-r51345762-dang-an-gua-kao-xu-fei-wen-ti-tian-he-ruan-jian"
 draft: false
 ---
 R\_51345762 档案挂靠续费问题 2010-05-30  

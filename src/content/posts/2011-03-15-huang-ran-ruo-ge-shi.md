@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "huang-ran-ruo-ge-shi"
+slug: "2011-03-15-huang-ran-ruo-ge-shi"
 draft: false
 ---
 DIARYONE 恍然若隔世  

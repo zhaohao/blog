@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "huo-xu-na-bu-jiao-ai-na-zhi-shi-ji-mo"
+slug: "2009-03-07-huo-xu-na-bu-jiao-ai-na-zhi-shi-ji-mo"
 draft: false
 ---
 或许那不叫爱，那只是寂寞……

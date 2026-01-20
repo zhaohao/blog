@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ceng-jing-msn-dong-tai-tou-xiang"
+slug: "2015-10-18-ceng-jing-msn-dong-tai-tou-xiang"
 draft: false
 ---
 大概十年前用的MSN动态头像，原始宽高大小只有不到100px,后面始终也找不到原图。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wo-yao-kao-yan"
+slug: "2006-08-14-wo-yao-kao-yan"
 draft: false
 ---
 离二月份的人生第二次高考只差几个月的时间了,可是还复习的一踏糊涂,现在真得是很迷茫呀。  

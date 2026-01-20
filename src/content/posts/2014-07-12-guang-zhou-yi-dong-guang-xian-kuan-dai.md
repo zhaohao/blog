@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "guang-zhou-yi-dong-guang-xian-kuan-dai"
+slug: "2014-07-12-guang-zhou-yi-dong-guang-xian-kuan-dai"
 draft: false
 ---
 从搬到家这边住就开通了电信的ADSL宽带，从最初的4Mb下行速率到后来6Mb再到8Mb一路走来，用了整整4年。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ji-mi-qiao-qiao-ban"
+slug: "2007-03-16-ji-mi-qiao-qiao-ban"
 draft: false
 ---
 已经记不得坐在这翘翘板上方有多久了，  

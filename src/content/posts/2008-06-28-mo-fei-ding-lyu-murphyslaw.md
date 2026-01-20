@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "mo-fei-ding-lyu-murphyslaw"
+slug: "2008-06-28-mo-fei-ding-lyu-murphyslaw"
 draft: false
 ---
 If there are two or more ways to do something, and one of those ways can result in a catastrophe, then someone will do it.  

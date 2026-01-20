@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ban-ye-xia-qi-da-yu-lai-le"
+slug: "2008-07-06-ban-ye-xia-qi-da-yu-lai-le"
 draft: false
 ---
 广州这几天真的够热的，熬夜到两点多，仍然感觉热气时刻包围着自己。  

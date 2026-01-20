@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "20131111-jie-hun-liang-zhou-nian"
+slug: "2013-11-11-20131111-jie-hun-liang-zhou-nian"
 draft: false
 ---
 零九年五月相识。  

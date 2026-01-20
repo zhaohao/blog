@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "earthquake-guang-zhou-you-zhen-gan"
+slug: "2014-07-11-earthquake-guang-zhou-you-zhen-gan"
 draft: false
 ---
 坐在屋里突然感觉楼有些微微的晃动，仔细看了看桌子和上面的东西，也在跟着微动，确认不是幻觉。  

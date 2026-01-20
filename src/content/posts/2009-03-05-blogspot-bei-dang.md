@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "blogspot-bei-dang"
+slug: "2009-03-05-blogspot-bei-dang"
 draft: false
 ---
 从昨天起，只能采用非正常方式才能看到这里了…GFW

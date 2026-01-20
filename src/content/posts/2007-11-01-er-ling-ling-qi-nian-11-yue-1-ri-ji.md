@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "er-ling-ling-qi-nian-11-yue-1-ri-ji"
+slug: "2007-11-01-er-ling-ling-qi-nian-11-yue-1-ri-ji"
 draft: false
 ---
 时间又一次进入十一月，生活又进入了永无休止的死循环之中，吃饭，睡觉，起床，上班，下班，吃饭，睡觉…… 这是个消磨意志的怪圈，更不是自己希望拥有的生活状态，但是每当自问我想要什么样的生活的时候又总给不出自己一个答案。  

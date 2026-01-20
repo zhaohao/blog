@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: ["running"]
 categories: ["Default"]
-slug: "ji-xu-yun-dong"
+slug: "2026-01-18-ji-xu-yun-dong"
 draft: false
 ---
 昨天停了跑步一天，今天继续，keep running！  

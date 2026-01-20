@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "weilaiyizhoudoushigaowen"
+slug: "2016-07-18-weilaiyizhoudoushigaowen"
 draft: false
 ---
 火辣的天气，蓝蓝的天空，白白的云。  

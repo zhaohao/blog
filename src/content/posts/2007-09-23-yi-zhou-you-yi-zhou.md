@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yi-zhou-you-yi-zhou"
+slug: "2007-09-23-yi-zhou-you-yi-zhou"
 draft: false
 ---
 周六跑断腿终于把网费给补上了，又可以挂在网上无所事事了。  

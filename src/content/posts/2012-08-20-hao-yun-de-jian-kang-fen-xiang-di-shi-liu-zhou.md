@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "hao-yun-de-jian-kang-fen-xiang-di-shi-liu-zhou"
+slug: "2012-08-20-hao-yun-de-jian-kang-fen-xiang-di-shi-liu-zhou"
 draft: false
 ---
 进入了孕16周，16周的胎儿约12厘米长，体重增加到150克，他看上去还是非常小，大小正好可以放在你的手掌里。  

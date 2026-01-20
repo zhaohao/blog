@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "the-last-day-of-july"
+slug: "2008-07-31-the-last-day-of-july"
 draft: false
 ---
 想起去年的这个月正式结束了学生时代的生活，恍然之间一年时光已经逝去。  

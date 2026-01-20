@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yi-ge-shang-wu-dou-gan-jue-hun-hun-chen-chen"
+slug: "2008-09-13-yi-ge-shang-wu-dou-gan-jue-hun-hun-chen-chen"
 draft: false
 ---
 中秋假期，一直没有什么计划观念的我依旧如常。  

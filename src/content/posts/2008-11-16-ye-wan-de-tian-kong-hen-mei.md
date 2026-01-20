@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ye-wan-de-tian-kong-hen-mei"
+slug: "2008-11-16-ye-wan-de-tian-kong-hen-mei"
 draft: false
 ---
 晚上偶尔探头往窗外看，注意到了美丽的景象：月光很亮，夜色中的天空在月光和片片缥缈的云朵的映衬下显得格外的明净！  

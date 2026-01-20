@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jiu-yue-de-zui-hou-yi-tian"
+slug: "2007-09-30-jiu-yue-de-zui-hou-yi-tian"
 draft: false
 ---
 连续发呆了一个月的时间，不知道自己的未来在哪里。  

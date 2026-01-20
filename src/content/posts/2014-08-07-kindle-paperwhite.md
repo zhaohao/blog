@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "kindle-paperwhite"
+slug: "2014-08-07-kindle-paperwhite"
 draft: false
 ---
 Kindle Paperwhite 6英寸电子书阅读器（第二代 升级版） 内置wifi 护眼非反光电子墨水屏 黑色  

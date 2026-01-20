@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zuo-tian-jie-dao-peng-you-dian-hua-dou-kuai-yao-zuo-ba-ba"
+slug: "2010-05-04-zuo-tian-jie-dao-peng-you-dian-hua-dou-kuai-yao-zuo-ba-ba"
 draft: false
 ---
   

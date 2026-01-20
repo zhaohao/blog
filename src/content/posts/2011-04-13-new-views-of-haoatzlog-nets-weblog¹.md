@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "new-views-of-haoatzlog-nets-weblog¹"
+slug: "2011-04-13-new-views-of-haoatzlog-nets-weblog¹"
 draft: false
 ---
 •Flipcard: available at: [http://haozhao.blogspot.com/view/flipcard](http://haozhao.blogspot.com/view/flipcard)  

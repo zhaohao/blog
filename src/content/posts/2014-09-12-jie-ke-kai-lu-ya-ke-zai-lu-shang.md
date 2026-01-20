@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jie-ke-kai-lu-ya-ke-zai-lu-shang"
+slug: "2014-09-12-jie-ke-kai-lu-ya-ke-zai-lu-shang"
 draft: false
 ---
 So shut up, live, travel, adventure, bless, and don’t be sorry.  

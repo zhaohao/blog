@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yu-wu-zhi-jing"
+slug: "2010-12-18-yu-wu-zhi-jing"
 draft: false
 ---
 终日奔波只为饥，方才一饱便思衣。衣食两般皆具足，又想娇容美貌妻。  

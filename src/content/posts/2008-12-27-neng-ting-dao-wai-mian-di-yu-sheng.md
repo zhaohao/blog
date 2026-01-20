@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "neng-ting-dao-wai-mian-di-yu-sheng"
+slug: "2008-12-27-neng-ting-dao-wai-mian-di-yu-sheng"
 draft: false
 ---
 又挺久没有记下些东西了，生活依然是浑浑噩噩，没有起色。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ruo-yi-jin-tian-you-fa-shao-le"
+slug: "2014-09-05-ruo-yi-jin-tian-you-fa-shao-le"
 draft: false
 ---
 昨天下午有些拉肚子，不严重，晚上仍旧是蹬被子可能又有些受凉。  

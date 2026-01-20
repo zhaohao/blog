@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jiang-msncom-de-wei-ruan-zhang-hao-geng-xin-dao-le"
+slug: "2012-08-01-jiang-msncom-de-wei-ruan-zhang-hao-geng-xin-dao-le"
 draft: false
 ---
 将@msn.com的微软账号更新到了@outlook.com  

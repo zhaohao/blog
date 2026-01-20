@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "360buy-san-yang-sanyo-zhen-kong-xi-chen-qi-sc298t01"
+slug: "2011-10-05-360buy-san-yang-sanyo-zhen-kong-xi-chen-qi-sc298t01"
 draft: false
 ---
 2011-10-4 22:34:08 您提交了订单，请等待系统确认 客户  

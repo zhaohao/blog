@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "kan-dao-ta-xie-xia-de-wen-zi"
+slug: "2009-05-15-kan-dao-ta-xie-xia-de-wen-zi"
 draft: false
 ---
 看到她写下的文字，心里有种幸福的感觉…  

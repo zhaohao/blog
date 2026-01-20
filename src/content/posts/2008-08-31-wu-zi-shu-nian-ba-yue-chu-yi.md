@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wu-zi-shu-nian-ba-yue-chu-yi"
+slug: "2008-08-31-wu-zi-shu-nian-ba-yue-chu-yi"
 draft: false
 ---
 2008年8月31日（戊子鼠年八月初一）  

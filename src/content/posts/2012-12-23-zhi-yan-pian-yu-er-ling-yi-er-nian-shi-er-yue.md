@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhi-yan-pian-yu-er-ling-yi-er-nian-shi-er-yue"
+slug: "2012-12-23-zhi-yan-pian-yu-er-ling-yi-er-nian-shi-er-yue"
 draft: false
 ---
 2012-12-23 雅虎送了Flickr Pro三个月免费试用  

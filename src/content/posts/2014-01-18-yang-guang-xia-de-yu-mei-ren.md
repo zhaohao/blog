@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yang-guang-xia-de-yu-mei-ren"
+slug: "2014-01-18-yang-guang-xia-de-yu-mei-ren"
 draft: false
 ---
 \[gallery\]  

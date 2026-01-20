@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wu-suo-bu-yong-qi-ji"
+slug: "2014-11-07-wu-suo-bu-yong-qi-ji"
 draft: false
 ---
 [![gate](https://zhao.im/wp-content/uploads/gate.jpg)](https://zhao.im/wp-content/uploads/gate.jpg)  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "its-time-to-say-bye-to-my-current-jobno-good"
+slug: "2011-01-14-its-time-to-say-bye-to-my-current-jobno-good"
 draft: false
 ---
 It's time to say bye to my current job,no good!

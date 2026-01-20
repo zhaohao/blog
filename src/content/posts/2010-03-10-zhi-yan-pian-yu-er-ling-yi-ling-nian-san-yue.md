@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhi-yan-pian-yu-er-ling-yi-ling-nian-san-yue"
+slug: "2010-03-10-zhi-yan-pian-yu-er-ling-yi-ling-nian-san-yue"
 draft: false
 ---
 2010-03-10 头昏脑涨,很久没有更新了…发生了些未曾料想的事情~  

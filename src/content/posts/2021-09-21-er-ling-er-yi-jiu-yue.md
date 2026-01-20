@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "er-ling-er-yi-jiu-yue"
+slug: "2021-09-21-er-ling-er-yi-jiu-yue"
 draft: false
 ---
 为了使用 Callkit 功能，把两个微信号绑定+1 的 GV号码转区到了WeChat ，点了一堆的协议。

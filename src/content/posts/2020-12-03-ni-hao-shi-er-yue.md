@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "ni-hao-shi-er-yue"
+slug: "2020-12-03-ni-hao-shi-er-yue"
 draft: false
 ---
 #你好，十二月# 永远相信美好的事情即将发生！2020-12-03 23:55

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "start-a-long-journey"
+slug: "2015-02-24-start-a-long-journey"
 draft: false
 ---
 > A free man at the start of a long journey... whose conclusion is uncertain...

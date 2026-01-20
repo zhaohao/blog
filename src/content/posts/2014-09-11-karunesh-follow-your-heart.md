@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "karunesh-follow-your-heart"
+slug: "2014-09-11-karunesh-follow-your-heart"
 draft: false
 ---
 \[audio mp3="/wp-content/uploads/karunesh\_follow\_your\_heart.mp3"\]\[/audio\]  

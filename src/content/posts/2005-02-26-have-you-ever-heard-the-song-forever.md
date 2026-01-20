@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "have-you-ever-heard-the-song-forever"
+slug: "2005-02-26-have-you-ever-heard-the-song-forever"
 draft: false
 ---
 Every time I hear its simple words,my mind will fly to another world,a world full of stardust :  

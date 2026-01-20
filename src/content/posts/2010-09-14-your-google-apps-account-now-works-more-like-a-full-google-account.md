@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "your-google-apps-account-now-works-more-like-a-full-google-account"
+slug: "2010-09-14-your-google-apps-account-now-works-more-like-a-full-google-account"
 draft: false
 ---
 Hello Google Apps user,

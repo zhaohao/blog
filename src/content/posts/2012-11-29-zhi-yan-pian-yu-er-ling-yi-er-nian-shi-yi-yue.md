@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhi-yan-pian-yu-er-ling-yi-er-nian-shi-yi-yue"
+slug: "2012-11-29-zhi-yan-pian-yu-er-ling-yi-er-nian-shi-yi-yue"
 draft: false
 ---
 2012-11-29 外面又下起了雨，淅淅沥沥的声音传入耳朵 深夜十一点半。  

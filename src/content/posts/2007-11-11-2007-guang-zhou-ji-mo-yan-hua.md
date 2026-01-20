@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "2007-guang-zhou-ji-mo-yan-hua"
+slug: "2007-11-11-2007-guang-zhou-ji-mo-yan-hua"
 draft: false
 ---
 今天又看到了烟花……  

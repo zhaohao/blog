@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "you-xie-mi-wang-you-xie-lei-liao-dang-chu-de-meng-xiang-jiu"
+slug: "2010-04-29-you-xie-mi-wang-you-xie-lei-liao-dang-chu-de-meng-xiang-jiu"
 draft: false
 ---
 有些迷惘，有些累了，当初的梦想究竟还剩多少？

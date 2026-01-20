@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "linode-vps-speed-test"
+slug: "2014-09-11-linode-vps-speed-test"
 draft: false
 ---
   

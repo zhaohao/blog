@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "qing-che-zhi-lian-shan-ye-xi-fei"
+slug: "2008-10-25-qing-che-zhi-lian-shan-ye-xi-fei"
 draft: false
 ---
 清澈之恋-杉野希妃  

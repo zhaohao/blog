@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "colors-of-the-wind"
+slug: "2007-05-25-colors-of-the-wind"
 draft: false
 ---
 一个小女孩唱的colors of the wind  

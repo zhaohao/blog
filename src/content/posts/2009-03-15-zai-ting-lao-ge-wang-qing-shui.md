@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zai-ting-lao-ge-wang-qing-shui"
+slug: "2009-03-15-zai-ting-lao-ge-wang-qing-shui"
 draft: false
 ---
 曲：陈耀川 词：李安修  

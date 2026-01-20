@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "ru-sheng-xia-ban-de-dong-ji"
+slug: "2020-12-28-ru-sheng-xia-ban-de-dong-ji"
 draft: false
 ---
 暴晒，像盛夏的感觉。

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zao-shang-shang-ban-jin-lin-de-xiao-xue-huo-dong"
+slug: "2009-04-30-zao-shang-shang-ban-jin-lin-de-xiao-xue-huo-dong"
 draft: false
 ---
 早上上班，紧邻的小学活动，几十辆大巴排队停在路两侧，声势很大……  

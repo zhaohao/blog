@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhi-yan-pian-yu-er-ling-yi-ling-nian-liu-yue"
+slug: "2010-06-23-zhi-yan-pian-yu-er-ling-yi-ling-nian-liu-yue"
 draft: false
 ---
 2010-06-23 夏至已过，没有意识到夏至已经过去两天~ 六月又已经快走到尽头。  

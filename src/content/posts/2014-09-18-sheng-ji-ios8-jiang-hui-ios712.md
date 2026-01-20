@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "sheng-ji-ios8-jiang-hui-ios712"
+slug: "2014-09-18-sheng-ji-ios8-jiang-hui-ios712"
 draft: false
 ---
 [![iOS8-20140918](https://zhao.im/wp-content/uploads/iOS8-20140918.png)](https://zhao.im/wp-content/uploads/iOS8-20140918.png)  

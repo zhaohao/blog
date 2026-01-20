@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "start-typecho"
+slug: "2025-02-05-start-typecho"
 draft: false
 ---
 一直徘徊在不同的应用里。

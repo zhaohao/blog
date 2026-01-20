@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhe-shi-yi-xie-luan-qi-ba-zao-de-dong-xi"
+slug: "2007-05-27-zhe-shi-yi-xie-luan-qi-ba-zao-de-dong-xi"
 draft: false
 ---
 昨天早上居然到十点半才起床，够那个什么的了……  

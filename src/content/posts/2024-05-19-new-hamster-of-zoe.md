@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "new-hamster-of-zoe"
+slug: "2024-05-19-new-hamster-of-zoe"
 draft: false
 ---
 小树这一段时间以来一直持续的“无理纠缠”，坚定的要养**鹦鹉、文鸟**，考虑到无处不在的便便而持续拒绝其要求，后面商量到要不试试**仓鼠**，终于小树同意可以养一只小仓鼠代替小鸟了。 加上这次期中小树又一次到了班级前五，这几天她的自豪感也还在高峰期，不能辜负了她的兴致。于是全体同意养仓鼠这件事就这样愉快的决定了。

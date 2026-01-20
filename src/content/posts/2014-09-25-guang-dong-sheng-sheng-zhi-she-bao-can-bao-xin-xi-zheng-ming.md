@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "guang-dong-sheng-sheng-zhi-she-bao-can-bao-xin-xi-zheng-ming"
+slug: "2014-09-25-guang-dong-sheng-sheng-zhi-she-bao-can-bao-xin-xi-zheng-ming"
 draft: false
 ---
 [![prove](https://zhao.im/wp-content/uploads/prove.jpg)](https://zhao.im/wp-content/uploads/prove.jpg)  

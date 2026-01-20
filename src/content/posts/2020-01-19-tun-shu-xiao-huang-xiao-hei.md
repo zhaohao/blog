@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "tun-shu-xiao-huang-xiao-hei"
+slug: "2020-01-19-tun-shu-xiao-huang-xiao-hei"
 draft: false
 ---
 ![](https://zhao.im/wp-content/uploads/2020-01-19-fanfou-wordpress.jpg)

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jiang-wen-liang-tian-zhong"
+slug: "2007-04-06-jiang-wen-liang-tian-zhong"
 draft: false
 ---
 这鬼天气，温度不低但感觉超级冷，忍着不穿毛衣，冻死了。

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "cong-cong-na-nian"
+slug: "2014-11-22-cong-cong-na-nian"
 draft: false
 ---
 匆匆那年我们 究竟说了几遍 再见之后再拖延  

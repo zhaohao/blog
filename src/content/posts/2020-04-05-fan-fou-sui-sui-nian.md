@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "fan-fou-sui-sui-nian"
+slug: "2020-04-05-fan-fou-sui-sui-nian"
 draft: false
 ---
 // “我们所有的方案都是默认有救援的。但没有人讨论过灾难来临时如果没有救援该怎么办。” 2020-04-05 01:05 通过有饭

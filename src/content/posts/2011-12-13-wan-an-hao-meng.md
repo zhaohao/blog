@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wan-an-hao-meng"
+slug: "2011-12-13-wan-an-hao-meng"
 draft: false
 ---
 晚安，好梦！  

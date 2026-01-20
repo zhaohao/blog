@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "shua-le-android50lollipop-zheng-shi-ban"
+slug: "2014-11-13-shua-le-android50lollipop-zheng-shi-ban"
 draft: false
 ---
 等了这么几天，终于看到最终版的Nexus 5原厂镜像发布了。因为预览版已经被Root加杂七杂八的修改，所以也不指着推送更新了。第一时间下载刷机，加搭梯子上Google Play，折腾了一番，暂时算告一段落。  

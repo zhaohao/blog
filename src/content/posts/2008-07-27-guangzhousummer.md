@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "guangzhousummer"
+slug: "2008-07-27-guangzhousummer"
 draft: false
 ---
 ![](https://zhao.im/wp-content/uploads/Screenshot0030-730824.jpg)![](https://zhao.im/wp-content/uploads/stardust0034.png)  

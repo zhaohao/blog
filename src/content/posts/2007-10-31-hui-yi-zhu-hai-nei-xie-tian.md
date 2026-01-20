@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "hui-yi-zhu-hai-nei-xie-tian"
+slug: "2007-10-31-hui-yi-zhu-hai-nei-xie-tian"
 draft: false
 ---
 那些天……  

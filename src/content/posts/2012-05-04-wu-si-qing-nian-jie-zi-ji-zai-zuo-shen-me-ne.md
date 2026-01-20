@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wu-si-qing-nian-jie-zi-ji-zai-zuo-shen-me-ne"
+slug: "2012-05-04-wu-si-qing-nian-jie-zi-ji-zai-zuo-shen-me-ne"
 draft: false
 ---
 仍然是闷在家中，依旧在彷徨~~~  

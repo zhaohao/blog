@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wu-si-de-ban-tian-jia-jin-nian-ye-sheng-le"
+slug: "2010-05-04-wu-si-de-ban-tian-jia-jin-nian-ye-sheng-le"
 draft: false
 ---
   

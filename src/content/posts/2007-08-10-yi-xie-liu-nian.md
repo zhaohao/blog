@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yi-xie-liu-nian"
+slug: "2007-08-10-yi-xie-liu-nian"
 draft: false
 ---
 2007年8月10日  

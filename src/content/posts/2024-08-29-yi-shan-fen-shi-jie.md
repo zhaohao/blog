@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "yi-shan-fen-shi-jie"
+slug: "2024-08-29-yi-shan-fen-shi-jie"
 draft: false
 ---
 #LIFE 下午下着雨，小树🌲去班级里画板报，停在学校路口等了两个多小时。

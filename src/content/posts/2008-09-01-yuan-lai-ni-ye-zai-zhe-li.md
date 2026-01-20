@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yuan-lai-ni-ye-zai-zhe-li"
+slug: "2008-09-01-yuan-lai-ni-ye-zai-zhe-li"
 draft: false
 ---
 请允许我尘埃落定，用沉默埋葬了过去，满身风雨我从海上来，才隐居在这沙漠里。  

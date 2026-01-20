@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wu-liao-de-shi-hou-zong-shi-hen-duo"
+slug: "2007-02-24-wu-liao-de-shi-hou-zong-shi-hen-duo"
 draft: false
 ---
 无聊的时候总是很多，有很多事情等着要做，但是自己又偏偏不想去做，这种无聊真的最下下的无聊了。  

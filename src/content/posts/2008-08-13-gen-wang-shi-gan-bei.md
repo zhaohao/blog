@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "gen-wang-shi-gan-bei"
+slug: "2008-08-13-gen-wang-shi-gan-bei"
 draft: false
 ---
 经过了许多事，你是不是觉得累？这样的心情，我曾有过几回。  

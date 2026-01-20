@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhi-yan-pian-yu-er-ling-yi-ling-nian-er-yue"
+slug: "2010-02-18-zhi-yan-pian-yu-er-ling-yi-ling-nian-er-yue"
 draft: false
 ---
 2010-02-18 回到广州~  

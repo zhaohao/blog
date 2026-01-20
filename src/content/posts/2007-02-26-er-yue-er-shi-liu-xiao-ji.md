@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "er-yue-er-shi-liu-xiao-ji"
+slug: "2007-02-26-er-yue-er-shi-liu-xiao-ji"
 draft: false
 ---
 Monday, February 26, 2007  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ubuntuvps-an-zhuang-nginx-bing-pei-zhi-ghost-bo-ke"
+slug: "2014-11-18-ubuntuvps-an-zhuang-nginx-bing-pei-zhi-ghost-bo-ke"
 draft: false
 ---
 • 安装 nginx  

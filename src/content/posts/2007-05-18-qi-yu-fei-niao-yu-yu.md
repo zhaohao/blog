@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "qi-yu-fei-niao-yu-yu"
+slug: "2007-05-18-qi-yu-fei-niao-yu-yu"
 draft: false
 ---
 bluestardust  

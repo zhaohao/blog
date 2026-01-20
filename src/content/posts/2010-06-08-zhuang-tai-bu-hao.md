@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhuang-tai-bu-hao"
+slug: "2010-06-08-zhuang-tai-bu-hao"
 draft: false
 ---
 过了这个六月就工作整整三年了，各方面都无突破，都无长进，该做需要做的抉择。  

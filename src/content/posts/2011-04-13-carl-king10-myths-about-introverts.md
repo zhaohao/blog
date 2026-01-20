@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "carl-king10-myths-about-introverts"
+slug: "2011-04-13-carl-king10-myths-about-introverts"
 draft: false
 ---
 [http://www.carlkingcreative.com/10-myths-about-introverts](http://www.carlkingcreative.com/10-myths-about-introverts)  

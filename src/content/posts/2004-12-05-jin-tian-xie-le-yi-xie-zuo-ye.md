@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jin-tian-xie-le-yi-xie-zuo-ye"
+slug: "2004-12-05-jin-tian-xie-le-yi-xie-zuo-ye"
 draft: false
 ---
 今天写了一些作业，算是这一周来最充实的一天吧。现在仍然有很多的东西没有完成，一会儿应该把物理实验的图象给画了，那样才算是基本完成了今天预定的计划。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "chuan-shuo-zhong-de-zhou-mo-zhe-me-kuai-lai-le"
+slug: "2007-04-07-chuan-shuo-zhong-de-zhou-mo-zhe-me-kuai-lai-le"
 draft: false
 ---
 突然发现现在又已经是周末了，居然对这一星期没有任何记忆，似乎感觉是这周还没有开始一般。  

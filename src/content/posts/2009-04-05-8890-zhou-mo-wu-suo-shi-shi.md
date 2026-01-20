@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "8890-zhou-mo-wu-suo-shi-shi"
+slug: "2009-04-05-8890-zhou-mo-wu-suo-shi-shi"
 draft: false
 ---
 昨天晚上本来挺早就躺下了，结果用手机又一次见到有人评价嘀咕这个类twitter服务的网站，于是又开了电脑注册了个账号玩，然后胡乱翻着乱看又到了两点左右了。  

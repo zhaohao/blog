@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "hao-yun-de-jian-kang-fen-xiang-di-shi-er-zhou"
+slug: "2012-07-24-hao-yun-de-jian-kang-fen-xiang-di-shi-er-zhou"
 draft: false
 ---
 胎儿现在身长大约有65毫米，从牙胚到趾甲，身体的雏形已经发育完成。胎儿的手指和脚趾已经完全分离，一部分骨骼开始变得坚硬，并出现关节雏形。  

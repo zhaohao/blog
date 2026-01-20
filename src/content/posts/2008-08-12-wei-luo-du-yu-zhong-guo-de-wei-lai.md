@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wei-luo-du-yu-zhong-guo-de-wei-lai"
+slug: "2008-08-12-wei-luo-du-yu-zhong-guo-de-wei-lai"
 draft: false
 ---
 都说孩子是国家的未来，就从孩子说起。 薇罗独语<[**LINK**](http://www.verovie.net/?p=411)\>  

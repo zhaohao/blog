@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Memos"]
-slug: "liu-yue-de-yi-xie-tu-202006"
+slug: "2020-06-27-liu-yue-de-yi-xie-tu-202006"
 draft: false
 ---
 Sky 2020-06-27 19:10 通过泡饭

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yi-nian-hen-kuai-guo-qu"
+slug: "2008-05-17-yi-nian-hen-kuai-guo-qu"
 draft: false
 ---
 六月的天 浮躁遍及幽深的校道  

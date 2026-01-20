@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jin-tian-de-zhu-fu-ming-tian-de-gu-du"
+slug: "2009-03-08-jin-tian-de-zhu-fu-ming-tian-de-gu-du"
 draft: false
 ---
 像一个吻刚结束，还留一丝湿度，然后挥发在空气里，找不到任何证物。  

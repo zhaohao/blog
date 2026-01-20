@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ji-wai-er-ling-ling-ba-nian-qi-yue"
+slug: "2008-07-01-ji-wai-er-ling-ling-ba-nian-qi-yue"
 draft: false
 ---
 站　名：广州天河 2008-07-29 21:00 温　度：33.2 ℃ 湿　度：52 % 风　向：东北偏北风 风　力：0.3 米/秒 时降水：0 毫米 日降水：0 毫米  

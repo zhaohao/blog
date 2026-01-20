@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ie-zhong-gmail-qu-guang-gao"
+slug: "2011-03-16-ie-zhong-gmail-qu-guang-gao"
 draft: false
 ---
 新建css文本文件，添加  

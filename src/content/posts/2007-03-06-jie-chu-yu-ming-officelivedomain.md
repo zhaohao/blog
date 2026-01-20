@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "jie-chu-yu-ming-officelivedomain"
+slug: "2007-03-06-jie-chu-yu-ming-officelivedomain"
 draft: false
 ---
 **域名**又一次说严重点是背叛了祖国，用了美国的地址邮编电话申请到了office live服务的帐号，那张废品龙卡终于有一点点用处了，当作身份验证码了，不过不知道所说的扣去一美元然后再返还的事情有没有发生。  

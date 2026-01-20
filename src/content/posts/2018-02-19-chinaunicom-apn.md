@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "chinaunicom-apn"
+slug: "2018-02-19-chinaunicom-apn"
 draft: false
 ---
 订了联通的166号码，在iPhone、MI6、ZIMIFI上使用一切正常，但是换到破解了联通4G使用功能的Nexus5上只能拨打电话收发短信无法使用数据网络，而这台N5之前使用其它联通号码用数据网络完全无问题。

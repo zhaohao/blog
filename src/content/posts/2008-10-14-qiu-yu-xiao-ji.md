@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "qiu-yu-xiao-ji"
+slug: "2008-10-14-qiu-yu-xiao-ji"
 draft: false
 ---
 早上又像原来一样等摁掉了三次闹钟才迷迷糊糊的爬起来洗漱，晚上睡得应该是不好，不然怎么还是这样会早上起床都是很累的感觉呢！  

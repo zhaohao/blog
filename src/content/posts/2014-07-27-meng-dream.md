@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "meng-dream"
+slug: "2014-07-27-meng-dream"
 draft: false
 ---
 梦里回到了二十年前的小学。  

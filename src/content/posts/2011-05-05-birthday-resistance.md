@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "birthday-resistance"
+slug: "2011-05-05-birthday-resistance"
 draft: false
 ---
 在网上看到一个关于单恋的blog，一个一个人在做梦的故事。  

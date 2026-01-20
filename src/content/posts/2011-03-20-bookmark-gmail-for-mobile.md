@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "bookmark-gmail-for-mobile"
+slug: "2011-03-20-bookmark-gmail-for-mobile"
 draft: false
 ---
 [http://www.google.com/mobile/mail/](http://www.google.com/mobile/mail/)  

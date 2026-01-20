@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "lets-encrypt"
+slug: "2015-12-30-lets-encrypt"
 draft: false
 ---
 Let’s Encrypt is a new Certificate Authority:  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: ["running"]
 categories: ["Default"]
-slug: "hui-fu-pao-bu-di-san-tian"
+slug: "2026-01-15-hui-fu-pao-bu-di-san-tian"
 draft: false
 ---
 吃过晚饭一段时间，到了预定差不多需要运动的时间了，可是却有点抵触感，似乎有那么一种想拒绝继续运动的倦怠感，不过因为是室内跑，就在阳台，不用出门，出完汗可以立即洗澡实在太过便捷就克服这种心理继续运动了。

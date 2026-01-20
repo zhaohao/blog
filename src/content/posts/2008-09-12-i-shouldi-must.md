@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "i-shouldi-must"
+slug: "2008-09-12-i-shouldi-must"
 draft: false
 ---
 I should,I must!  

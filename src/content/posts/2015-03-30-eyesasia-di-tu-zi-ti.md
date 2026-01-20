@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "eyesasia-di-tu-zi-ti"
+slug: "2015-03-30-eyesasia-di-tu-zi-ti"
 draft: false
 ---
 EyesAsia是一款“地图”字体，内含的形状包括中国一级行政区（省、直辖市、自治区、特别行政区），最大咸水湖（青海湖），四大淡水湖（鄱阳湖、洞庭湖、太湖、洪泽湖），以及日本、朝鲜、韩国等几个东亚国家。点击 [官方链接](https://github.com/HaoyunS/EyesAsia "EyesAsia字体")  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "er-yue-de-zui-hou-yi-tian-le"
+slug: "2009-02-28-er-yue-de-zui-hou-yi-tian-le"
 draft: false
 ---
 工作了二十个月了……  

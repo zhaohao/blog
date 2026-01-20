@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhi-yan-pian-yu-er-ling-yi-yi-nian-er-yue"
+slug: "2011-02-28-zhi-yan-pian-yu-er-ling-yi-yi-nian-er-yue"
 draft: false
 ---
 2011-02-28 在HX最后一个工作日 从此同人生第一份工作说byebye,看未来~~~  

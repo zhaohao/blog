@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "yang-guang-xia-de-peng-peng-xiang"
+slug: "2015-04-17-yang-guang-xia-de-peng-peng-xiang"
 draft: false
 ---
 春节时候两小盆，看似柔弱的植物后来才知道是大喜阳光的，在屋子里太久加上水太多有些岌岌可危了，拿到屋外，折了几枝插在土中，不太久就生机勃勃了。  

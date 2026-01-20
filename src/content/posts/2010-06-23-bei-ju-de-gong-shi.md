@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "bei-ju-de-gong-shi"
+slug: "2010-06-23-bei-ju-de-gong-shi"
 draft: false
 ---
   

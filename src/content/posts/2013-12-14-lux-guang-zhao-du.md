@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "lux-guang-zhao-du"
+slug: "2013-12-14-lux-guang-zhao-du"
 draft: false
 ---
 光照度的单位是勒克斯，是英文lux的音译，也可写为lx。  

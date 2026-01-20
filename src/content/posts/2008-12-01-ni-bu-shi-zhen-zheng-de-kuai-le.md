@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ni-bu-shi-zhen-zheng-de-kuai-le"
+slug: "2008-12-01-ni-bu-shi-zhen-zheng-de-kuai-le"
 draft: false
 ---
 人群中哭着，你只想变成透明的颜色。你再也不会梦或痛或心动了，你已经决定了，你已经决定了  

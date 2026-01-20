@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "ri-zhi-lu-zen-me-zou"
+slug: "2009-02-18-ri-zhi-lu-zen-me-zou"
 draft: false
 ---
 二月十五日，又被分去做实验。  

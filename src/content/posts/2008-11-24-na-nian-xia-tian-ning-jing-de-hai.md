@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "na-nian-xia-tian-ning-jing-de-hai"
+slug: "2008-11-24-na-nian-xia-tian-ning-jing-de-hai"
 draft: false
 ---
 那年夏天，宁静的海  

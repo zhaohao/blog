@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "confirmation-of-registrar-transfer-request"
+slug: "2013-11-10-confirmation-of-registrar-transfer-request"
 draft: false
 ---
 Dear Hao Zhao,  

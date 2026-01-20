@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "nyu-er-jin-tian-hui-le-guang-zhou"
+slug: "2016-05-22-nyu-er-jin-tian-hui-le-guang-zhou"
 draft: false
 ---
 [![DSC-20160513](https://zhao.im/wp-content/uploads/DSC-20160513.jpg)](https://zhao.im/wp-content/uploads/DSC-20160513.jpg)  

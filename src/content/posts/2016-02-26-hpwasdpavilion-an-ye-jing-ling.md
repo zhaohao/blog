@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "hpwasdpavilion-an-ye-jing-ling"
+slug: "2016-02-26-hpwasdpavilion-an-ye-jing-ling"
 draft: false
 ---
 HP-WASD-Pavilion暗夜精灵笔记本.  

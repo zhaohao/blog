@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "firmtv-you-yi-ge-di-fang"
+slug: "2007-09-30-firmtv-you-yi-ge-di-fang"
 draft: false
 ---
 我一直相信，在这世上存在着一个地方，一个让现实抓不到你的地方  

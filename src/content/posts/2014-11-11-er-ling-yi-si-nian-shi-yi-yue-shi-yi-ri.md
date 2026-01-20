@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "er-ling-yi-si-nian-shi-yi-yue-shi-yi-ri"
+slug: "2014-11-11-er-ling-yi-si-nian-shi-yi-yue-shi-yi-ri"
 draft: false
 ---
 20111111-20141111结婚三周年，辛苦了Acui。  

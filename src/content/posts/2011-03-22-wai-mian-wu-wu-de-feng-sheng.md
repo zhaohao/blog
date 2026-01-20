@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "wai-mian-wu-wu-de-feng-sheng"
+slug: "2011-03-22-wai-mian-wu-wu-de-feng-sheng"
 draft: false
 ---
 今天降温，一扫前几天的湿漉漉水气。  

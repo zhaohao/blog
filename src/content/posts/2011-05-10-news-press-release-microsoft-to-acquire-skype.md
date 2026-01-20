@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "news-press-release-microsoft-to-acquire-skype"
+slug: "2011-05-10-news-press-release-microsoft-to-acquire-skype"
 draft: false
 ---
 http://www.microsoft.com/Presspass/press/2011/may11/05-10CorpNewsPR.mspx  

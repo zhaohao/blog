@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "start-write-weblog-2024"
+slug: "2024-04-26-start-write-weblog-2024"
 draft: false
 ---
 这两天把荒废已久的Jekyll博客重新整理了一下，添加了二维码的功能，调整了下外观背景样式之类的，大概的适配了小屏幕的布局。  

@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "2006-nian-de-yuan-xiao-jie"
+slug: "2006-02-12-2006-nian-de-yuan-xiao-jie"
 draft: false
 ---
 好多年了，只有今年的今天不是在学校过的，在这里留下个纪念。

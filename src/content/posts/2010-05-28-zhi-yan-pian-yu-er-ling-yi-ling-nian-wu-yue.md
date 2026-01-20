@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "zhi-yan-pian-yu-er-ling-yi-ling-nian-wu-yue"
+slug: "2010-05-28-zhi-yan-pian-yu-er-ling-yi-ling-nian-wu-yue"
 draft: false
 ---
 2010-05-28 等着下班，一天看了下JTAG的东西，后面要实际调试~  

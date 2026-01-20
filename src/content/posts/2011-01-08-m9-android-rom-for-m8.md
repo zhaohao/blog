@@ -7,7 +7,7 @@ description: ""
 author: "stardust"
 tags: []
 categories: ["Default"]
-slug: "m9-android-rom-for-m8"
+slug: "2011-01-08-m9-android-rom-for-m8"
 draft: false
 ---
 It works well……  
