@@ -6,7 +6,7 @@ published: 2014-10-20T17:10:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-10-20-xiu-gai-ghost-bo-ke-casper-zhu-ti-pei-zhi-shi-qu"
 draft: false
 ---

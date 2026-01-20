@@ -6,7 +6,7 @@ published: 2012-11-26T22:59:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2012-11-26-goodbaby-tong-che"
 draft: false
 ---

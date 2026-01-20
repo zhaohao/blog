@@ -6,7 +6,7 @@ published: 2010-01-04T16:05:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-01-04-if-there-is-only-one-thing-in-the-world"
 draft: false
 ---

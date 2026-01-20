@@ -6,7 +6,7 @@ published: 2008-11-29T12:36:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-11-29-you-shi-wu-yan-de-zhou-mo"
 draft: false
 ---

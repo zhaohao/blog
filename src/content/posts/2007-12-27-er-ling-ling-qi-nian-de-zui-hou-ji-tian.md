@@ -6,7 +6,7 @@ published: 2007-12-27T22:12:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-12-27-er-ling-ling-qi-nian-de-zui-hou-ji-tian"
 draft: false
 ---

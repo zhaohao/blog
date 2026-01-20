@@ -6,7 +6,7 @@ published: 2007-05-30T16:18:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-05-30-ti-yan-le-yi-xia-tong-xiao-de-gan-jue"
 draft: false
 ---

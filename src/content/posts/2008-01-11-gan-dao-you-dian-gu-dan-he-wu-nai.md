@@ -6,7 +6,7 @@ published: 2008-01-11T09:30:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-01-11-gan-dao-you-dian-gu-dan-he-wu-nai"
 draft: false
 ---

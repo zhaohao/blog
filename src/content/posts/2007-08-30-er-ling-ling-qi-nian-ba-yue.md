@@ -6,7 +6,7 @@ published: 2007-08-30T23:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-08-30-er-ling-ling-qi-nian-ba-yue"
 draft: false
 ---

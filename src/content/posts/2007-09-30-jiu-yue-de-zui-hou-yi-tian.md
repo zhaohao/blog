@@ -6,7 +6,7 @@ published: 2007-09-30T21:53:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-09-30-jiu-yue-de-zui-hou-yi-tian"
 draft: false
 ---

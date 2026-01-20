@@ -6,7 +6,7 @@ published: 2008-09-27T21:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-09-27-ling-sui-de-ji-lu"
 draft: false
 ---

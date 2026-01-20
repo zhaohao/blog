@@ -6,7 +6,7 @@ published: 2009-02-14T21:55:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-02-14-qing-ren-jie-ji-xu-yi-ge-ren"
 draft: false
 ---

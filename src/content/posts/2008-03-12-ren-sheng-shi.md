@@ -6,7 +6,7 @@ published: 2008-03-12T23:43:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-03-12-ren-sheng-shi"
 draft: false
 ---

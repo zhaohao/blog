@@ -6,7 +6,7 @@ published: 2009-05-01T02:35:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-05-01-8916-yi-jing-shi-wu-yi-liao"
 draft: false
 ---

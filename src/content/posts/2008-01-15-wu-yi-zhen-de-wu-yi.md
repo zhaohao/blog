@@ -6,7 +6,7 @@ published: 2008-01-15T22:07:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-01-15-wu-yi-zhen-de-wu-yi"
 draft: false
 ---

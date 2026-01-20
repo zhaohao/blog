@@ -6,7 +6,7 @@ published: 2008-09-11T01:30:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-09-11-yi-xie-ling-sui-de-dong-xi"
 draft: false
 ---

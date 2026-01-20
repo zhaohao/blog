@@ -6,7 +6,7 @@ published: 2015-10-18T11:14:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2015-10-18-dui-ka-tong-you-hua-suan-fa-de-jiang-zao-tiao-zheng-fen"
 draft: false
 ---

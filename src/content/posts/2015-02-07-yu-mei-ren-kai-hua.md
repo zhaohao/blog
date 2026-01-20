@@ -6,7 +6,7 @@ published: 2015-02-07T17:03:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2015-02-07-yu-mei-ren-kai-hua"
 draft: false
 ---

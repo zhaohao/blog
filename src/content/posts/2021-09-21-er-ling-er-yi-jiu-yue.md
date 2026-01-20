@@ -6,7 +6,7 @@ published: 2021-09-21T07:16:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Memos"]
+category: "Memos"
 slug: "2021-09-21-er-ling-er-yi-jiu-yue"
 draft: false
 ---

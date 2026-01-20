@@ -6,7 +6,7 @@ published: 2006-06-23T11:35:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2006-06-23-you-shi-yi-nian-bi-ye-shi"
 draft: false
 ---

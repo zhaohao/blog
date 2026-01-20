@@ -6,7 +6,7 @@ published: 2008-11-08T23:45:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-11-08-tong-ku-a-quan-mei-niao-le-hou-de-zai-bu"
 draft: false
 ---

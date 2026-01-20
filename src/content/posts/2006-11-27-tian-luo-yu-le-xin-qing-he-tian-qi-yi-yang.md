@@ -6,7 +6,7 @@ published: 2006-11-27T22:48:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2006-11-27-tian-luo-yu-le-xin-qing-he-tian-qi-yi-yang"
 draft: false
 ---

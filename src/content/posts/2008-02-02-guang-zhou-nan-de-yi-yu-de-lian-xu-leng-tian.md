@@ -6,7 +6,7 @@ published: 2008-02-02T12:57:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-02-02-guang-zhou-nan-de-yi-yu-de-lian-xu-leng-tian"
 draft: false
 ---

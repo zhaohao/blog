@@ -6,7 +6,7 @@ published: 2010-09-11T19:32:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-09-11-hai-kuo-tian-kong"
 draft: false
 ---

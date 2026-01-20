@@ -6,7 +6,7 @@ published: 2020-12-28T15:03:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Memos"]
+category: "Memos"
 slug: "2020-12-28-ru-sheng-xia-ban-de-dong-ji"
 draft: false
 ---

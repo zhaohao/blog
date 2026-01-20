@@ -6,7 +6,7 @@ published: 2007-10-05T00:35:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-10-05-2007-nian-de-shi-yi-jia-qi"
 draft: false
 ---

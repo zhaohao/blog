@@ -6,7 +6,7 @@ published: 2006-12-13T22:19:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2006-12-13-xiao-shuo-guang-zhou-de-yi-chang-chun-meng-wei-sheng"
 draft: false
 ---

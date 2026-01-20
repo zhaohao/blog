@@ -6,7 +6,7 @@ published: 2008-06-30T01:42:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-06-30-wo-zhen-de-bu-zhi-dao-gai-ru-he-xuan-ze"
 draft: false
 ---

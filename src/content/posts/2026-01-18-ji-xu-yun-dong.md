@@ -6,7 +6,7 @@ published: 2026-01-18T14:24:29.000Z
 description: ""
 author: "stardust"
 tags: ["running"]
-category: ["Default"]
+category: "Default"
 slug: "2026-01-18-ji-xu-yun-dong"
 draft: false
 ---

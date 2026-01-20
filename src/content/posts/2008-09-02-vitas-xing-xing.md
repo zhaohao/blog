@@ -6,7 +6,7 @@ published: 2008-09-02T21:34:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-09-02-vitas-xing-xing"
 draft: false
 ---

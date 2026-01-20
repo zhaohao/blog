@@ -6,7 +6,7 @@ published: 2017-03-15T07:27:19.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2017-03-15-zoe-painting"
 draft: false
 ---

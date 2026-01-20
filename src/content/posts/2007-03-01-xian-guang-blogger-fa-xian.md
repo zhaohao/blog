@@ -6,7 +6,7 @@ published: 2007-03-01T12:52:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-03-01-xian-guang-blogger-fa-xian"
 draft: false
 ---

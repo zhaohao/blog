@@ -6,7 +6,7 @@ published: 2024-06-26T06:08:36.000Z
 description: ""
 author: "stardust"
 tags: ["Html", "Jekyll", "Theme"]
-category: ["Default"]
+category: "Default"
 slug: "2024-06-26-add-back-link"
 draft: false
 ---

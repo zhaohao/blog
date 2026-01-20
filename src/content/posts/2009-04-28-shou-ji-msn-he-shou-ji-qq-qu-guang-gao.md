@@ -6,7 +6,7 @@ published: 2009-04-28T21:19:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-04-28-shou-ji-msn-he-shou-ji-qq-qu-guang-gao"
 draft: false
 ---

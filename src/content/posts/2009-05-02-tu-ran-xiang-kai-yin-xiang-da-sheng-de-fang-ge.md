@@ -6,7 +6,7 @@ published: 2009-05-02T15:07:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-05-02-tu-ran-xiang-kai-yin-xiang-da-sheng-de-fang-ge"
 draft: false
 ---

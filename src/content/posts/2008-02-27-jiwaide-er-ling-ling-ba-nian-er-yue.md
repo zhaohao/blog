@@ -6,7 +6,7 @@ published: 2008-02-27T13:23:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-02-27-jiwaide-er-ling-ling-ba-nian-er-yue"
 draft: false
 ---

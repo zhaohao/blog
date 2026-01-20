@@ -6,7 +6,7 @@ published: 2008-11-24T23:52:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-11-24-na-nian-xia-tian-ning-jing-de-hai"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2010-01-04T17:32:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-01-04-huo-da-huo-xiao-de-meng-xiang"
 draft: false
 ---

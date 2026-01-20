@@ -6,7 +6,7 @@ published: 2014-09-10T21:12:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-09-10-nyu-er-de-ya-chi-you-yao-tian-liang-ke"
 draft: false
 ---

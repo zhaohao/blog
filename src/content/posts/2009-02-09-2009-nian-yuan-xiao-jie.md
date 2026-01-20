@@ -6,7 +6,7 @@ published: 2009-02-09T22:57:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-02-09-2009-nian-yuan-xiao-jie"
 draft: false
 ---

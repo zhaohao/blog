@@ -6,7 +6,7 @@ published: 2007-02-25T02:31:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-02-25-shen-ye-li-shui-bu-zhao"
 draft: false
 ---

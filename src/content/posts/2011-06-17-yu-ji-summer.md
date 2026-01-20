@@ -6,7 +6,7 @@ published: 2011-06-17T20:45:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2011-06-17-yu-ji-summer"
 draft: false
 ---

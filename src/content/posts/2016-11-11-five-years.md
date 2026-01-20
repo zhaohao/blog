@@ -6,7 +6,7 @@ published: 2016-11-11T07:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2016-11-11-five-years"
 draft: false
 ---

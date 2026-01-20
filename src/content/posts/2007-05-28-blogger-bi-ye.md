@@ -6,7 +6,7 @@ published: 2007-05-28T19:29:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-05-28-blogger-bi-ye"
 draft: false
 ---

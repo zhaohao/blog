@@ -6,7 +6,7 @@ published: 2024-06-30T03:41:09.000Z
 description: ""
 author: "stardust"
 tags: ["Github", "GPG"]
-category: ["Default"]
+category: "Default"
 slug: "2024-06-30-gpg-github-commit-verified"
 draft: false
 ---

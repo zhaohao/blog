@@ -6,7 +6,7 @@ published: 2018-02-19T17:30:27.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2018-02-19-chinaunicom-apn"
 draft: false
 ---

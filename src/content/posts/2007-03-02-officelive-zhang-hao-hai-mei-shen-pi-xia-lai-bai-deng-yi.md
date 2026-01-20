@@ -6,7 +6,7 @@ published: 2007-03-02T16:08:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-03-02-officelive-zhang-hao-hai-mei-shen-pi-xia-lai-bai-deng-yi"
 draft: false
 ---

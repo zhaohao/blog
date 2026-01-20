@@ -6,7 +6,7 @@ published: 2007-12-31T23:49:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-12-31-ma-shang-jiu-yao-jin-ru-2008-nian-le"
 draft: false
 ---

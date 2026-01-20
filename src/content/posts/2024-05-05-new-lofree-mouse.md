@@ -6,7 +6,7 @@ published: 2024-05-05T22:51:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2024-05-05-new-lofree-mouse"
 draft: false
 ---

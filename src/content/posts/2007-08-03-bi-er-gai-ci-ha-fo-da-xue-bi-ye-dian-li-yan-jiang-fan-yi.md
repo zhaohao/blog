@@ -6,7 +6,7 @@ published: 2007-08-03T14:35:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-08-03-bi-er-gai-ci-ha-fo-da-xue-bi-ye-dian-li-yan-jiang-fan-yi"
 draft: false
 ---

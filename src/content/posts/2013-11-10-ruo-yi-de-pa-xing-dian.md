@@ -6,7 +6,7 @@ published: 2013-11-10T03:28:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2013-11-10-ruo-yi-de-pa-xing-dian"
 draft: false
 ---

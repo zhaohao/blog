@@ -6,7 +6,7 @@ published: 2007-11-08T12:45:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-11-08-its-time-to-say-goodbye"
 draft: false
 ---

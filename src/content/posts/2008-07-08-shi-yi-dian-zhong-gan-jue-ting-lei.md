@@ -6,7 +6,7 @@ published: 2008-07-08T23:08:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-07-08-shi-yi-dian-zhong-gan-jue-ting-lei"
 draft: false
 ---

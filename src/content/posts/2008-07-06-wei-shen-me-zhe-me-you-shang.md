@@ -6,7 +6,7 @@ published: 2008-07-06T12:11:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-07-06-wei-shen-me-zhe-me-you-shang"
 draft: false
 ---

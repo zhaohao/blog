@@ -6,7 +6,7 @@ published: 2006-02-12T18:24:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2006-02-12-2006-nian-de-yuan-xiao-jie"
 draft: false
 ---

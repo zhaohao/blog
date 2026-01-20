@@ -6,7 +6,7 @@ published: 2014-12-02T23:30:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-12-02-10957-zhe-yi-sui-de-zui-hou-yi-tian-de-zui-hou"
 draft: false
 ---

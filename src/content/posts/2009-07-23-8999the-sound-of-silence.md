@@ -6,7 +6,7 @@ published: 2009-07-23T00:22:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-07-23-8999the-sound-of-silence"
 draft: false
 ---

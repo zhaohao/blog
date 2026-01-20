@@ -6,7 +6,7 @@ published: 2015-09-18T09:49:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2015-09-18-dian-zhen-yang-shi-de-led-xiao-shi-zhong"
 draft: false
 ---

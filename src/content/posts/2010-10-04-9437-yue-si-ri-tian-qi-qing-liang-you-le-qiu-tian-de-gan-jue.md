@@ -6,7 +6,7 @@ published: 2010-10-04T15:58:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-10-04-9437-yue-si-ri-tian-qi-qing-liang-you-le-qiu-tian-de-gan-jue"
 draft: false
 ---

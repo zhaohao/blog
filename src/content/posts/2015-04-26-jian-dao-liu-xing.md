@@ -6,7 +6,7 @@ published: 2015-04-26T23:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2015-04-26-jian-dao-liu-xing"
 draft: false
 ---

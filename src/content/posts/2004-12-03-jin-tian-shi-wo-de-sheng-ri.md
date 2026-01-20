@@ -6,7 +6,7 @@ published: 2004-12-03T23:55:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2004-12-03-jin-tian-shi-wo-de-sheng-ri"
 draft: false
 ---

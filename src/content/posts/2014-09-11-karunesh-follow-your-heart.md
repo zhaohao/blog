@@ -6,7 +6,7 @@ published: 2014-09-11T21:06:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-09-11-karunesh-follow-your-heart"
 draft: false
 ---

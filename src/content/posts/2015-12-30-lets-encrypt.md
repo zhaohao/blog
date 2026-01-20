@@ -6,7 +6,7 @@ published: 2015-12-30T18:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2015-12-30-lets-encrypt"
 draft: false
 ---

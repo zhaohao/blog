@@ -6,7 +6,7 @@ published: 2007-09-07T12:14:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-09-07-chen-yi-xun-ai-qing-zhuan-yi"
 draft: false
 ---

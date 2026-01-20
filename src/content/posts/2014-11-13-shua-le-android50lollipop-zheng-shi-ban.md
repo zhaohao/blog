@@ -6,7 +6,7 @@ published: 2014-11-13T16:28:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-11-13-shua-le-android50lollipop-zheng-shi-ban"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2014-01-18T05:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-01-18-shi-ge-ban-yue"
 draft: false
 ---

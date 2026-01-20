@@ -6,7 +6,7 @@ published: 2009-03-08T21:54:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-03-08-jin-tian-hui-le-ci-zhong-da"
 draft: false
 ---

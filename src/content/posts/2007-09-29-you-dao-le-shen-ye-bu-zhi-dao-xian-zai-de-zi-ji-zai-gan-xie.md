@@ -6,7 +6,7 @@ published: 2007-09-29T00:52:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-09-29-you-dao-le-shen-ye-bu-zhi-dao-xian-zai-de-zi-ji-zai-gan-xie"
 draft: false
 ---

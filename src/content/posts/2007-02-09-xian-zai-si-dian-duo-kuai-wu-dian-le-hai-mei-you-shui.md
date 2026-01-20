@@ -6,7 +6,7 @@ published: 2007-02-09T04:44:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-02-09-xian-zai-si-dian-duo-kuai-wu-dian-le-hai-mei-you-shui"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2008-11-02T11:24:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-11-02-windows-live-hotmail-wave3"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2008-06-04T01:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-06-04-jin-tian-dao-le-yi-dian-zhong-shui-jiao"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2007-08-10T01:03:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-08-10-yi-xie-liu-nian"
 draft: false
 ---

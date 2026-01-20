@@ -6,7 +6,7 @@ published: 2021-01-13T06:13:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2021-01-13-yang-guang-ming-mei"
 draft: false
 ---

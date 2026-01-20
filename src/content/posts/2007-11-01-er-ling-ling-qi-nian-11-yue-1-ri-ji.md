@@ -6,7 +6,7 @@ published: 2007-11-01T16:06:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-11-01-er-ling-ling-qi-nian-11-yue-1-ri-ji"
 draft: false
 ---

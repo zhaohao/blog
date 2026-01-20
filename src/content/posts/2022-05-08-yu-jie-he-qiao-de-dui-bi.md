@@ -6,7 +6,7 @@ published: 2022-05-08T07:58:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Memos"]
+category: "Memos"
 slug: "2022-05-08-yu-jie-he-qiao-de-dui-bi"
 draft: false
 ---

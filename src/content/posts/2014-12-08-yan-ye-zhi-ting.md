@@ -6,7 +6,7 @@ published: 2014-12-08T16:43:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-12-08-yan-ye-zhi-ting"
 draft: false
 ---

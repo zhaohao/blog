@@ -6,7 +6,7 @@ published: 2004-12-06T23:55:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2004-12-06-shi-jian-xue-xin-qing-ming-yun"
 draft: false
 ---

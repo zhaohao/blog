@@ -6,7 +6,7 @@ published: 2016-12-07T20:21:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2016-12-07-birthday-of-ning"
 draft: false
 ---

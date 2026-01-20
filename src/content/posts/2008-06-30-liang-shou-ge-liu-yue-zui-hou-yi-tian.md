@@ -6,7 +6,7 @@ published: 2008-06-30T21:47:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-06-30-liang-shou-ge-liu-yue-zui-hou-yi-tian"
 draft: false
 ---

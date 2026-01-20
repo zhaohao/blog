@@ -6,7 +6,7 @@ published: 2007-03-18T16:35:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-03-18-will-you-be-there"
 draft: false
 ---

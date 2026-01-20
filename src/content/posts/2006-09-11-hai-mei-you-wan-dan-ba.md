@@ -6,7 +6,7 @@ published: 2006-09-11T23:28:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2006-09-11-hai-mei-you-wan-dan-ba"
 draft: false
 ---

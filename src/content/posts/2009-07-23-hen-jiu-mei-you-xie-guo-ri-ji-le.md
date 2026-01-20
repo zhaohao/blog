@@ -6,7 +6,7 @@ published: 2009-07-23T21:28:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-07-23-hen-jiu-mei-you-xie-guo-ri-ji-le"
 draft: false
 ---

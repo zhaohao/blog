@@ -6,7 +6,7 @@ published: 2009-02-18T11:27:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-02-18-ri-zhi-lu-zen-me-zou"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2025-02-07T01:56:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Memos"]
+category: "Memos"
 slug: "2025-02-07-typecho-themes"
 draft: false
 ---

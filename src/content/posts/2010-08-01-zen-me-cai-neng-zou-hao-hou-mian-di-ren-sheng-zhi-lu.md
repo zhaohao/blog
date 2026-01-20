@@ -6,7 +6,7 @@ published: 2010-08-01T00:20:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-08-01-zen-me-cai-neng-zou-hao-hou-mian-di-ren-sheng-zhi-lu"
 draft: false
 ---

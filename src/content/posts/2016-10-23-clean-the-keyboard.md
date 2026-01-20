@@ -6,7 +6,7 @@ published: 2016-10-23T09:40:59.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2016-10-23-clean-the-keyboard"
 draft: false
 ---

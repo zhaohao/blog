@@ -6,7 +6,7 @@ published: 2011-12-10T22:01:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2011-12-10-er-ling-yi-yi-nian-shi-er-yue-shi-ri"
 draft: false
 ---

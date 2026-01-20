@@ -6,7 +6,7 @@ published: 2009-03-14T11:39:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-03-14-meng-ran-fa-xian-wai-mian-yang-guang-pu-zhao"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2026-01-13T14:19:58.000Z
 description: ""
 author: "stardust"
 tags: ["life", "running"]
-category: ["Default"]
+category: "Default"
 slug: "2026-01-13-start-running-again"
 draft: false
 ---

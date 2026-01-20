@@ -6,7 +6,7 @@ published: 2008-06-25T00:26:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-06-25-zi-ji-zui-que-fa-de-jiu-shi-dui-ren-sheng-de-gui-hua"
 draft: false
 ---

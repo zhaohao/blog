@@ -6,7 +6,7 @@ published: 2010-05-17T18:40:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-05-17-di-tie-shang-wu-liao-luan-dian-de-ce-shi"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2008-09-14T01:33:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-09-14-zhong-qiu-shi-jie"
 draft: false
 ---

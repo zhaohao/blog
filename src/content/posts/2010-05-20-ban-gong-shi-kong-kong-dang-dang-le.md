@@ -6,7 +6,7 @@ published: 2010-05-20T15:56:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-05-20-ban-gong-shi-kong-kong-dang-dang-le"
 draft: false
 ---

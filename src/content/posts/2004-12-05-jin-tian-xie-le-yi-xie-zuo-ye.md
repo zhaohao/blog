@@ -6,7 +6,7 @@ published: 2004-12-05T23:03:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2004-12-05-jin-tian-xie-le-yi-xie-zuo-ye"
 draft: false
 ---

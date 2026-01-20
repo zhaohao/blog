@@ -6,7 +6,7 @@ published: 2010-10-30T15:59:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-10-30-iphone-4-user-agent"
 draft: false
 ---

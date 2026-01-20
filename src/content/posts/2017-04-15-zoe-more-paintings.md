@@ -6,7 +6,7 @@ published: 2017-04-15T00:35:51.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2017-04-15-zoe-more-paintings"
 draft: false
 ---

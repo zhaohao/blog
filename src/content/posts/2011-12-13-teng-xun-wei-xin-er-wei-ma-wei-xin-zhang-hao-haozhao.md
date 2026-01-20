@@ -6,7 +6,7 @@ published: 2011-12-13T22:03:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2011-12-13-teng-xun-wei-xin-er-wei-ma-wei-xin-zhang-hao-haozhao"
 draft: false
 ---

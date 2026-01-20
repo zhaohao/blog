@@ -6,7 +6,7 @@ published: 2008-03-16T20:34:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-03-16-jiu-xing-ren-ge-fen-xi-zhi-wo-yi"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2008-04-12T00:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-04-12-enya-wild-child"
 draft: false
 ---

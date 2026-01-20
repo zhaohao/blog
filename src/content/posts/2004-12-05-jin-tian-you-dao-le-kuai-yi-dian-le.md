@@ -6,7 +6,7 @@ published: 2004-12-05T00:56:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2004-12-05-jin-tian-you-dao-le-kuai-yi-dian-le"
 draft: false
 ---

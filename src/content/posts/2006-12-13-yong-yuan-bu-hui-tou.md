@@ -6,7 +6,7 @@ published: 2006-12-13T22:18:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2006-12-13-yong-yuan-bu-hui-tou"
 draft: false
 ---

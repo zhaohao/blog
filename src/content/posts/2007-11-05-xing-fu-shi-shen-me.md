@@ -6,7 +6,7 @@ published: 2007-11-05T23:02:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-11-05-xing-fu-shi-shen-me"
 draft: false
 ---

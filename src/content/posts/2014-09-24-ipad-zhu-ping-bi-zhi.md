@@ -6,7 +6,7 @@ published: 2014-09-24T21:45:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-09-24-ipad-zhu-ping-bi-zhi"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2008-08-09T20:56:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-08-09-jin-tian-zhen-yong-yuan"
 draft: false
 ---

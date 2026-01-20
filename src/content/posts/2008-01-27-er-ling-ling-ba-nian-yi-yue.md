@@ -6,7 +6,7 @@ published: 2008-01-27T23:02:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-01-27-er-ling-ling-ba-nian-yi-yue"
 draft: false
 ---

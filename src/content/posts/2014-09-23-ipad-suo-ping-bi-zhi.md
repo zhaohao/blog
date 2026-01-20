@@ -6,7 +6,7 @@ published: 2014-09-23T17:59:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-09-23-ipad-suo-ping-bi-zhi"
 draft: false
 ---

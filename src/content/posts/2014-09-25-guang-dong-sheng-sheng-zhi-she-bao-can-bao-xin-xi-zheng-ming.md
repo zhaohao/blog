@@ -6,7 +6,7 @@ published: 2014-09-25T21:26:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-09-25-guang-dong-sheng-sheng-zhi-she-bao-can-bao-xin-xi-zheng-ming"
 draft: false
 ---

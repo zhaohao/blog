@@ -6,7 +6,7 @@ published: 2010-05-04T18:35:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-05-04-er-ling-yi-ling-zhi-wu-si"
 draft: false
 ---

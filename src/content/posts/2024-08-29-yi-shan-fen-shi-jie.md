@@ -6,7 +6,7 @@ published: 2024-08-29T09:39:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Memos"]
+category: "Memos"
 slug: "2024-08-29-yi-shan-fen-shi-jie"
 draft: false
 ---

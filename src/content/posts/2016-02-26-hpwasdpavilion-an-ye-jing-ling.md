@@ -6,7 +6,7 @@ published: 2016-02-26T18:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2016-02-26-hpwasdpavilion-an-ye-jing-ling"
 draft: false
 ---

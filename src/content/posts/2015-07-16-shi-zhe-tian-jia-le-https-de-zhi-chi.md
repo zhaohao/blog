@@ -6,7 +6,7 @@ published: 2015-07-16T10:47:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2015-07-16-shi-zhe-tian-jia-le-https-de-zhi-chi"
 draft: false
 ---

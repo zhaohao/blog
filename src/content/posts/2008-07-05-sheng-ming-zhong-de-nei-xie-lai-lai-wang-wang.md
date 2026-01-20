@@ -6,7 +6,7 @@ published: 2008-07-05T20:27:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-07-05-sheng-ming-zhong-de-nei-xie-lai-lai-wang-wang"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2010-11-07T20:19:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-11-07-ai-chou-ci-yao-qian-qu-sen-tian-tong-zi"
 draft: false
 ---

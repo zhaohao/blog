@@ -6,7 +6,7 @@ published: 2007-03-11T15:13:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-03-11-ji-mi-xia-yu-de-ri-zi"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2015-04-04T16:41:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2015-04-04-diary-at-live-com"
 draft: false
 ---

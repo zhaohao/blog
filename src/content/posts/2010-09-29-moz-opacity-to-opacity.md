@@ -6,7 +6,7 @@ published: 2010-09-29T20:41:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-09-29-moz-opacity-to-opacity"
 draft: false
 ---

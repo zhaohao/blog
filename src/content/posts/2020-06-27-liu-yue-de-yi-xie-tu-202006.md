@@ -6,7 +6,7 @@ published: 2020-06-27T13:23:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Memos"]
+category: "Memos"
 slug: "2020-06-27-liu-yue-de-yi-xie-tu-202006"
 draft: false
 ---

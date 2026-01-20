@@ -6,7 +6,7 @@ published: 2014-07-03T00:44:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-07-03-bluehost-kong-jian-ding-gou"
 draft: false
 ---

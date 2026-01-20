@@ -6,7 +6,7 @@ published: 2009-03-31T23:55:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-03-31-san-yue-de-zui-hou-yi-tian"
 draft: false
 ---

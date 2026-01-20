@@ -6,7 +6,7 @@ published: 2026-01-16T13:35:59.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2026-01-16-hui-fu-pao-bu-di-si-tian"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2015-03-03T00:04:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2015-03-03-ban-ye-you-bu-qi-er-zhi-de-teng"
 draft: false
 ---

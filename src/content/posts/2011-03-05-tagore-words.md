@@ -6,7 +6,7 @@ published: 2011-03-05T21:21:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2011-03-05-tagore-words"
 draft: false
 ---

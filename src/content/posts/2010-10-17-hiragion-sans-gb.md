@@ -6,7 +6,7 @@ published: 2010-10-17T21:48:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-10-17-hiragion-sans-gb"
 draft: false
 ---

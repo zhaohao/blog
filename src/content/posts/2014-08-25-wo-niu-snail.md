@@ -6,7 +6,7 @@ published: 2014-08-25T10:25:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-08-25-wo-niu-snail"
 draft: false
 ---

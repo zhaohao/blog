@@ -6,7 +6,7 @@ published: 2018-08-10T20:10:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2018-08-10-jekyll-theme-note"
 draft: false
 ---

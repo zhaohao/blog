@@ -6,7 +6,7 @@ published: 2007-05-01T19:31:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-05-01-bu-zai-qi-wang"
 draft: false
 ---

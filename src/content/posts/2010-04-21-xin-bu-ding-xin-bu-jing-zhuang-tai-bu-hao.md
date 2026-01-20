@@ -6,7 +6,7 @@ published: 2010-04-21T11:55:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-04-21-xin-bu-ding-xin-bu-jing-zhuang-tai-bu-hao"
 draft: false
 ---

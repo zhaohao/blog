@@ -6,7 +6,7 @@ published: 2015-09-21T09:17:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2015-09-21-windows10-shou-dong-tian-jia-oem-xin-xi"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2006-11-07T00:03:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2006-11-07-ive-never-been-to-me"
 draft: false
 ---

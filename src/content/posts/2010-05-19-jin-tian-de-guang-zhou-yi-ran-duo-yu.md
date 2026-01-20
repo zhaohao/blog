@@ -6,7 +6,7 @@ published: 2010-05-19T22:12:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-05-19-jin-tian-de-guang-zhou-yi-ran-duo-yu"
 draft: false
 ---

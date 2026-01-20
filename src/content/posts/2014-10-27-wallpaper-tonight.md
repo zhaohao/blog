@@ -6,7 +6,7 @@ published: 2014-10-27T22:30:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-10-27-wallpaper-tonight"
 draft: false
 ---

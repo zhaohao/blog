@@ -6,7 +6,7 @@ published: 2008-03-20T15:20:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-03-20-jin-tian-shi-chun-fen"
 draft: false
 ---

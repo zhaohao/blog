@@ -6,7 +6,7 @@ published: 2009-04-30T09:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-04-30-zao-shang-shang-ban-jin-lin-de-xiao-xue-huo-dong"
 draft: false
 ---

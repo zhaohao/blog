@@ -6,7 +6,7 @@ published: 2020-12-01T14:45:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Memos"]
+category: "Memos"
 slug: "2020-12-01-gai-le-fen-visualstudiocode-de-zhu-ti-pei-se"
 draft: false
 ---

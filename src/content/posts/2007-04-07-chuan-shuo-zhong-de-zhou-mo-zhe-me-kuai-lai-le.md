@@ -6,7 +6,7 @@ published: 2007-04-07T00:48:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-04-07-chuan-shuo-zhong-de-zhou-mo-zhe-me-kuai-lai-le"
 draft: false
 ---

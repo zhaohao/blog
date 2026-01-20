@@ -6,7 +6,7 @@ published: 2024-07-09T23:27:35.000Z
 description: ""
 author: "stardust"
 tags: ["life"]
-category: ["Default"]
+category: "Default"
 slug: "2024-07-09-little-things-this-week"
 draft: false
 ---

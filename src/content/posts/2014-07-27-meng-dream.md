@@ -6,7 +6,7 @@ published: 2014-07-27T14:07:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-07-27-meng-dream"
 draft: false
 ---

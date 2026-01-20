@@ -6,7 +6,7 @@ published: 2011-03-06T17:20:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2011-03-06-new-wordpress-com-site-howardzhao-wordpress-com"
 draft: false
 ---

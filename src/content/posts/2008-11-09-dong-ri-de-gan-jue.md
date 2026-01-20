@@ -6,7 +6,7 @@ published: 2008-11-09T23:56:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-11-09-dong-ri-de-gan-jue"
 draft: false
 ---

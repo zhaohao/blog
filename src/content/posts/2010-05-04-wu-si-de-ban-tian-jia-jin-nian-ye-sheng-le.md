@@ -6,7 +6,7 @@ published: 2010-05-04T10:34:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-05-04-wu-si-de-ban-tian-jia-jin-nian-ye-sheng-le"
 draft: false
 ---

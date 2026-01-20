@@ -6,7 +6,7 @@ published: 2008-10-04T04:01:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-10-04-smell-of-the-rain"
 draft: false
 ---

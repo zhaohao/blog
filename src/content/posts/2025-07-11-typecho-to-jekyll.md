@@ -6,7 +6,7 @@ published: 2025-07-11T03:51:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Memos"]
+category: "Memos"
 slug: "2025-07-11-typecho-to-jekyll"
 draft: false
 ---

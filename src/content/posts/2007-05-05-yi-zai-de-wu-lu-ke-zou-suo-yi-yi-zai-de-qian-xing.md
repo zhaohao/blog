@@ -6,7 +6,7 @@ published: 2007-05-05T03:37:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-05-05-yi-zai-de-wu-lu-ke-zou-suo-yi-yi-zai-de-qian-xing"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2020-12-03T02:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Memos"]
+category: "Memos"
 slug: "2020-12-03-ni-hao-shi-er-yue"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2008-08-01T00:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-08-01-start-my-new-journey"
 draft: false
 ---

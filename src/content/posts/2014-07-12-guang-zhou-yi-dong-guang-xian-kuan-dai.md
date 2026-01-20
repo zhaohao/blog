@@ -6,7 +6,7 @@ published: 2014-07-12T11:24:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-07-12-guang-zhou-yi-dong-guang-xian-kuan-dai"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2006-03-08T17:55:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2006-03-08-shou-dao-le-livemessager-gong-zuo-zu-de-20-ge-yao-qing-quan"
 draft: false
 ---

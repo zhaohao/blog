@@ -6,7 +6,7 @@ published: 2008-12-13T14:07:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-12-13-wallpaper-qq"
 draft: false
 ---

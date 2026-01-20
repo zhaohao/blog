@@ -6,7 +6,7 @@ published: 2008-10-27T21:10:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-10-27-zui-jin-yi-duan-shi-jian"
 draft: false
 ---

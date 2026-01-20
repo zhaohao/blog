@@ -6,7 +6,7 @@ published: 2008-07-07T22:30:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-07-07-about-stardust"
 draft: false
 ---

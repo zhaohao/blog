@@ -6,7 +6,7 @@ published: 2009-03-26T00:26:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-03-26-dui-bu-qi-ni-suo-bo-da-de-hao-ma-shi-kong-hao"
 draft: false
 ---

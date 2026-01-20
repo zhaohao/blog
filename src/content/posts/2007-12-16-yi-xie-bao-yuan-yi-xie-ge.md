@@ -6,7 +6,7 @@ published: 2007-12-16T19:01:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-12-16-yi-xie-bao-yuan-yi-xie-ge"
 draft: false
 ---

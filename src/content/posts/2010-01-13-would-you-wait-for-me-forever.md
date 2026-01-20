@@ -6,7 +6,7 @@ published: 2010-01-13T15:48:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-01-13-would-you-wait-for-me-forever"
 draft: false
 ---

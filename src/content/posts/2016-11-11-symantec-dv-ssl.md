@@ -6,7 +6,7 @@ published: 2016-11-11T16:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2016-11-11-symantec-dv-ssl"
 draft: false
 ---

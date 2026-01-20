@@ -6,7 +6,7 @@ published: 2007-05-20T23:42:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-05-20-liu-ruo-ying-yuan-lai-ni-ye-zai-zhe-li"
 draft: false
 ---

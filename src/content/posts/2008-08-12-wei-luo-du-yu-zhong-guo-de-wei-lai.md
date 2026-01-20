@@ -6,7 +6,7 @@ published: 2008-08-12T08:55:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-08-12-wei-luo-du-yu-zhong-guo-de-wei-lai"
 draft: false
 ---

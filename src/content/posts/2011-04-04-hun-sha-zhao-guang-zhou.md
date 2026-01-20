@@ -6,7 +6,7 @@ published: 2011-04-04T10:29:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2011-04-04-hun-sha-zhao-guang-zhou"
 draft: false
 ---

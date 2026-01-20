@@ -6,7 +6,7 @@ published: 2007-06-13T05:42:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-06-13-you-shi-yi-ge-tong-xiao"
 draft: false
 ---

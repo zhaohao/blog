@@ -6,7 +6,7 @@ published: 2009-01-03T14:46:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-01-03-guan-yu-wei-ming-hao-meng"
 draft: false
 ---

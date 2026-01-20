@@ -6,7 +6,7 @@ published: 2006-12-02T15:24:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2006-12-02-you-shi-yi-tian-xu-wu-piao-miao-de-sheng-huo"
 draft: false
 ---

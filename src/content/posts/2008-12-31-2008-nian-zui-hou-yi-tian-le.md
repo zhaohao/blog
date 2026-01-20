@@ -6,7 +6,7 @@ published: 2008-12-31T23:33:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-12-31-2008-nian-zui-hou-yi-tian-le"
 draft: false
 ---

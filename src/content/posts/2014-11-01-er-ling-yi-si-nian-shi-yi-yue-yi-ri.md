@@ -6,7 +6,7 @@ published: 2014-11-01T21:22:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-11-01-er-ling-yi-si-nian-shi-yi-yue-yi-ri"
 draft: false
 ---

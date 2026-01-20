@@ -6,7 +6,7 @@ published: 2011-03-09T22:20:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2011-03-09-your-google-voice-call-widgets"
 draft: false
 ---

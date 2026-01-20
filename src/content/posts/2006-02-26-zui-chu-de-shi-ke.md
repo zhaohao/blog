@@ -6,7 +6,7 @@ published: 2006-02-26T23:45:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2006-02-26-zui-chu-de-shi-ke"
 draft: false
 ---

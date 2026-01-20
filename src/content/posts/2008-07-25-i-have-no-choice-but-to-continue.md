@@ -6,7 +6,7 @@ published: 2008-07-25T16:54:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-07-25-i-have-no-choice-but-to-continue"
 draft: false
 ---

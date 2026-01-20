@@ -6,7 +6,7 @@ published: 2014-11-23T16:36:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-11-23-wang-luo-shang-de-2014"
 draft: false
 ---

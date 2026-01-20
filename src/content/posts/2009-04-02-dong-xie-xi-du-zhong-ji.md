@@ -6,7 +6,7 @@ published: 2009-04-02T23:20:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-04-02-dong-xie-xi-du-zhong-ji"
 draft: false
 ---

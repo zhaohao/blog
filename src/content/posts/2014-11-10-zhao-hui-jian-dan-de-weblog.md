@@ -6,7 +6,7 @@ published: 2014-11-10T16:25:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-11-10-zhao-hui-jian-dan-de-weblog"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2008-11-19T21:03:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-11-19-wo-de-shi-nian-zhi-yi-jiu-jiu-jiu"
 draft: false
 ---

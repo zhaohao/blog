@@ -6,7 +6,7 @@ published: 2007-11-20T20:35:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-11-20-happy-lunar-birthday-to-myself"
 draft: false
 ---

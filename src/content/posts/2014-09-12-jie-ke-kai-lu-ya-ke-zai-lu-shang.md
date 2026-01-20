@@ -6,7 +6,7 @@ published: 2014-09-12T12:08:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-09-12-jie-ke-kai-lu-ya-ke-zai-lu-shang"
 draft: false
 ---

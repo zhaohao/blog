@@ -6,7 +6,7 @@ published: 2011-03-16T23:03:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2011-03-16-ie-zhong-gmail-qu-guang-gao"
 draft: false
 ---

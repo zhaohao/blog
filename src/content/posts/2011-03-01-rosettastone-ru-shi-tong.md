@@ -6,7 +6,7 @@ published: 2011-03-01T21:18:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2011-03-01-rosettastone-ru-shi-tong"
 draft: false
 ---

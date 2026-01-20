@@ -6,7 +6,7 @@ published: 2009-03-26T00:21:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-03-26-xin-li-hen-luan"
 draft: false
 ---

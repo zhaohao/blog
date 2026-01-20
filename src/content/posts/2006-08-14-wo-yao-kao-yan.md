@@ -6,7 +6,7 @@ published: 2006-08-14T00:20:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2006-08-14-wo-yao-kao-yan"
 draft: false
 ---

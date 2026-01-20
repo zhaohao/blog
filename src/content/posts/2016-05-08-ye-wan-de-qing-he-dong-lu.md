@@ -6,7 +6,7 @@ published: 2016-05-08T13:39:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2016-05-08-ye-wan-de-qing-he-dong-lu"
 draft: false
 ---

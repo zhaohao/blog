@@ -6,7 +6,7 @@ published: 2011-06-20T19:27:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2011-06-20-wang-zhai-zhi-yan-pian-yu-never"
 draft: false
 ---

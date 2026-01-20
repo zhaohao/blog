@@ -6,7 +6,7 @@ published: 2020-12-30T03:14:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Memos"]
+category: "Memos"
 slug: "2020-12-30-dian-xin-nan-dou-fu-ka"
 draft: false
 ---

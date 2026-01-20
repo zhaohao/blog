@@ -6,7 +6,7 @@ published: 2010-06-22T17:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-06-22-gong-zuo-zhuang-tai-di-luo-dao-ji-zhi"
 draft: false
 ---

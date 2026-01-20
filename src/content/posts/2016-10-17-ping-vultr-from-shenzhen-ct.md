@@ -6,7 +6,7 @@ published: 2016-10-17T10:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2016-10-17-ping-vultr-from-shenzhen-ct"
 draft: false
 ---

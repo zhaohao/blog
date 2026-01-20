@@ -6,7 +6,7 @@ published: 2009-03-09T21:13:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-03-09-starry-starry-night"
 draft: false
 ---

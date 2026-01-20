@@ -6,7 +6,7 @@ published: 2015-10-08T17:17:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2015-10-08-use-amazon-app-and-get-5"
 draft: false
 ---

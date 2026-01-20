@@ -6,7 +6,7 @@ published: 2008-06-25T21:38:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-06-25-liu-shui-zhang-yi-dan-20080625"
 draft: false
 ---

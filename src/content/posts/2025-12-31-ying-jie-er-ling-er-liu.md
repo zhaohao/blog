@@ -6,7 +6,7 @@ published: 2025-12-31T15:30:00.000Z
 description: ""
 author: "stardust"
 tags: ["life"]
-category: ["Default"]
+category: "Default"
 slug: "2025-12-31-ying-jie-er-ling-er-liu"
 draft: false
 ---

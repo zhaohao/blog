@@ -6,7 +6,7 @@ published: 2010-03-29T18:21:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-03-29-wu-ti-zhuan-zai"
 draft: false
 ---

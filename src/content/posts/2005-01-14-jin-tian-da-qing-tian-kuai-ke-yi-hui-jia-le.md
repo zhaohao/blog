@@ -6,7 +6,7 @@ published: 2005-01-14T14:01:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2005-01-14-jin-tian-da-qing-tian-kuai-ke-yi-hui-jia-le"
 draft: false
 ---

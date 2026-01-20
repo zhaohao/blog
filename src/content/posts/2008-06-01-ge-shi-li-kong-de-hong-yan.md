@@ -6,7 +6,7 @@ published: 2008-06-01T22:40:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-06-01-ge-shi-li-kong-de-hong-yan"
 draft: false
 ---

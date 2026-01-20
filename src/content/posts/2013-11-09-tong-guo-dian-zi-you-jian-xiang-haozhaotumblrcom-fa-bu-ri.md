@@ -6,7 +6,7 @@ published: 2013-11-09T14:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2013-11-09-tong-guo-dian-zi-you-jian-xiang-haozhaotumblrcom-fa-bu-ri"
 draft: false
 ---

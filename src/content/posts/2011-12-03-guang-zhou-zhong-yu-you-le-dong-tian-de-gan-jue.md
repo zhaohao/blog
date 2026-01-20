@@ -6,7 +6,7 @@ published: 2011-12-03T21:46:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2011-12-03-guang-zhou-zhong-yu-you-le-dong-tian-de-gan-jue"
 draft: false
 ---

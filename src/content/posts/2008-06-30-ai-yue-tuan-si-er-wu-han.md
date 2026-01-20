@@ -6,7 +6,7 @@ published: 2008-06-30T21:38:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-06-30-ai-yue-tuan-si-er-wu-han"
 draft: false
 ---

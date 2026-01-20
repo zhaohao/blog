@@ -6,7 +6,7 @@ published: 2015-10-14T16:27:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2015-10-14-meng-yi-chang-nan-shan-nan"
 draft: false
 ---

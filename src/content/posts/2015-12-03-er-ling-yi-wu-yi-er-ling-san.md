@@ -6,7 +6,7 @@ published: 2015-12-03T22:39:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2015-12-03-er-ling-yi-wu-yi-er-ling-san"
 draft: false
 ---

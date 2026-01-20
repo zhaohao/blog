@@ -6,7 +6,7 @@ published: 2010-02-13T18:54:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-02-13-ci-jiu-ying-xin"
 draft: false
 ---

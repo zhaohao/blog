@@ -6,7 +6,7 @@ published: 2014-07-13T13:38:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-07-13-zui-liang-de-yue-guang"
 draft: false
 ---

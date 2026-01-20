@@ -6,7 +6,7 @@ published: 2020-12-07T02:55:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Memos"]
+category: "Memos"
 slug: "2020-12-07-yi-xie-sui-sui-nian"
 draft: false
 ---

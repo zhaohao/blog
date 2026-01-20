@@ -6,7 +6,7 @@ published: 2009-04-01T22:03:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-04-01-8886-ye-li-jing-jing-de"
 draft: false
 ---

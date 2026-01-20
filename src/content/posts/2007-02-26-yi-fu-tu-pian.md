@@ -6,7 +6,7 @@ published: 2007-02-26T03:54:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-02-26-yi-fu-tu-pian"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2016-10-11T09:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2016-10-11-jekyll-theme-trophy"
 draft: false
 ---

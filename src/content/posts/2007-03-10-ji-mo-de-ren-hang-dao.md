@@ -6,7 +6,7 @@ published: 2007-03-10T15:27:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-03-10-ji-mo-de-ren-hang-dao"
 draft: false
 ---

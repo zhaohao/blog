@@ -6,7 +6,7 @@ published: 2007-10-30T23:32:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-10-30-kong-jian-mu-ban-zai-ci-bian-dong"
 draft: false
 ---

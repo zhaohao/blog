@@ -6,7 +6,7 @@ published: 2008-08-06T22:13:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-08-06-naruto-qing-niao"
 draft: false
 ---

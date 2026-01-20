@@ -6,7 +6,7 @@ published: 2024-06-28T06:10:00.000Z
 description: ""
 author: "stardust"
 tags: ["Html", "Jekyll", "Theme"]
-category: ["Default"]
+category: "Default"
 slug: "2024-06-28-changs-of-note-theme"
 draft: false
 ---

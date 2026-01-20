@@ -6,7 +6,7 @@ published: 2008-08-18T02:02:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-08-18-zhe-yi-nian-duo-lai-tai-di-xiao-le"
 draft: false
 ---

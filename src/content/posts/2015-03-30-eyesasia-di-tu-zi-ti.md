@@ -6,7 +6,7 @@ published: 2015-03-30T13:28:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2015-03-30-eyesasia-di-tu-zi-ti"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2015-05-07T23:42:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2015-05-07-wu-yue-jiu-zhe-me-lai-le"
 draft: false
 ---

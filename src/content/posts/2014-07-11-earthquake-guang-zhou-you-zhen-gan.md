@@ -6,7 +6,7 @@ published: 2014-07-11T14:18:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-07-11-earthquake-guang-zhou-you-zhen-gan"
 draft: false
 ---

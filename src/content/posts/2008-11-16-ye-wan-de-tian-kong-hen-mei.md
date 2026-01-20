@@ -6,7 +6,7 @@ published: 2008-11-16T02:18:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-11-16-ye-wan-de-tian-kong-hen-mei"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2007-02-26T04:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-02-26-er-yue-er-shi-liu-xiao-ji"
 draft: false
 ---

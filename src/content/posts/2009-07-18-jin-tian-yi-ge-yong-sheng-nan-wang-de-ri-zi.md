@@ -6,7 +6,7 @@ published: 2009-07-18T23:51:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-07-18-jin-tian-yi-ge-yong-sheng-nan-wang-de-ri-zi"
 draft: false
 ---

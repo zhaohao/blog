@@ -6,7 +6,7 @@ published: 2016-05-18T10:04:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2016-05-18-sha-mo-mei-gui"
 draft: false
 ---

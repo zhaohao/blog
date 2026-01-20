@@ -6,7 +6,7 @@ published: 2010-01-12T21:20:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2010-01-12-jin-tian-hen-luan-bu-zhi-dao-gai-zen-me-shuo"
 draft: false
 ---

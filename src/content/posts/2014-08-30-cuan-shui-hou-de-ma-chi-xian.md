@@ -6,7 +6,7 @@ published: 2014-08-30T18:05:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2014-08-30-cuan-shui-hou-de-ma-chi-xian"
 draft: false
 ---

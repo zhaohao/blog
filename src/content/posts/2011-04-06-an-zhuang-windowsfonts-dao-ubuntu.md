@@ -6,7 +6,7 @@ published: 2011-04-06T13:40:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2011-04-06-an-zhuang-windowsfonts-dao-ubuntu"
 draft: false
 ---

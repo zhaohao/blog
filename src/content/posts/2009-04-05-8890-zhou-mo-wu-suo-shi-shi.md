@@ -6,7 +6,7 @@ published: 2009-04-05T23:24:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-04-05-8890-zhou-mo-wu-suo-shi-shi"
 draft: false
 ---

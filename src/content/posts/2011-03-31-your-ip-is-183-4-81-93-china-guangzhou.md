@@ -6,7 +6,7 @@ published: 2011-03-31T10:11:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2011-03-31-your-ip-is-183-4-81-93-china-guangzhou"
 draft: false
 ---

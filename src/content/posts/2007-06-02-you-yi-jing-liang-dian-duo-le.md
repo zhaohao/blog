@@ -6,7 +6,7 @@ published: 2007-06-02T02:29:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2007-06-02-you-yi-jing-liang-dian-duo-le"
 draft: false
 ---

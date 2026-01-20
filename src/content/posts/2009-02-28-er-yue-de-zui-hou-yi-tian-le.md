@@ -6,7 +6,7 @@ published: 2009-02-28T23:04:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-02-28-er-yue-de-zui-hou-yi-tian-le"
 draft: false
 ---

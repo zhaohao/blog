@@ -6,7 +6,7 @@ published: 2006-12-06T00:30:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2006-12-06-chi-lai-de-sheng-ri-duan-xin"
 draft: false
 ---

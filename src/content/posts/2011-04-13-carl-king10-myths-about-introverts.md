@@ -6,7 +6,7 @@ published: 2011-04-13T16:13:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2011-04-13-carl-king10-myths-about-introverts"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2005-02-27T20:28:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2005-02-27-di-yi-ci-kan-dao-hai"
 draft: false
 ---

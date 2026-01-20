@@ -6,7 +6,7 @@ published: 2009-05-10T10:01:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-05-10-i-singi-swim"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2011-03-20T00:15:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2011-03-20-zui-yuan-zui-da-yue-liang-3-yue-20-ri-ling-chen-xian-shen"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2008-03-21T19:29:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-03-21-ji-wai-er-ling-ling-ba-nian-san-yue"
 draft: false
 ---

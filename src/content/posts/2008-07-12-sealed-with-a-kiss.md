@@ -6,7 +6,7 @@ published: 2008-07-12T23:55:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2008-07-12-sealed-with-a-kiss"
 draft: false
 ---

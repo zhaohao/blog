@@ -6,7 +6,7 @@ published: 2009-01-26T21:24:00.000Z
 description: ""
 author: "stardust"
 tags: []
-category: ["Default"]
+category: "Default"
 slug: "2009-01-26-gao-bie-le-shu-nian-ming-tian-hai-yao-ji-xu"
 draft: false
 ---
