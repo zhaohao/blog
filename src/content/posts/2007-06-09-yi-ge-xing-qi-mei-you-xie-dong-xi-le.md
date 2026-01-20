@@ -6,7 +6,7 @@ published: 2007-06-09T15:12:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-06-09-yi-ge-xing-qi-mei-you-xie-dong-xi-le"
 draft: false
 ---

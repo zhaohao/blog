@@ -6,7 +6,7 @@ published: 2008-03-12T21:48:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-03-12-guan-yu-ji-mi-san"
 draft: false
 ---

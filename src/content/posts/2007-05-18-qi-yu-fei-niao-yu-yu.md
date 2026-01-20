@@ -6,7 +6,7 @@ published: 2007-05-18T00:17:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-05-18-qi-yu-fei-niao-yu-yu"
 draft: false
 ---

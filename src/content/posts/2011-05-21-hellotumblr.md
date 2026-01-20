@@ -6,7 +6,7 @@ published: 2011-05-21T21:29:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-05-21-hellotumblr"
 draft: false
 ---

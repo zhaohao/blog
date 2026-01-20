@@ -6,7 +6,7 @@ published: 2004-12-14T00:15:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2004-12-14-ming-tian-yi-ding-yao-ba-ying-yu-gei-bei-wan"
 draft: false
 ---

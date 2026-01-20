@@ -6,7 +6,7 @@ published: 2007-12-23T23:30:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-12-23-er-ling-ling-qi-fan-fou-cun-dang"
 draft: false
 ---

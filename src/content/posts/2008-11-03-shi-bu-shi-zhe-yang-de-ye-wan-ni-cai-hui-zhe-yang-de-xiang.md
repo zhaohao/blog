@@ -6,7 +6,7 @@ published: 2008-11-03T22:17:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-11-03-shi-bu-shi-zhe-yang-de-ye-wan-ni-cai-hui-zhe-yang-de-xiang"
 draft: false
 ---

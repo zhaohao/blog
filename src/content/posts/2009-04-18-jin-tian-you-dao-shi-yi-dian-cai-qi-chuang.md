@@ -6,7 +6,7 @@ published: 2009-04-18T23:58:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-04-18-jin-tian-you-dao-shi-yi-dian-cai-qi-chuang"
 draft: false
 ---

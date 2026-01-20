@@ -6,7 +6,7 @@ published: 2026-01-13T14:24:20.000Z
 description: ""
 author: "stardust"
 tags: ["UI"]
-categories: ["Default"]
+category: ["Default"]
 slug: "2026-01-13-xiu-gai-le-xia-farallon-zhu-ti"
 draft: false
 ---

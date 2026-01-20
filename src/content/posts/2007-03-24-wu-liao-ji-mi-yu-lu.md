@@ -6,7 +6,7 @@ published: 2007-03-24T22:15:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-03-24-wu-liao-ji-mi-yu-lu"
 draft: false
 ---

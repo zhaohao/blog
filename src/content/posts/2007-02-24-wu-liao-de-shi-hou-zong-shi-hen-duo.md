@@ -6,7 +6,7 @@ published: 2007-02-24T22:53:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-02-24-wu-liao-de-shi-hou-zong-shi-hen-duo"
 draft: false
 ---

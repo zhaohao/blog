@@ -6,7 +6,7 @@ published: 2014-11-25T16:36:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-11-25-colorful-wallpaper"
 draft: false
 ---

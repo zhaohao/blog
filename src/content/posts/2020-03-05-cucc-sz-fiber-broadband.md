@@ -6,7 +6,7 @@ published: 2020-03-05T18:55:22.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2020-03-05-cucc-sz-fiber-broadband"
 draft: false
 ---

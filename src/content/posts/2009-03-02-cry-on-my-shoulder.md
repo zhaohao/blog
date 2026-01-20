@@ -6,7 +6,7 @@ published: 2009-03-02T21:38:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-03-02-cry-on-my-shoulder"
 draft: false
 ---

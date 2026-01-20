@@ -6,7 +6,7 @@ published: 2016-03-30T13:28:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2016-03-30-xiao-wang-shu"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2007-04-03T21:20:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-04-03-wai-mian-xia-yu-le"
 draft: false
 ---

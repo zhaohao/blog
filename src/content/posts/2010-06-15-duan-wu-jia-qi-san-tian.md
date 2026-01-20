@@ -6,7 +6,7 @@ published: 2010-06-15T02:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2010-06-15-duan-wu-jia-qi-san-tian"
 draft: false
 ---

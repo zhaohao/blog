@@ -6,7 +6,7 @@ published: 2010-12-23T20:28:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2010-12-23-chrome-ge-ban-ben-xia-zai-ji-he"
 draft: false
 ---

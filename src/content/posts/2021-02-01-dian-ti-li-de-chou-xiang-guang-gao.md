@@ -6,7 +6,7 @@ published: 2021-02-01T06:34:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2021-02-01-dian-ti-li-de-chou-xiang-guang-gao"
 draft: false
 ---

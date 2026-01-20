@@ -6,7 +6,7 @@ published: 2009-04-12T23:47:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-04-12-8897-tian-he-tang-xia-bu-zhi-hai-yao-zai-zhe-duo-jiu"
 draft: false
 ---

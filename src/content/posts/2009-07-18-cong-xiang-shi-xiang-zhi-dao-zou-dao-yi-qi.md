@@ -6,7 +6,7 @@ published: 2009-07-18T23:54:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-07-18-cong-xiang-shi-xiang-zhi-dao-zou-dao-yi-qi"
 draft: false
 ---

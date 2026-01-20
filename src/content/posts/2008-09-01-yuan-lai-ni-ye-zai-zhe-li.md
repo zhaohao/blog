@@ -6,7 +6,7 @@ published: 2008-09-01T09:10:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-09-01-yuan-lai-ni-ye-zai-zhe-li"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2020-12-01T14:43:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2020-12-01-jian-hang-you-hui"
 draft: false
 ---

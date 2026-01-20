@@ -6,7 +6,7 @@ published: 2011-05-13T12:02:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-05-13-cuo-wu-118neterrconnectiontimedout-cao-zuo-chao-shi"
 draft: false
 ---

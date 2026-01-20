@@ -6,7 +6,7 @@ published: 2008-07-30T09:18:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-07-30-about-live-mesh"
 draft: false
 ---

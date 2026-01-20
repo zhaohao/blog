@@ -6,7 +6,7 @@ published: 2011-06-25T09:41:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-06-25-google-calendar-diary"
 draft: false
 ---

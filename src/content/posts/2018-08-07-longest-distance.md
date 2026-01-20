@@ -6,7 +6,7 @@ published: 2018-08-07T16:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2018-08-07-longest-distance"
 draft: false
 ---

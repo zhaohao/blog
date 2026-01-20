@@ -6,7 +6,7 @@ published: 2014-09-21T14:39:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-09-21-zhong-wu-de-ji-dan-tang-mian"
 draft: false
 ---

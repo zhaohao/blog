@@ -6,7 +6,7 @@ published: 2008-10-30T23:16:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-10-30-qu-ta-ma-de-gou-ri-de"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2014-11-30T16:40:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-11-30-header-background-gif-images"
 draft: false
 ---

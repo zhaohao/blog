@@ -6,7 +6,7 @@ published: 2009-03-30T23:55:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-03-30-8884-ba-qian-ba-bai-ba-shi-si-tian"
 draft: false
 ---

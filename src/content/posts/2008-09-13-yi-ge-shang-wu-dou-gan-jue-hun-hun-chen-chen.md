@@ -6,7 +6,7 @@ published: 2008-09-13T13:20:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-09-13-yi-ge-shang-wu-dou-gan-jue-hun-hun-chen-chen"
 draft: false
 ---

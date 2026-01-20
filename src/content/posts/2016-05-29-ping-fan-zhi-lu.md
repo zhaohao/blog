@@ -6,7 +6,7 @@ published: 2016-05-29T09:48:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2016-05-29-ping-fan-zhi-lu"
 draft: false
 ---

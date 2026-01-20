@@ -6,7 +6,7 @@ published: 2008-11-30T17:19:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-11-30-shi-yi-yue-de-zui-hou-yi-tian"
 draft: false
 ---

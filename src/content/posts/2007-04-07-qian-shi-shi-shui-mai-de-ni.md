@@ -6,7 +6,7 @@ published: 2007-04-07T19:41:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-04-07-qian-shi-shi-shui-mai-de-ni"
 draft: false
 ---

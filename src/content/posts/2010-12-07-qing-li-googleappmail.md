@@ -6,7 +6,7 @@ published: 2010-12-07T09:57:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2010-12-07-qing-li-googleappmail"
 draft: false
 ---

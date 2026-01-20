@@ -6,7 +6,7 @@ published: 2015-05-24T21:58:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-05-24-pao-bu-qu-pan-yu-guang-chang"
 draft: false
 ---

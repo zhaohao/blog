@@ -6,7 +6,7 @@ published: 2014-01-18T05:54:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-01-18-yang-guang-xia-de-yu-mei-ren"
 draft: false
 ---

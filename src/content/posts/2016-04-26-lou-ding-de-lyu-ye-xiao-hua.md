@@ -6,7 +6,7 @@ published: 2016-04-26T15:21:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2016-04-26-lou-ding-de-lyu-ye-xiao-hua"
 draft: false
 ---

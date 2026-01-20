@@ -6,7 +6,7 @@ published: 2014-09-15T20:32:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-09-15-duokan-os-for-kindle"
 draft: false
 ---

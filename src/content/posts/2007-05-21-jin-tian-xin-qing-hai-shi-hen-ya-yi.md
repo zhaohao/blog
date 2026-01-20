@@ -6,7 +6,7 @@ published: 2007-05-21T02:47:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-05-21-jin-tian-xin-qing-hai-shi-hen-ya-yi"
 draft: false
 ---

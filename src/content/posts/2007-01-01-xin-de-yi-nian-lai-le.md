@@ -6,7 +6,7 @@ published: 2007-01-01T02:30:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-01-01-xin-de-yi-nian-lai-le"
 draft: false
 ---

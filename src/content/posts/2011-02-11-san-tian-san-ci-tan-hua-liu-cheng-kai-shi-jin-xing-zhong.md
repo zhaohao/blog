@@ -6,7 +6,7 @@ published: 2011-02-11T11:02:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-02-11-san-tian-san-ci-tan-hua-liu-cheng-kai-shi-jin-xing-zhong"
 draft: false
 ---

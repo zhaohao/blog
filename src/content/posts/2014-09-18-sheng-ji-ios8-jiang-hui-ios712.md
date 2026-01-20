@@ -6,7 +6,7 @@ published: 2014-09-18T13:16:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-09-18-sheng-ji-ios8-jiang-hui-ios712"
 draft: false
 ---

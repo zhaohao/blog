@@ -6,7 +6,7 @@ published: 2014-08-30T00:02:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-08-30-zhi-yan-pian-yu"
 draft: false
 ---

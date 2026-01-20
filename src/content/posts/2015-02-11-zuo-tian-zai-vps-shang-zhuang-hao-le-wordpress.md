@@ -6,7 +6,7 @@ published: 2015-02-11T15:10:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-02-11-zuo-tian-zai-vps-shang-zhuang-hao-le-wordpress"
 draft: false
 ---

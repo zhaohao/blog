@@ -6,7 +6,7 @@ published: 2007-05-23T22:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-05-23-you-shi-yi-xie-anbb-de-zhi-yan-pian-yu"
 draft: false
 ---

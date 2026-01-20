@@ -6,7 +6,7 @@ published: 2007-02-17T16:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-02-17-happy-chinese-new-year-happy-every-day"
 draft: false
 ---

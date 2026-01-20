@@ -6,7 +6,7 @@ published: 2014-10-24T16:14:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-10-24-zai-digitalocean-de-ubuntuvps-shang-an-zhuang-ghost"
 draft: false
 ---

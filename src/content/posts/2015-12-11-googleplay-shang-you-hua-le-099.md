@@ -6,7 +6,7 @@ published: 2015-12-11T15:20:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-12-11-googleplay-shang-you-hua-le-099"
 draft: false
 ---

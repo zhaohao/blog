@@ -6,7 +6,7 @@ published: 2015-05-07T23:39:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-05-07-yong-dao-xian-zai-zui-zao-de-microsoftaccount"
 draft: false
 ---

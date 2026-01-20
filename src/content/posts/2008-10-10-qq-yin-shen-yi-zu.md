@@ -6,7 +6,7 @@ published: 2008-10-10T19:14:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-10-10-qq-yin-shen-yi-zu"
 draft: false
 ---

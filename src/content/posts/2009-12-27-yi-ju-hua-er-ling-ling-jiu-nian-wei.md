@@ -6,7 +6,7 @@ published: 2009-12-27T17:56:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-12-27-yi-ju-hua-er-ling-ling-jiu-nian-wei"
 draft: false
 ---

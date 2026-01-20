@@ -6,7 +6,7 @@ published: 2011-05-31T13:48:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-05-31-zhuan-zai-tuo-yan-zheng-procrastination"
 draft: false
 ---

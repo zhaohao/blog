@@ -6,7 +6,7 @@ published: 2020-11-26T02:27:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2020-11-26-jing-shui-qi-lyu-xin"
 draft: false
 ---

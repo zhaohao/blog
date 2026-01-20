@@ -6,7 +6,7 @@ published: 2009-03-21T10:59:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-03-21-the-answer-is-blowing-in-the-wind"
 draft: false
 ---

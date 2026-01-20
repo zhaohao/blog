@@ -6,7 +6,7 @@ published: 2012-10-26T22:56:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2012-10-26-wo-jiu-zhe-me-xi-huan-ni"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2011-03-22T17:40:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-03-22-im-so-dull-pgp-public-key"
 draft: false
 ---

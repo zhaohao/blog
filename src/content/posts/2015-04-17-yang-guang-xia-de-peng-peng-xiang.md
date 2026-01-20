@@ -6,7 +6,7 @@ published: 2015-04-17T11:36:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-04-17-yang-guang-xia-de-peng-peng-xiang"
 draft: false
 ---

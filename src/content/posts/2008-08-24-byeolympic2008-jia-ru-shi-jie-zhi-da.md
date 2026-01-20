@@ -6,7 +6,7 @@ published: 2008-08-24T22:56:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-08-24-byeolympic2008-jia-ru-shi-jie-zhi-da"
 draft: false
 ---

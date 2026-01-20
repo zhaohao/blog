@@ -6,7 +6,7 @@ published: 2009-05-04T14:53:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-05-04-8919-ming-tian-li-xia-yang-guang-yao-yan"
 draft: false
 ---

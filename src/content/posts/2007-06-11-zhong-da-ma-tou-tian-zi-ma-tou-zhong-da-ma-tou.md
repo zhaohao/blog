@@ -6,7 +6,7 @@ published: 2007-06-11T15:41:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-06-11-zhong-da-ma-tou-tian-zi-ma-tou-zhong-da-ma-tou"
 draft: false
 ---

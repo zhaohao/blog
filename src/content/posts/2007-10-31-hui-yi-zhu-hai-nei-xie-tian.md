@@ -6,7 +6,7 @@ published: 2007-10-31T23:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-10-31-hui-yi-zhu-hai-nei-xie-tian"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2006-10-05T00:10:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2006-10-05-zhong-qiu-jie-you-shi-lao-jie-de-sheng-ri-zhu-fu-ta-neng"
 draft: false
 ---

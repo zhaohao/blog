@@ -6,7 +6,7 @@ published: 2024-04-24T07:55:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2024-04-24-jquery-qrcode"
 draft: false
 ---

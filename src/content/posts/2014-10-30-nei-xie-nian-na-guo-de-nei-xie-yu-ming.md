@@ -6,7 +6,7 @@ published: 2014-10-30T16:20:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-10-30-nei-xie-nian-na-guo-de-nei-xie-yu-ming"
 draft: false
 ---

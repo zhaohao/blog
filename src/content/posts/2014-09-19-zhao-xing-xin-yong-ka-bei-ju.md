@@ -6,7 +6,7 @@ published: 2014-09-19T17:20:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-09-19-zhao-xing-xin-yong-ka-bei-ju"
 draft: false
 ---

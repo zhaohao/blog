@@ -6,7 +6,7 @@ published: 2007-04-18T12:10:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-04-18-jin-tian-nan-de-you-hen-can-lan-de-yang-guang"
 draft: false
 ---

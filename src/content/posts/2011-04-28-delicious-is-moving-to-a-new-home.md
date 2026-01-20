@@ -6,7 +6,7 @@ published: 2011-04-28T19:57:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-04-28-delicious-is-moving-to-a-new-home"
 draft: false
 ---

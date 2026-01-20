@@ -6,7 +6,7 @@ published: 2008-05-17T21:53:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-05-17-yi-nian-hen-kuai-guo-qu"
 draft: false
 ---

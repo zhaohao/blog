@@ -6,7 +6,7 @@ published: 2025-02-17T16:09:40.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2025-02-17-xiao-ji-er-ling-er-wu-ling-er-yi-ba"
 draft: false
 ---

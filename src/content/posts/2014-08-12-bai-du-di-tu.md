@@ -6,7 +6,7 @@ published: 2014-08-12T09:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-08-12-bai-du-di-tu"
 draft: false
 ---

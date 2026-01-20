@@ -6,7 +6,7 @@ published: 2016-01-20T16:53:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2016-01-20-in-my-secret-life"
 draft: false
 ---

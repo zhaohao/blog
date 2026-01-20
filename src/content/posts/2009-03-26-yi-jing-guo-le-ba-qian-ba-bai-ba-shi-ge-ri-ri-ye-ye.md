@@ -6,7 +6,7 @@ published: 2009-03-26T11:08:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-03-26-yi-jing-guo-le-ba-qian-ba-bai-ba-shi-ge-ri-ri-ye-ye"
 draft: false
 ---

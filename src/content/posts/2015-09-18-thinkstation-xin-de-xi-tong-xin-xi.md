@@ -6,7 +6,7 @@ published: 2015-09-18T11:54:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-09-18-thinkstation-xin-de-xi-tong-xin-xi"
 draft: false
 ---

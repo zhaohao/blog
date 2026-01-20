@@ -6,7 +6,7 @@ published: 2014-08-29T22:15:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-08-29-bei-mei-dian-hua-qu-hao-yi-lan"
 draft: false
 ---

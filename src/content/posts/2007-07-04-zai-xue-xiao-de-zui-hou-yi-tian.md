@@ -6,7 +6,7 @@ published: 2007-07-04T17:19:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-07-04-zai-xue-xiao-de-zui-hou-yi-tian"
 draft: false
 ---

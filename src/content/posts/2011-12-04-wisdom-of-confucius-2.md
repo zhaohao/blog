@@ -6,7 +6,7 @@ published: 2011-12-04T07:13:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-12-04-wisdom-of-confucius-2"
 draft: false
 ---

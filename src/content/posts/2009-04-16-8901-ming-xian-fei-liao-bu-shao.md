@@ -6,7 +6,7 @@ published: 2009-04-16T22:38:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-04-16-8901-ming-xian-fei-liao-bu-shao"
 draft: false
 ---

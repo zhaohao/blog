@@ -6,7 +6,7 @@ published: 2026-01-14T14:37:15.000Z
 description: ""
 author: "stardust"
 tags: ["running"]
-categories: ["Default"]
+category: ["Default"]
 slug: "2026-01-14-hui-fu-pao-di-er-tian"
 draft: false
 ---

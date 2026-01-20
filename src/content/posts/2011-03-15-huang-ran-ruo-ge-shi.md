@@ -6,7 +6,7 @@ published: 2011-03-15T21:22:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-03-15-huang-ran-ruo-ge-shi"
 draft: false
 ---

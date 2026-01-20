@@ -6,7 +6,7 @@ published: 2009-03-17T01:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-03-17-a-ni-de-ai-qing-nian-ling-15-sui"
 draft: false
 ---

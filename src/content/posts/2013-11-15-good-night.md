@@ -6,7 +6,7 @@ published: 2013-11-15T12:37:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2013-11-15-good-night"
 draft: false
 ---

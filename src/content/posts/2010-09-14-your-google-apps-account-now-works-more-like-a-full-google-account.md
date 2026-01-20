@@ -6,7 +6,7 @@ published: 2010-09-14T12:18:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2010-09-14-your-google-apps-account-now-works-more-like-a-full-google-account"
 draft: false
 ---

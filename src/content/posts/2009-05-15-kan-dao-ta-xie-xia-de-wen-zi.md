@@ -6,7 +6,7 @@ published: 2009-05-15T12:31:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-05-15-kan-dao-ta-xie-xia-de-wen-zi"
 draft: false
 ---

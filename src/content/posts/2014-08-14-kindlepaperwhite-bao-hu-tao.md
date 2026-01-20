@@ -6,7 +6,7 @@ published: 2014-08-14T13:28:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-08-14-kindlepaperwhite-bao-hu-tao"
 draft: false
 ---

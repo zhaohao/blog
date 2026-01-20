@@ -6,7 +6,7 @@ published: 2008-01-13T22:01:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-01-13-you-yi-ci-jiang-wen-you-yi-ci-li-kai-xia-tian"
 draft: false
 ---

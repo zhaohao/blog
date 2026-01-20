@@ -6,7 +6,7 @@ published: 2008-08-15T23:58:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-08-15-will-you-still-love-me-tomorrow"
 draft: false
 ---

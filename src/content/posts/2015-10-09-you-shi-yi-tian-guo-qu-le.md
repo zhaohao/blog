@@ -6,7 +6,7 @@ published: 2015-10-09T20:45:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-10-09-you-shi-yi-tian-guo-qu-le"
 draft: false
 ---

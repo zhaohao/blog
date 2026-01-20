@@ -6,7 +6,7 @@ published: 2014-09-11T11:07:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-09-11-linode-vps-speed-test"
 draft: false
 ---

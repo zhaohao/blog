@@ -6,7 +6,7 @@ published: 2011-03-21T11:18:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-03-21-bookmark-download-details-outlook-hotmail-connector-32-bit"
 draft: false
 ---

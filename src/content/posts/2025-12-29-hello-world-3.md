@@ -6,7 +6,7 @@ published: 2025-12-29T13:30:56.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2025-12-29-hello-world-3"
 draft: true
 ---

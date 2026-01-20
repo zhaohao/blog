@@ -6,7 +6,7 @@ published: 2020-12-25T15:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2020-12-25-sheng-dan-tang-guo"
 draft: false
 ---

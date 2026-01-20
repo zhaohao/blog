@@ -6,7 +6,7 @@ published: 2008-06-01T01:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-06-01-ji-wai-er-ling-ling-ba-nian-liu-yue"
 draft: false
 ---

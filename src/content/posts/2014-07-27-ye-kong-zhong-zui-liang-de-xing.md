@@ -6,7 +6,7 @@ published: 2014-07-27T16:04:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-07-27-ye-kong-zhong-zui-liang-de-xing"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2008-11-11T22:29:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-11-11-er-ling-ling-ba-wo-de-yi-yi-yi-yi"
 draft: false
 ---

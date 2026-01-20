@@ -6,7 +6,7 @@ published: 2012-07-04T10:27:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2012-07-04-jian-kang-bao-bao"
 draft: false
 ---

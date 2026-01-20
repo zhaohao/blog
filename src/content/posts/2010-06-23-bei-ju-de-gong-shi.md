@@ -6,7 +6,7 @@ published: 2010-06-23T19:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2010-06-23-bei-ju-de-gong-shi"
 draft: false
 ---

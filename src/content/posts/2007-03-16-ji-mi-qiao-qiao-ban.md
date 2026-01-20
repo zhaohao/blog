@@ -6,7 +6,7 @@ published: 2007-03-16T22:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-03-16-ji-mi-qiao-qiao-ban"
 draft: false
 ---

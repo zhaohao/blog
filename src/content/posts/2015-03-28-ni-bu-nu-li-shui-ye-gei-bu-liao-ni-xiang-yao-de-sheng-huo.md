@@ -6,7 +6,7 @@ published: 2015-03-28T11:08:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-03-28-ni-bu-nu-li-shui-ye-gei-bu-liao-ni-xiang-yao-de-sheng-huo"
 draft: false
 ---

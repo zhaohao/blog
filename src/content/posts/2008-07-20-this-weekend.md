@@ -6,7 +6,7 @@ published: 2008-07-20T02:31:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-07-20-this-weekend"
 draft: false
 ---

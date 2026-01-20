@@ -6,7 +6,7 @@ published: 2007-03-03T17:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-03-03-ji-nian-you-yi-ge-wei-zai-jia-guo-de-yuan-xiao-jie"
 draft: false
 ---

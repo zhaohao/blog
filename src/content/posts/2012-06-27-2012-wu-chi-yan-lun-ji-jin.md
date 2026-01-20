@@ -6,7 +6,7 @@ published: 2012-06-27T22:29:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2012-06-27-2012-wu-chi-yan-lun-ji-jin"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2008-12-02T23:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-12-02-mo-ming-qi-miao-zhe-shi-zen-me-zhao-le"
 draft: false
 ---

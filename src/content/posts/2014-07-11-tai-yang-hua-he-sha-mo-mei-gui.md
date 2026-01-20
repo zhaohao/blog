@@ -6,7 +6,7 @@ published: 2014-07-11T21:27:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-07-11-tai-yang-hua-he-sha-mo-mei-gui"
 draft: false
 ---

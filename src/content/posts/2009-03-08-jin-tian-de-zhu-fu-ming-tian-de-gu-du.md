@@ -6,7 +6,7 @@ published: 2009-03-08T19:48:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-03-08-jin-tian-de-zhu-fu-ming-tian-de-gu-du"
 draft: false
 ---

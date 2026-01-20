@@ -6,7 +6,7 @@ published: 2008-07-22T23:18:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-07-22-great-heat-12th-solar-term"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2012-08-13T05:46:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2012-08-13-hao-yun-de-jian-kang-fen-xiang-di-shi-wu-zhou"
 draft: false
 ---

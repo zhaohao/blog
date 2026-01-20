@@ -6,7 +6,7 @@ published: 2012-04-27T15:20:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2012-04-27-green-bamboo-leaves"
 draft: false
 ---

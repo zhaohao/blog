@@ -6,7 +6,7 @@ published: 2011-04-13T16:32:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-04-13-new-views-of-haoatzlog-nets-weblog¹"
 draft: false
 ---

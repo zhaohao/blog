@@ -6,7 +6,7 @@ published: 2009-04-02T23:04:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-04-02-8887-ru-guo-zhe-shi-jie-shang-zhi-sheng-xia-le-hai"
 draft: false
 ---

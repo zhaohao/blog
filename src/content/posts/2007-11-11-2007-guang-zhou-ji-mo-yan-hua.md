@@ -6,7 +6,7 @@ published: 2007-11-11T22:07:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-11-11-2007-guang-zhou-ji-mo-yan-hua"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2008-06-05T15:40:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-06-05-in-my-secret-life-2"
 draft: false
 ---

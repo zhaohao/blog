@@ -6,7 +6,7 @@ published: 2008-10-28T22:14:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-10-28-qing-chen-ya-qin-jie-tou-qi-tao"
 draft: false
 ---

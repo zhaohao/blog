@@ -6,7 +6,7 @@ published: 2005-02-26T15:05:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2005-02-26-have-you-ever-heard-the-song-forever"
 draft: false
 ---

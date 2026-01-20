@@ -6,7 +6,7 @@ published: 2008-07-31T20:42:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-07-31-about-live-space"
 draft: false
 ---

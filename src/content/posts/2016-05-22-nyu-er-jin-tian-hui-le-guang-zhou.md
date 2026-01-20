@@ -6,7 +6,7 @@ published: 2016-05-22T18:20:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2016-05-22-nyu-er-jin-tian-hui-le-guang-zhou"
 draft: false
 ---

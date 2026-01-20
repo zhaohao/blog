@@ -6,7 +6,7 @@ published: 2007-08-16T18:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-08-16-ou-ran-ting-dao-de-yi-shou-ge"
 draft: false
 ---

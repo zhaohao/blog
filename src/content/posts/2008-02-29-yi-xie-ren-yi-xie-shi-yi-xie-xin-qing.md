@@ -6,7 +6,7 @@ published: 2008-02-29T21:16:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-02-29-yi-xie-ren-yi-xie-shi-yi-xie-xin-qing"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2015-02-10T14:52:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-02-10-ren-yi-qie-de-tong-ku-ben-zhi-shang-dou-shi-dui-zi-ji-de-wu"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2007-09-30T23:15:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-09-30-firmtv-you-yi-ge-di-fang"
 draft: false
 ---

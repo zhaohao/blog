@@ -6,7 +6,7 @@ published: 2007-04-30T22:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-04-30-si-yue-april"
 draft: false
 ---

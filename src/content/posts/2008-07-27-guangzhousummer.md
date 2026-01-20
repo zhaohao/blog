@@ -6,7 +6,7 @@ published: 2008-07-27T18:55:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-07-27-guangzhousummer"
 draft: false
 ---

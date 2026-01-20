@@ -6,7 +6,7 @@ published: 2015-03-22T23:09:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-03-22-windows-10-lockscreen-pictures"
 draft: false
 ---

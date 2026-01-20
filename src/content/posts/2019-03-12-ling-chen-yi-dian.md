@@ -6,7 +6,7 @@ published: 2019-03-12T00:01:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2019-03-12-ling-chen-yi-dian"
 draft: false
 ---

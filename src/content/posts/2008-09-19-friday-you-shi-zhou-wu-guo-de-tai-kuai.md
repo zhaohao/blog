@@ -6,7 +6,7 @@ published: 2008-09-19T12:34:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-09-19-friday-you-shi-zhou-wu-guo-de-tai-kuai"
 draft: false
 ---

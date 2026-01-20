@@ -6,7 +6,7 @@ published: 2006-11-26T23:35:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2006-11-26-shen-shou-zhai-xing"
 draft: false
 ---

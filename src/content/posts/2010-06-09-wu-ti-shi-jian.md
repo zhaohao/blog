@@ -6,7 +6,7 @@ published: 2010-06-09T19:03:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2010-06-09-wu-ti-shi-jian"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2011-10-05T13:23:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-10-05-360buy-san-yang-sanyo-zhen-kong-xi-chen-qi-sc298t01"
 draft: false
 ---

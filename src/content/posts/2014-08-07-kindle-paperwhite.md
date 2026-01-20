@@ -6,7 +6,7 @@ published: 2014-08-07T21:47:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-08-07-kindle-paperwhite"
 draft: false
 ---

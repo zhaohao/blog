@@ -6,7 +6,7 @@ published: 2014-11-14T16:29:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-11-14-tian-liang-le-zoe-chuan-shang-le-hou-yi-fu"
 draft: false
 ---

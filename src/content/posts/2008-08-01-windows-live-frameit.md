@@ -6,7 +6,7 @@ published: 2008-08-01T09:06:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-08-01-windows-live-frameit"
 draft: false
 ---

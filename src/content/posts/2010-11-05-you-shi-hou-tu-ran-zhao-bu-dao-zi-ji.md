@@ -6,7 +6,7 @@ published: 2010-11-05T20:08:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2010-11-05-you-shi-hou-tu-ran-zhao-bu-dao-zi-ji"
 draft: false
 ---

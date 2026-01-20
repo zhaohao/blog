@@ -6,7 +6,7 @@ published: 2005-03-19T22:10:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2005-03-19-wu-yan-de-zhou-mo"
 draft: false
 ---

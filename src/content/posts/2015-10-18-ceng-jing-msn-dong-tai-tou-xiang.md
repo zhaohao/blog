@@ -6,7 +6,7 @@ published: 2015-10-18T11:03:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-10-18-ceng-jing-msn-dong-tai-tou-xiang"
 draft: false
 ---

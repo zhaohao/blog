@@ -6,7 +6,7 @@ published: 2013-11-11T08:57:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2013-11-11-20131111-jie-hun-liang-zhou-nian"
 draft: false
 ---

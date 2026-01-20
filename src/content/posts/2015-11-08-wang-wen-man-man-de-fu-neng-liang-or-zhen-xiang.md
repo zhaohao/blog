@@ -6,7 +6,7 @@ published: 2015-11-08T21:59:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-11-08-wang-wen-man-man-de-fu-neng-liang-or-zhen-xiang"
 draft: false
 ---

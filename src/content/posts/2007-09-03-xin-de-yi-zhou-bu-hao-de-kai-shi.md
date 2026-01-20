@@ -6,7 +6,7 @@ published: 2007-09-03T20:27:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-09-03-xin-de-yi-zhou-bu-hao-de-kai-shi"
 draft: false
 ---

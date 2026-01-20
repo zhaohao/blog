@@ -6,7 +6,7 @@ published: 2008-01-07T14:22:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-01-07-xin-de-yi-nian-guo-qu-le-yi-zhou"
 draft: false
 ---

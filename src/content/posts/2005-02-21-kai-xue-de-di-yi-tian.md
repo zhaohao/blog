@@ -6,7 +6,7 @@ published: 2005-02-21T23:03:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2005-02-21-kai-xue-de-di-yi-tian"
 draft: false
 ---

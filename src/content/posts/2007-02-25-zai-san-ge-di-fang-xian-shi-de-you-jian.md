@@ -6,7 +6,7 @@ published: 2007-02-25T02:31:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-02-25-zai-san-ge-di-fang-xian-shi-de-you-jian"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2025-01-17T04:59:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2025-01-17-lixiang-ota"
 draft: false
 ---

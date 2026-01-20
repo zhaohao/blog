@@ -6,7 +6,7 @@ published: 2008-11-08T11:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-11-08-shi-yi-yue-le-dong-tian-le"
 draft: false
 ---

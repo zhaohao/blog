@@ -6,7 +6,7 @@ published: 2008-04-02T21:47:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-04-02-neng-gan-de-bu-ting-hua"
 draft: false
 ---

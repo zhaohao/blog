@@ -6,7 +6,7 @@ published: 2014-08-17T12:23:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-08-17-xin-de-qiang-tie-cai-hua"
 draft: false
 ---

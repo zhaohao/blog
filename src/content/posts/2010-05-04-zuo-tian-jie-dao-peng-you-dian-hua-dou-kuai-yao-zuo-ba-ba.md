@@ -6,7 +6,7 @@ published: 2010-05-04T11:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2010-05-04-zuo-tian-jie-dao-peng-you-dian-hua-dou-kuai-yao-zuo-ba-ba"
 draft: false
 ---

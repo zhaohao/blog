@@ -6,7 +6,7 @@ published: 2007-06-09T19:59:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-06-09-zhuan-zai-wo-men-de-liao-tian-tou-xiang-zai-xian-huo-yin"
 draft: false
 ---

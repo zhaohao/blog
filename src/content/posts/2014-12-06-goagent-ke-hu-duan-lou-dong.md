@@ -6,7 +6,7 @@ published: 2014-12-06T16:41:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-12-06-goagent-ke-hu-duan-lou-dong"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2011-12-09T21:58:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-12-09-wu-can-da-cong-dou-jiang-chao-fan"
 draft: false
 ---

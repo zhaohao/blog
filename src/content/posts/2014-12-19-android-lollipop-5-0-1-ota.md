@@ -6,7 +6,7 @@ published: 2014-12-19T16:44:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-12-19-android-lollipop-5-0-1-ota"
 draft: false
 ---

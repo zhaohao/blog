@@ -6,7 +6,7 @@ published: 2012-10-27T16:51:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2012-10-27-test-network"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2026-01-15T13:29:16.000Z
 description: ""
 author: "stardust"
 tags: ["running"]
-categories: ["Default"]
+category: ["Default"]
 slug: "2026-01-15-hui-fu-pao-bu-di-san-tian"
 draft: false
 ---

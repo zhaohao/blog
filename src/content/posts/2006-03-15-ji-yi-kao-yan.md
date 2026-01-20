@@ -6,7 +6,7 @@ published: 2006-03-15T21:58:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2006-03-15-ji-yi-kao-yan"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2021-01-03T06:10:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2021-01-03-guang-zhou-yi-dong-ji-lu"
 draft: false
 ---

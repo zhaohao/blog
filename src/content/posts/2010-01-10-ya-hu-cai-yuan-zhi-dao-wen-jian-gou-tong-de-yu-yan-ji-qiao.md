@@ -6,7 +6,7 @@ published: 2010-01-10T16:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2010-01-10-ya-hu-cai-yuan-zhi-dao-wen-jian-gou-tong-de-yu-yan-ji-qiao"
 draft: false
 ---

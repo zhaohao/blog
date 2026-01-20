@@ -6,7 +6,7 @@ published: 2007-03-21T15:21:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-03-21-bu-ming-bai"
 draft: false
 ---

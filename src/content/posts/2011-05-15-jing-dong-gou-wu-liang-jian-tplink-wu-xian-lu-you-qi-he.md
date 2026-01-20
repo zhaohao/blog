@@ -6,7 +6,7 @@ published: 2011-05-15T10:26:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-05-15-jing-dong-gou-wu-liang-jian-tplink-wu-xian-lu-you-qi-he"
 draft: false
 ---

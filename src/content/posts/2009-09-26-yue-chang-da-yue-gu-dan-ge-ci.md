@@ -6,7 +6,7 @@ published: 2009-09-26T21:53:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-09-26-yue-chang-da-yue-gu-dan-ge-ci"
 draft: false
 ---

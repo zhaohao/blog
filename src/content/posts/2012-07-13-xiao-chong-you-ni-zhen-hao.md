@@ -6,7 +6,7 @@ published: 2012-07-13T13:24:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2012-07-13-xiao-chong-you-ni-zhen-hao"
 draft: false
 ---

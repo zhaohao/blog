@@ -6,7 +6,7 @@ published: 2009-04-29T00:49:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-04-29-shen-ye-ling-dian-si-shi-duo-le-shui-jiao"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2006-11-11T00:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2006-11-11-tai-ge-er-yuan-ding-ji"
 draft: false
 ---

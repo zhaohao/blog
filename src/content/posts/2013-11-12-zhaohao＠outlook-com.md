@@ -6,7 +6,7 @@ published: 2013-11-12T15:21:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2013-11-12-zhaohao＠outlook-com"
 draft: false
 ---

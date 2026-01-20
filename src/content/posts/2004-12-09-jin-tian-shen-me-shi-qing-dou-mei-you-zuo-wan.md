@@ -6,7 +6,7 @@ published: 2004-12-09T18:40:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2004-12-09-jin-tian-shen-me-shi-qing-dou-mei-you-zuo-wan"
 draft: false
 ---

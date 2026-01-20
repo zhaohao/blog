@@ -6,7 +6,7 @@ published: 2008-01-27T23:02:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-01-27-si-lyu-le-hao-jiu-zui-hou-que-ding"
 draft: false
 ---

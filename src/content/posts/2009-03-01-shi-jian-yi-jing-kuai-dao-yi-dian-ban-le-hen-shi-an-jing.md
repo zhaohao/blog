@@ -6,7 +6,7 @@ published: 2009-03-01T01:27:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-03-01-shi-jian-yi-jing-kuai-dao-yi-dian-ban-le-hen-shi-an-jing"
 draft: false
 ---

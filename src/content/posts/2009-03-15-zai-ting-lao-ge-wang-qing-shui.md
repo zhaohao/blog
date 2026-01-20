@@ -6,7 +6,7 @@ published: 2009-03-15T22:55:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-03-15-zai-ting-lao-ge-wang-qing-shui"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2011-04-21T18:15:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-04-21-r51345762-dang-an-gua-kao-xu-fei-wen-ti-tian-he-ruan-jian"
 draft: false
 ---

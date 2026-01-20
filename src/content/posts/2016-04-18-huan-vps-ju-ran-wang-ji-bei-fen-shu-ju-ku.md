@@ -6,7 +6,7 @@ published: 2016-04-18T12:28:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2016-04-18-huan-vps-ju-ran-wang-ji-bei-fen-shu-ju-ku"
 draft: false
 ---

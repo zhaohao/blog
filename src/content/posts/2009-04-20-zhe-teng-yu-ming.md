@@ -6,7 +6,7 @@ published: 2009-04-20T23:03:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-04-20-zhe-teng-yu-ming"
 draft: false
 ---

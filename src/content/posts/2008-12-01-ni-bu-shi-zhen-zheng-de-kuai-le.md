@@ -6,7 +6,7 @@ published: 2008-12-01T23:33:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-12-01-ni-bu-shi-zhen-zheng-de-kuai-le"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2009-05-09T21:57:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-05-09-ming-tian-shi-mu-qin-jie-xie-xie-fu-mu"
 draft: false
 ---

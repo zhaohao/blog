@@ -6,7 +6,7 @@ published: 2021-01-25T06:31:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2021-01-25-shou-ji-ce-su-ji-lu"
 draft: false
 ---

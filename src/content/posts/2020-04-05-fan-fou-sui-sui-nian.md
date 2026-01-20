@@ -6,7 +6,7 @@ published: 2020-04-05T01:05:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2020-04-05-fan-fou-sui-sui-nian"
 draft: false
 ---

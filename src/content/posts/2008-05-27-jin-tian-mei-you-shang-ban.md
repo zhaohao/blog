@@ -6,7 +6,7 @@ published: 2008-05-27T20:43:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-05-27-jin-tian-mei-you-shang-ban"
 draft: false
 ---

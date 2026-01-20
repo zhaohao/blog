@@ -6,7 +6,7 @@ published: 2009-03-01T00:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-03-01-im-a-pc-im-7-years-old"
 draft: false
 ---

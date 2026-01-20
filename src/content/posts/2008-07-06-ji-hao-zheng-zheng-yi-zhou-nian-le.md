@@ -6,7 +6,7 @@ published: 2008-07-06T01:08:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-07-06-ji-hao-zheng-zheng-yi-zhou-nian-le"
 draft: false
 ---

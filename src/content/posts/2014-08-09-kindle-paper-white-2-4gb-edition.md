@@ -6,7 +6,7 @@ published: 2014-08-09T12:01:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-08-09-kindle-paper-white-2-4gb-edition"
 draft: false
 ---

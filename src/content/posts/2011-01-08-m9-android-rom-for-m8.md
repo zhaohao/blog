@@ -6,7 +6,7 @@ published: 2011-01-08T11:24:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-01-08-m9-android-rom-for-m8"
 draft: false
 ---

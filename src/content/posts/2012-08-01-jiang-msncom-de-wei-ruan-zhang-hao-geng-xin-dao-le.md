@@ -6,7 +6,7 @@ published: 2012-08-01T08:19:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2012-08-01-jiang-msncom-de-wei-ruan-zhang-hao-geng-xin-dao-le"
 draft: false
 ---

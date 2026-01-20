@@ -6,7 +6,7 @@ published: 2015-09-28T17:26:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-09-28-yang-guang-yao-yan-tian-qi-wei-re"
 draft: false
 ---

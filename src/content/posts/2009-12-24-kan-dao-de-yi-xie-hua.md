@@ -6,7 +6,7 @@ published: 2009-12-24T17:53:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-12-24-kan-dao-de-yi-xie-hua"
 draft: false
 ---

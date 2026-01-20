@@ -6,7 +6,7 @@ published: 2008-12-08T00:56:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-12-08-zhou-yi-liao-xiu-xi"
 draft: false
 ---

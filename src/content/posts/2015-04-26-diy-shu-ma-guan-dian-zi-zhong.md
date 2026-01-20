@@ -6,7 +6,7 @@ published: 2015-04-26T11:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-04-26-diy-shu-ma-guan-dian-zi-zhong"
 draft: false
 ---

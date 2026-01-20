@@ -6,7 +6,7 @@ published: 2009-03-30T21:44:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-03-30-you-duo-shao-ai-ke-yi-chong-lai"
 draft: false
 ---

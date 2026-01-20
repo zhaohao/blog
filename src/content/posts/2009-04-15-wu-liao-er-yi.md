@@ -6,7 +6,7 @@ published: 2009-04-15T21:57:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-04-15-wu-liao-er-yi"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2008-07-01T23:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-07-01-ni-ke-yi-pian-wo-dan"
 draft: false
 ---

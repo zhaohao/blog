@@ -6,7 +6,7 @@ published: 2007-02-28T16:54:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-02-28-chun-jie-guo-wan-ming-tian-fan-xiao"
 draft: false
 ---

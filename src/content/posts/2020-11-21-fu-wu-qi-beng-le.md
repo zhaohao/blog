@@ -6,7 +6,7 @@ published: 2020-11-21T02:11:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2020-11-21-fu-wu-qi-beng-le"
 draft: false
 ---

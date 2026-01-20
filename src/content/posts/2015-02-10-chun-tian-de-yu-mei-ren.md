@@ -6,7 +6,7 @@ published: 2015-02-10T16:49:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-02-10-chun-tian-de-yu-mei-ren"
 draft: false
 ---

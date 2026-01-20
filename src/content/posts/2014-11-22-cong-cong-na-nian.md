@@ -6,7 +6,7 @@ published: 2014-11-22T16:33:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-11-22-cong-cong-na-nian"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2007-02-26T02:47:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-02-26-zhen-de-hao-xiang-ni"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2009-07-12T21:30:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-07-12-qing-yuan-piao-liu"
 draft: false
 ---

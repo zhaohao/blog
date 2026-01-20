@@ -6,7 +6,7 @@ published: 2007-03-06T11:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-03-06-jie-chu-yu-ming-officelivedomain"
 draft: false
 ---

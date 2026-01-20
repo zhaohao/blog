@@ -6,7 +6,7 @@ published: 2011-01-26T21:04:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-01-26-zhi-yan-pian-yu-er-ling-yi-yi-nian-yi-yue"
 draft: false
 ---

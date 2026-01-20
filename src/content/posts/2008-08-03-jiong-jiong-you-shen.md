@@ -6,7 +6,7 @@ published: 2008-08-03T21:46:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-08-03-jiong-jiong-you-shen"
 draft: false
 ---

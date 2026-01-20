@@ -6,7 +6,7 @@ published: 2007-11-25T01:20:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-11-25-meng-xiang-xu-rong-gai-bian-xian-shi"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2007-11-15T23:20:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-11-15-huang-ran-zhi-jian-bi-ye-xu-jiu"
 draft: false
 ---

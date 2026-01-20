@@ -6,7 +6,7 @@ published: 2008-01-08T08:54:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-01-08-xiang-le-xiang-yi-xie-shi-qing"
 draft: false
 ---

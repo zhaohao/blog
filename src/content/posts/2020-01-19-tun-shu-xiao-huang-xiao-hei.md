@@ -6,7 +6,7 @@ published: 2020-01-19T00:59:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2020-01-19-tun-shu-xiao-huang-xiao-hei"
 draft: false
 ---

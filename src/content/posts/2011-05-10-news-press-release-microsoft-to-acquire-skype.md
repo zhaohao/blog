@@ -6,7 +6,7 @@ published: 2011-05-10T20:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-05-10-news-press-release-microsoft-to-acquire-skype"
 draft: false
 ---

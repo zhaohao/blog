@@ -6,7 +6,7 @@ published: 2007-02-23T00:25:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-02-23-zhuan-yan-jian-yi-jing-chu-liu-le-guo-de-hao-kuai-ye-hao"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2013-11-10T15:07:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2013-11-10-confirmation-of-registrar-transfer-request"
 draft: false
 ---

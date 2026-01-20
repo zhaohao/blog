@@ -6,7 +6,7 @@ published: 2008-06-25T00:47:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-06-25-que-fa-dui-ren-sheng-de-gui-hua"
 draft: false
 ---

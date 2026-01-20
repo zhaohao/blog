@@ -6,7 +6,7 @@ published: 2016-10-17T04:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2016-10-17-nikon-nikkor-afs-50mm"
 draft: false
 ---

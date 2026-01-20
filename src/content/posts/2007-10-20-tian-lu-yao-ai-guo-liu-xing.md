@@ -6,7 +6,7 @@ published: 2007-10-20T18:48:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-10-20-tian-lu-yao-ai-guo-liu-xing"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2017-03-15T03:57:27.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2017-03-15-ultraedit-jekyll-template"
 draft: false
 ---

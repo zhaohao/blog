@@ -6,7 +6,7 @@ published: 2015-02-24T12:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-02-24-start-a-long-journey"
 draft: false
 ---

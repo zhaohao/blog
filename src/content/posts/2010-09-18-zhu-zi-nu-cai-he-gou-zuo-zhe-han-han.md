@@ -6,7 +6,7 @@ published: 2010-09-18T20:32:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2010-09-18-zhu-zi-nu-cai-he-gou-zuo-zhe-han-han"
 draft: false
 ---

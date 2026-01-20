@@ -6,7 +6,7 @@ published: 2008-09-12T00:18:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-09-12-i-shouldi-must"
 draft: false
 ---

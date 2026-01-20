@@ -6,7 +6,7 @@ published: 2016-11-10T16:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2016-11-10-ikbc-poker-keyboard"
 draft: false
 ---

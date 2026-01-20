@@ -6,7 +6,7 @@ published: 2006-09-12T00:07:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2006-09-12-cong-ci-chen-mo-yu-ci"
 draft: false
 ---

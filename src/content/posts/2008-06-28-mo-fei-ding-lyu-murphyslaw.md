@@ -6,7 +6,7 @@ published: 2008-06-28T00:30:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-06-28-mo-fei-ding-lyu-murphyslaw"
 draft: false
 ---

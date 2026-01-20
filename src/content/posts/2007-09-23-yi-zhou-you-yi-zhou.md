@@ -6,7 +6,7 @@ published: 2007-09-23T23:06:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-09-23-yi-zhou-you-yi-zhou"
 draft: false
 ---

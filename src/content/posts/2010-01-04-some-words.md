@@ -6,7 +6,7 @@ published: 2010-01-04T16:05:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2010-01-04-some-words"
 draft: false
 ---

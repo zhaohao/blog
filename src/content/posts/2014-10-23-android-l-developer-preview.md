@@ -6,7 +6,7 @@ published: 2014-10-23T16:00:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-10-23-android-l-developer-preview"
 draft: false
 ---

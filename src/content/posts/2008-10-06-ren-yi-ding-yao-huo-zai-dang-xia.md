@@ -6,7 +6,7 @@ published: 2008-10-06T00:28:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-10-06-ren-yi-ding-yao-huo-zai-dang-xia"
 draft: false
 ---

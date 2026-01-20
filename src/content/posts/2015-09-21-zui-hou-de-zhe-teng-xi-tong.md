@@ -6,7 +6,7 @@ published: 2015-09-21T01:37:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-09-21-zui-hou-de-zhe-teng-xi-tong"
 draft: false
 ---

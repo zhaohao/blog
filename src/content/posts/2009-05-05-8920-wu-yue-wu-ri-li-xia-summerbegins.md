@@ -6,7 +6,7 @@ published: 2009-05-05T23:36:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-05-05-8920-wu-yue-wu-ri-li-xia-summerbegins"
 draft: false
 ---

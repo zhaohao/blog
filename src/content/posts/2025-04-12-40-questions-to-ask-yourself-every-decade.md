@@ -6,7 +6,7 @@ published: 2025-04-12T00:55:09.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2025-04-12-40-questions-to-ask-yourself-every-decade"
 draft: false
 ---

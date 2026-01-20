@@ -6,7 +6,7 @@ published: 2008-12-02T20:55:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-12-02-fan-fan-fan-fan-fan-fan-fan-fan-fan-fan-fan-fan-fan-fan-fan"
 draft: false
 ---

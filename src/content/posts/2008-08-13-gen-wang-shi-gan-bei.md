@@ -6,7 +6,7 @@ published: 2008-08-13T23:51:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-08-13-gen-wang-shi-gan-bei"
 draft: false
 ---

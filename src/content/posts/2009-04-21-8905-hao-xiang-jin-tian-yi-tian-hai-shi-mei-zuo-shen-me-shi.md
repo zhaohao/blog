@@ -6,7 +6,7 @@ published: 2009-04-21T23:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-04-21-8905-hao-xiang-jin-tian-yi-tian-hai-shi-mei-zuo-shen-me-shi"
 draft: false
 ---

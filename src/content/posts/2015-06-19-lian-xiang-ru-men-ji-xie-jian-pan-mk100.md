@@ -6,7 +6,7 @@ published: 2015-06-19T22:45:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-06-19-lian-xiang-ru-men-ji-xie-jian-pan-mk100"
 draft: false
 ---

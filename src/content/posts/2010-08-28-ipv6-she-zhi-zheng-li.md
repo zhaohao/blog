@@ -6,7 +6,7 @@ published: 2010-08-28T12:47:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2010-08-28-ipv6-she-zhi-zheng-li"
 draft: false
 ---

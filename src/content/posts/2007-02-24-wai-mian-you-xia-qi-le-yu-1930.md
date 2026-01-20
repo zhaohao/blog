@@ -6,7 +6,7 @@ published: 2007-02-24T19:45:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-02-24-wai-mian-you-xia-qi-le-yu-1930"
 draft: false
 ---

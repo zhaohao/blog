@@ -6,7 +6,7 @@ published: 2010-04-29T11:25:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2010-04-29-you-xie-mi-wang-you-xie-lei-liao-dang-chu-de-meng-xiang-jiu"
 draft: false
 ---

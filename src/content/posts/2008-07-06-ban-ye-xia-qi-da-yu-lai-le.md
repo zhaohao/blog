@@ -6,7 +6,7 @@ published: 2008-07-06T02:54:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-07-06-ban-ye-xia-qi-da-yu-lai-le"
 draft: false
 ---

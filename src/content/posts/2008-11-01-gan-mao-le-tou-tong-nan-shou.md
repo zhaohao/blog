@@ -6,7 +6,7 @@ published: 2008-11-01T01:38:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-11-01-gan-mao-le-tou-tong-nan-shou"
 draft: false
 ---

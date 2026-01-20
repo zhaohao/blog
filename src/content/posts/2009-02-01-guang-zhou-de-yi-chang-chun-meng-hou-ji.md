@@ -6,7 +6,7 @@ published: 2009-02-01T21:29:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-02-01-guang-zhou-de-yi-chang-chun-meng-hou-ji"
 draft: false
 ---

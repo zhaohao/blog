@@ -6,7 +6,7 @@ published: 2019-12-29T08:11:40.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2019-12-29-jie-jue-hao-ma-bei-biao-ji"
 draft: false
 ---

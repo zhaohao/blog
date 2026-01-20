@@ -6,7 +6,7 @@ published: 2009-02-17T00:12:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-02-17-tu-ran-hen-po-qie-de-xiang-zhao-dian-qi-ta-shi-zuo"
 draft: false
 ---

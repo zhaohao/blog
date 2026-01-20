@@ -6,7 +6,7 @@ published: 2007-05-26T01:04:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-05-26-chen-ai-luo-ding"
 draft: false
 ---

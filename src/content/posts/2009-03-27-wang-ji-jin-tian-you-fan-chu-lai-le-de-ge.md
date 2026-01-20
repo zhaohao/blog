@@ -6,7 +6,7 @@ published: 2009-03-27T19:22:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-03-27-wang-ji-jin-tian-you-fan-chu-lai-le-de-ge"
 draft: false
 ---

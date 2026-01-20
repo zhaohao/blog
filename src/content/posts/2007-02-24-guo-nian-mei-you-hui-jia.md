@@ -6,7 +6,7 @@ published: 2007-02-24T22:53:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-02-24-guo-nian-mei-you-hui-jia"
 draft: false
 ---

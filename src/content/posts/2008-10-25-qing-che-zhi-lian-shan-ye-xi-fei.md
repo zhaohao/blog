@@ -6,7 +6,7 @@ published: 2008-10-25T22:05:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-10-25-qing-che-zhi-lian-shan-ye-xi-fei"
 draft: false
 ---

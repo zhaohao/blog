@@ -6,7 +6,7 @@ published: 2011-02-28T23:55:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-02-28-zai-hx-zui-hou-yi-ge-gong-zuo-ri"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2014-09-05T22:04:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-09-05-ruo-yi-jin-tian-you-fa-shao-le"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2006-10-10T15:15:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2006-10-10-to-runi-runi-run-to-stopi-stop-to-run"
 draft: false
 ---

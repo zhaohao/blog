@@ -6,7 +6,7 @@ published: 2014-03-05T15:05:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-03-05-say-goodbye-to-yesterday"
 draft: false
 ---

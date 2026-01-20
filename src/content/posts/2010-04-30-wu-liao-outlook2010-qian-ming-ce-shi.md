@@ -6,7 +6,7 @@ published: 2010-04-30T17:45:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2010-04-30-wu-liao-outlook2010-qian-ming-ce-shi"
 draft: false
 ---

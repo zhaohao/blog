@@ -6,7 +6,7 @@ published: 2009-02-24T10:28:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-02-24-ri-zhi-wo-shi-shui-yi-ge-xiao-ce-shi-bu-kao-pu"
 draft: false
 ---

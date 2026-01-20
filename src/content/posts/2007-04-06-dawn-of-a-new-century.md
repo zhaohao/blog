@@ -6,7 +6,7 @@ published: 2007-04-06T14:34:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2007-04-06-dawn-of-a-new-century"
 draft: false
 ---

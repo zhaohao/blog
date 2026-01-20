@@ -6,7 +6,7 @@ published: 2025-04-20T16:44:18.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2025-04-20-summer-is-coming"
 draft: false
 ---

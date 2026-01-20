@@ -6,7 +6,7 @@ published: 2008-05-30T12:51:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-05-30-xia-yu-de-shi-hou-kong-bai"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2011-03-22T11:57:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-03-22-wai-mian-wu-wu-de-feng-sheng"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2015-01-21T16:48:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-01-21-misfortunes-never-come-singly"
 draft: false
 ---

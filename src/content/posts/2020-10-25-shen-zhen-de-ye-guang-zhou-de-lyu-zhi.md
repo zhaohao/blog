@@ -6,7 +6,7 @@ published: 2020-10-25T15:44:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2020-10-25-shen-zhen-de-ye-guang-zhou-de-lyu-zhi"
 draft: false
 ---

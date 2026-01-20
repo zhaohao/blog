@@ -6,7 +6,7 @@ published: 2016-01-25T20:21:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2016-01-25-qu-xiao-le-duan-hao-ji-qun-wang"
 draft: false
 ---

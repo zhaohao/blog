@@ -6,7 +6,7 @@ published: 2010-10-23T20:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2010-10-23-windows-7-mklink"
 draft: false
 ---

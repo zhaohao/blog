@@ -6,7 +6,7 @@ published: 2008-08-31T21:17:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-08-31-wu-zi-shu-nian-ba-yue-chu-yi"
 draft: false
 ---

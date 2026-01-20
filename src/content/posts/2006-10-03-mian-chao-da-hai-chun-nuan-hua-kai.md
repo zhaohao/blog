@@ -6,7 +6,7 @@ published: 2006-10-03T23:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2006-10-03-mian-chao-da-hai-chun-nuan-hua-kai"
 draft: false
 ---

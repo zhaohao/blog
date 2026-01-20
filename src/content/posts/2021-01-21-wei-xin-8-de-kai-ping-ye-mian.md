@@ -6,7 +6,7 @@ published: 2021-01-21T06:26:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2021-01-21-wei-xin-8-de-kai-ping-ye-mian"
 draft: false
 ---

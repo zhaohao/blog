@@ -6,7 +6,7 @@ published: 2024-04-26T04:51:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2024-04-26-start-write-weblog-2024"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2025-02-07T16:57:46.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2025-02-07-yi-zao-qu-ji-chang"
 draft: false
 ---

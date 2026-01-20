@@ -6,7 +6,7 @@ published: 2013-12-14T04:09:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2013-12-14-lux-guang-zhao-du"
 draft: false
 ---

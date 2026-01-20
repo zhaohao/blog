@@ -6,7 +6,7 @@ published: 2006-03-06T18:50:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2006-03-06-windows-live-messager-8-0"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2009-04-22T23:26:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-04-22-8907qq-you-xiang-yi-you-duo-ming-you-xiang"
 draft: false
 ---

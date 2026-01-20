@@ -6,7 +6,7 @@ published: 2021-01-23T06:29:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2021-01-23-xin-guan-bing-du-li-ti-shi-yi-tu"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2020-11-28T02:35:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2020-11-28-lian-xiang-500-dian-nao-she-xiang-tou"
 draft: false
 ---

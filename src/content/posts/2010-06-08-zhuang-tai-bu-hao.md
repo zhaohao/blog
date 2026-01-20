@@ -6,7 +6,7 @@ published: 2010-06-08T14:28:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2010-06-08-zhuang-tai-bu-hao"
 draft: false
 ---

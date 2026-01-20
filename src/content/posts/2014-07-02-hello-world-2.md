@@ -6,7 +6,7 @@ published: 2014-07-02T15:17:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-07-02-hello-world-2"
 draft: false
 ---

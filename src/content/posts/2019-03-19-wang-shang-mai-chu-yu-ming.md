@@ -6,7 +6,7 @@ published: 2019-03-19T00:46:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2019-03-19-wang-shang-mai-chu-yu-ming"
 draft: false
 ---

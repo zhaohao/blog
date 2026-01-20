@@ -6,7 +6,7 @@ published: 2014-11-07T16:23:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2014-11-07-wu-suo-bu-yong-qi-ji"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2009-04-30T00:53:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-04-30-8915-shen-me-ne-bu-zhi-dao-shi-jian-cong-cong"
 draft: false
 ---

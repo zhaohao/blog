@@ -6,7 +6,7 @@ published: 2024-05-19T03:15:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2024-05-19-new-hamster-of-zoe"
 draft: false
 ---

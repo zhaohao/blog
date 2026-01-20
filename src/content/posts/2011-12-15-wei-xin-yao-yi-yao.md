@@ -6,7 +6,7 @@ published: 2011-12-15T22:06:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-12-15-wei-xin-yao-yi-yao"
 draft: false
 ---

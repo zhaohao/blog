@@ -6,7 +6,7 @@ published: 2011-01-01T23:13:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-01-01-zhe-yi-tian-jiu-zhe-yang-jing-jing-de-guo-qu-le-20110101"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2009-03-13T23:51:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-03-13-yi-zhou-hen-kuai-guo-qu-bian-dong-ting-duo-xin-li-hen-kong"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2009-05-03T22:22:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2009-05-03-jia-qi-guo-wan-le"
 draft: false
 ---

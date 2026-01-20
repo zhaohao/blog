@@ -6,7 +6,7 @@ published: 2015-09-18T10:11:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2015-09-18-kindle-shu-ban-shi-tou-ji"
 draft: false
 ---

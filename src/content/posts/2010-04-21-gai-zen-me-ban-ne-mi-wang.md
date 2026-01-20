@@ -6,7 +6,7 @@ published: 2010-04-21T17:10:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2010-04-21-gai-zen-me-ban-ne-mi-wang"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2011-05-23T12:55:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-05-23-google-zai-tian-chao-bei-gfw-zhe-teng-de-yan-yan-yi-xi"
 draft: false
 ---

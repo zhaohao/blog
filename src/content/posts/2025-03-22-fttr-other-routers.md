@@ -6,7 +6,7 @@ published: 2025-03-22T06:21:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Memos"]
+category: ["Memos"]
 slug: "2025-03-22-fttr-other-routers"
 draft: false
 ---

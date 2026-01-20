@@ -6,7 +6,7 @@ published: 2011-12-04T21:51:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-12-04-yang-guang-an-dan-le-xia-qu-shao-wei-shou-shi-le-yi-xia-wu"
 draft: false
 ---

@@ -6,7 +6,7 @@ published: 2008-07-31T22:32:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-07-31-the-last-day-of-july"
 draft: false
 ---

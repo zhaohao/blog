@@ -6,7 +6,7 @@ published: 2011-05-19T12:44:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2011-05-19-gui-mi-xin-qiao"
 draft: false
 ---

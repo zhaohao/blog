@@ -6,7 +6,7 @@ published: 2008-11-23T22:02:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-11-23-ju-ci-lang-xia"
 draft: false
 ---

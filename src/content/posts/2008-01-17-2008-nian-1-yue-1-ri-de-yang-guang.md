@@ -6,7 +6,7 @@ published: 2008-01-17T19:44:00.000Z
 description: ""
 author: "stardust"
 tags: []
-categories: ["Default"]
+category: ["Default"]
 slug: "2008-01-17-2008-nian-1-yue-1-ri-de-yang-guang"
 draft: false
 ---
