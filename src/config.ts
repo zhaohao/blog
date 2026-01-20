@@ -46,7 +46,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.About,
 		{
 			name: "Zmemos",
-			url: "https://memos.zlog.net", // Internal links should not include the base path, as it is automatically added
+			url: "https://zme.life", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
