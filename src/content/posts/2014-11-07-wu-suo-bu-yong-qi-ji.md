@@ -10,7 +10,7 @@ category: "Default"
 slug: "2014-11-07-wu-suo-bu-yong-qi-ji"
 draft: false
 ---
-![gate](/images/gate.jpg)  
+![gate](/images/2014/2014-11-08-63811f12.jpg)  
   
 外面的世界很精彩，这里的世界很无奈……  
   

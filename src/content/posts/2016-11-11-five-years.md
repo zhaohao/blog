@@ -12,6 +12,6 @@ draft: false
 ---
 20111111-20161111结婚五周年纪念日。  
 ……  
-![2016-11-11-the-fifth-wedding-anniversary](/images/2016-11-11-the-fifth-wedding-anniversary-citizen.jpg) ![2016-11-11-the-fifth-wedding-anniversary](/images/2016-11-11-the-fifth-wedding-anniversary-citizen-02.jpg) ![20111111-20161111](/images/2016-11-11-20161111.jpg)
+![2016-11-11-the-fifth-wedding-anniversary](/images/2016/2016-11-11-f54eefd2.jpg) ![2016-11-11-the-fifth-wedding-anniversary](/images/2016/2016-11-11-b09ebfec.jpg) ![20111111-20161111](/images/2016/2016-11-11-6bf67318.jpg)
 
 Friday, November 11, 2016

@@ -10,4 +10,4 @@ category: "Memos"
 slug: "2020-12-25-sheng-dan-tang-guo"
 draft: false
 ---
-![](/images/2020-12-26-fanfou-wordpress.jpg)
+![](/images/2020/2020-12-25-273d2630.jpg)

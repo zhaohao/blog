@@ -14,4 +14,4 @@ draft: false
 
 今天又是阳光明媚，清凉的天气又即将远离。
 
-![](/images/2021-01-13-fanfou-wordpress.jpg)
+![](/images/2021/2021-01-13-92f1cffd.jpg)

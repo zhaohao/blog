@@ -12,4 +12,4 @@ draft: false
 ---
 从 2008 年换号码到现在了。
 
-![](/images/2021-01-03-fanfou-wordpress.jpg)
+![](/images/2021/2021-01-03-3e21cdce.jpg)

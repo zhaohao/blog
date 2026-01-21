@@ -10,6 +10,6 @@ category: "Default"
 slug: "2009-04-30-8915-shen-me-ne-bu-zhi-dao-shi-jian-cong-cong"
 draft: false
 ---
-![](/images/medium2009-705582.jpg)
+![](/images/2009/2009-04-30-96138b95.jpg)
 
 stardust@live.com

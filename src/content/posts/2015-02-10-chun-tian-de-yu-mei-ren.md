@@ -10,6 +10,6 @@ category: "Default"
 slug: "2015-02-10-chun-tian-de-yu-mei-ren"
 draft: false
 ---
-![IMG_20150209_140845PN](/images/IMG_20150209_140845PN.jpg)
+![IMG_20150209_140845PN](/images/2015/2015-02-11-74896c15.jpg)
 
 stardust@live.com

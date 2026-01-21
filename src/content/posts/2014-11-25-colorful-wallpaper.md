@@ -11,6 +11,6 @@ slug: "2014-11-25-colorful-wallpaper"
 draft: false
 ---
 Colorful Wallpaper  
-![colorfull-1920](/images/colorfull-1920.jpg)
+![colorfull-1920](/images/2014/2014-11-26-48c51405.jpg)
 
 stardust@live.com

@@ -10,7 +10,7 @@ category: "Default"
 slug: "2014-08-11-starry-night"
 draft: false
 ---
-![StarryNight](/images/StarryNight-1080.jpg)  
+![StarryNight](/images/2014/2014-08-12-ffe99e87.jpg)  
   
 Starry Night
 

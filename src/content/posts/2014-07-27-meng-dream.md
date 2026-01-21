@@ -22,6 +22,6 @@ draft: false
   
 恍然若隔世……  
   
-![loopdool-bg.jpg](/images/loopdool-bg.jpg)
+![loopdool-bg.jpg](/images/2014/2014-07-27-ea92fc13.jpg)
 
 stardust@live.com

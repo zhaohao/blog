@@ -11,8 +11,8 @@ slug: "2014-11-30-header-background-gif-images"
 draft: false
 ---
 ▼ Rain.  
-![rain](/images/rain.gif)  
+![rain](/images/2014/2014-12-01-73a1518c.gif)  
 ▼ Sea.  
-![sea](/images/sea.gif)
+![sea](/images/2014/2014-12-01-3e24432d.gif)
 
 stardust@live.com

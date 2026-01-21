@@ -10,4 +10,4 @@ category: "Default"
 slug: "2016-10-23-clean-the-keyboard"
 draft: false
 ---
-给键盘清一下灰。 ![MK100](/images/2016-10-23-clean-the-keyboard.jpg) ![MK100](/images/2016-10-23-clean-the-keyboard-01.jpg) ![MK100](/images/2016-10-23-clean-the-keyboard-02.jpg) ![MK100](/images/2016-10-23-clean-the-keyboard-03.jpg) Sunday, October 23, 2016
+给键盘清一下灰。 ![MK100](/images/2016/2016-10-23-c9aad693.jpg) ![MK100](/images/2016/2016-10-23-2344a792.jpg) ![MK100](/images/2016/2016-10-23-5698b6ae.jpg) ![MK100](/images/2016/2016-10-23-eb457dad.jpg) Sunday, October 23, 2016

@@ -16,7 +16,7 @@ draft: false
   
 挺喜欢live wave2界面在IE6下的显示效果，极度不喜欢其在IE7下的外观，给个Live Mesh在IE6下的截图：  
   
-![LIVEMESH20080730-707122](/images/LIVEMESH20080730-707122.png)  
+![LIVEMESH20080730-707122](/images/2008/2008-07-30-66f5fb9e.png)  
   
 Posted on 2008-07-30 09:18
 

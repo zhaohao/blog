@@ -16,6 +16,6 @@ draft: false
 更接近美丽的月亮一点，  
 我只好坚强的假装这样比较快乐比较棒,  
 风吹过好冷，屁股很痛，尿好急~  
-![qiaoqiaoban](/images/qiaoqiaoban.jpg)
+![qiaoqiaoban](/images/2007/2007-03-17-a4c92cf3.jpg)
 
 stardust@live.com

@@ -12,6 +12,6 @@ draft: false
 ---
 我看见你、我看见你看见的……
 
-![](/images/2021-01-21-fanfou-wordpress.jpg)
+![](/images/2021/2021-01-21-26d10f6b.jpg)
 
-![](/images/2021-01-21-fanfou2-wordpress.jpg)
+![](/images/2021/2021-01-21-6c2ed0fe.jpg)

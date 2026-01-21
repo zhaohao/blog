@@ -10,7 +10,7 @@ category: "Default"
 slug: "2008-12-13-wallpaper-qq"
 draft: false
 ---
-![wallpaper-qq-vip-200812](/images/wallpaper-qq-vip-200812.jpg)  
+![wallpaper-qq-vip-200812](/images/2008/2008-12-13-7039797f.jpg)  
 Posted on 2008-12-13 14:07
 
 stardust@live.com

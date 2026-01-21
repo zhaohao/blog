@@ -11,6 +11,6 @@ slug: "2011-12-13-wan-an-hao-meng"
 draft: false
 ---
 晚安，好梦！  
-![tumblr_lw5dn16nw21qktd12o1_400](/images/tumblr_lw5dn16nw21qktd12o1_400.jpg)
+![tumblr_lw5dn16nw21qktd12o1_400](/images/2011/2011-12-14-7b6989ee.jpg)
 
 stardust@live.com

@@ -10,7 +10,7 @@ category: "Default"
 slug: "2010-12-13-new-facebook-mail"
 draft: false
 ---
-![](/images/FBmail-746507.png)  
+![](/images/2010/2010-12-14-0f562207.png)  
   
 
 stardust@live.com

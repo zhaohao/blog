@@ -12,9 +12,9 @@ draft: false
 ---
 Green bamboo leaves  
   
-![tumblr_m32rtlhscy1qktd12o1_1280](/images/tumblr_m32rtlhscy1qktd12o1_1280.jpg)  
+![tumblr_m32rtlhscy1qktd12o1_1280](/images/2012/2012-04-27-9f8faa2d.jpg)  
   
-![tumblr_m32rtlhscy1qktd12o2_1280](/images/tumblr_m32rtlhscy1qktd12o2_1280.jpg)  
+![tumblr_m32rtlhscy1qktd12o2_1280](/images/2012/2012-04-27-2337f8ce.jpg)  
   
 Posted on 2012-04-27 15:20
 

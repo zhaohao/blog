@@ -19,6 +19,6 @@ draft: false
   
 Queen乐队的We are the champions，歌曲循环播放。  
   
-![Queen](/images/Queen.jpg)
+![Queen](/images/2014/2014-10-07-38a08853.jpg)
 
 stardust@live.com

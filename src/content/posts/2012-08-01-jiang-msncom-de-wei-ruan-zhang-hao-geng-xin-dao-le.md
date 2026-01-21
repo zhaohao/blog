@@ -12,7 +12,7 @@ draft: false
 ---
 将@msn.com的微软账号更新到了@outlook.com  
   
-![MSOutlookAccount-759287](/images/MSOutlookAccount-759287.png)  
+![MSOutlookAccount-759287](/images/2012/2012-08-01-c7243265.png)  
   
 Posted on 2012-08-01 08:19
 

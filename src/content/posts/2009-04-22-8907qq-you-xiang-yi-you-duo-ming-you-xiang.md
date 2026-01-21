@@ -16,7 +16,7 @@ draft: false
   
 不过基本上都是放在那里不用的。  
   
-![allmail](/images/allmail.png)  
+![allmail](/images/2009/2009-04-23-5c6c166d.png)  
 ALLMAIL  
   
 Posted on 2009-04-22 23:26

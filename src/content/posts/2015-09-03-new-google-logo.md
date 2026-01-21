@@ -12,6 +12,6 @@ draft: false
 ---
 二〇一五年九月,Google启用了无衬线字体的Logo，更加扁平化、年轻化。  
   
-![Google_New_Logo](/images/Google_New_Logo.gif)
+![Google_New_Logo](/images/2015/2015-09-03-3e01211e.gif)
 
 stardust@live.com

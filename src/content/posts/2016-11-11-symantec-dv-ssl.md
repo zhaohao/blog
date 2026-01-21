@@ -10,7 +10,7 @@ category: "Default"
 slug: "2016-11-11-symantec-dv-ssl"
 draft: false
 ---
-![20111111-20161111](/images/2016-11-12-symantec-dv-ssl.jpg)
+![20111111-20161111](/images/2016/2016-11-12-6ae8b91e.jpg)
 
 经过了StartSSL风波，最近一直使用acme.sh签署Let's Encrypt的ECC证书。  
 今天偶然发现通过阿里云可以免费签署赛门铁克VeriSign的DV域名验证级别的一年期证书，马上尝试了下。

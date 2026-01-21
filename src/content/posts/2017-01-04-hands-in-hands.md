@@ -10,4 +10,4 @@ category: "Default"
 slug: "2017-01-04-hands-in-hands"
 draft: false
 ---
-![Big hands holding small hands](/images/2017-01-04-hands-in-hands.jpg) 大手握小手
+![Big hands holding small hands](/images/2017/2017-01-04-1a39d940.jpg) 大手握小手

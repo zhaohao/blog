@@ -12,10 +12,10 @@ draft: false
 ---
 改了份Visual Studio Code的主题配色。
 
-![](/images/2020-12-01-fanfou4-wordpress.jpg)
+![](/images/2020/2020-12-01-645013c3.jpg)
 
-![](/images/2020-12-01-fanfou2-wordpress.jpg)
+![](/images/2020/2020-12-01-74bbc6a1.jpg)
 
 来份更浅色的Atom配色。
 
-![](/images/2020-12-01-fanfou3-wordpress.jpg)
+![](/images/2020/2020-12-01-b13b680c.jpg)

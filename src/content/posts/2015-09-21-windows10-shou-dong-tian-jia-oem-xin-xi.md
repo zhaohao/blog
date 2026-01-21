@@ -10,7 +10,7 @@ category: "Default"
 slug: "2015-09-21-windows10-shou-dong-tian-jia-oem-xin-xi"
 draft: false
 ---
-![oemlogo256px](/images/oemlogo256px.png)  
+![oemlogo256px](/images/2015/2015-09-21-7b5b94f3.png)  
   
 
 ```
@@ -19,6 +19,6 @@ draft: false
 
   
   
-![2015-09-21-sysinfo](/images/2015-09-21-sysinfo.png)
+![2015-09-21-sysinfo](/images/2015/2015-09-21-f79d0490.png)
 
 stardust@live.com

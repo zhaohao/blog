@@ -10,6 +10,6 @@ category: "Default"
 slug: "2009-02-09-2009-nian-yuan-xiao-jie"
 draft: false
 ---
-![](/images/CCTV20090209-721913.jpg)
+![](/images/2009/2009-02-10-6a6282a5.jpg)
 
 stardust@live.com

@@ -13,6 +13,6 @@ draft: false
 屋漏偏逢连夜雨 船迟又遇打头风  
 漏的是屋 迟的是船  
 又怎怪 雨雨风风  
-![cloudy](/images/cloudy.jpg)
+![cloudy](/images/2015/2015-01-22-3b42054d.jpg)
 
 stardust@live.com
