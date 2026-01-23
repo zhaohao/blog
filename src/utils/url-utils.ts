@@ -40,6 +40,5 @@ export function getDir(path: string): string {
 }
 
 export function url(path: string) {
-    const fullPath = joinUrl("", import.meta.env.BASE_URL, path);
-    return fullPath.length > 1 ? fullPath.replace(/\/$/, "") : fullPath;
+	return joinUrl("", import.meta.env.BASE_URL, path);
 }
