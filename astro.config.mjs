@@ -28,7 +28,7 @@ import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-cop
 export default defineConfig({
 	site: "https://stardust.hk/",
 	base: "/",
-	trailingSlash: "never",
+	trailingSlash: "always",
 	integrations: [
 		tailwind({
 			nesting: true,
