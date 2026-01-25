@@ -6,7 +6,7 @@ published: 2026-01-25T10:30:29.000Z
 description: "2026年第4周随记，继续运动，小溪音乐会，使用配置Astro站点。"
 image: "/images/2026/2026-01-25-12342723.jpg"
 author: "stardust"
-tags: ["Pictures"]
+tags: ["Pictures","xiaoxi","running"]
 category: "Default"
 slug: "2026-01-25-di-4-zhou-sui-ji"
 draft: false
@@ -33,9 +33,6 @@ draft: false
 ![](/images/2026/2026-01-25-123900243.jpg) 
    
 ## 小溪图片2026-01-25-02
-![](/images/2026/2026-01-25-12342723.jpg) 
-   
-## 小溪图片2026-01-25-03
 ![](/images/2026/2026-01-25-124143475.jpg)   
 
 ----------
