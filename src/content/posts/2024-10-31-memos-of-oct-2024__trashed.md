@@ -194,7 +194,7 @@ Access to fetch at 'https://memos.zlog.net/u/zhao/rss.xml' from origin 'https://
 
 在源站自己使用的是Caddy服务，配置中设置头信息实现跨域【解决方案[来源](https://www.flysnow.org/)】。在memos服务的反代中设置头信息，测试结果OK。
 
-```caddyfile
+```txt
  memos.zlog.net memo.zlog.net {
 
     reverse_proxy localhost:5230 {  
