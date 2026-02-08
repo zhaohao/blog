@@ -5,7 +5,7 @@ pubDatetime: 2024-09-29T19:40:01.000Z
 published: 2024-09-29T19:40:01.000Z
 description: ""
 author: "stardust"
-tags: ["hardware"]
+tags: ["Hardware"]
 category: "Default"
 slug: "2024-09-29-mobile-numbers-cmcc-cucc"
 draft: false

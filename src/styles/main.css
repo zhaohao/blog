@@ -153,6 +153,7 @@
 
 .w-profile-image {
     width: 8rem;
+    border-radius: 12px;
 }
 
 .custom-md spoiler {

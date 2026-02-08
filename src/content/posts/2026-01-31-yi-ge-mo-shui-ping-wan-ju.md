@@ -6,7 +6,7 @@ published: 2026-01-31T12:30:31.000Z
 description: "双色红黑墨水屏的小日历，也可以显示图片，特别的风格。"
 image: "/images/2026/2026-01-31-202128559.jpg"
 author: "stardust"
-tags: ["Pictures","xiaoxi","running"]
+tags: ["Pictures","Hardware","小溪","running"]
 category: "Default"
 slug: "2026-01-31-yi-ge-mo-shui-ping-wan-ju"
 draft: false

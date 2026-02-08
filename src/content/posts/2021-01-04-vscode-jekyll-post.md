@@ -5,7 +5,7 @@ pubDatetime: 2021-01-04T03:53:00.000Z
 published: 2021-01-04T03:53:00.000Z
 description: ""
 author: "stardust"
-tags: ["ai"]
+tags: ["Jekyll"]
 category: "Default"
 slug: "2021-01-04-vscode-jekyll-post"
 draft: false
