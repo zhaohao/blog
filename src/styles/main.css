@@ -147,7 +147,7 @@
  .tk-comments {
     background: var(--card-bg);
     padding: 20px;
-    border-radius: 1rem;
+    border-radius: 0rem;
     margin-bottom: 30px;
 }
 
